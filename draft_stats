@@ -1,0 +1,3352 @@
+Overall|Team|player|seasons|GP|G|A|TP|PIM|player_id
+#1|Pittsburgh Penguins|Marc-André Fleury (G)|14|738|-|-|-|-|3655
+#2|Carolina Hurricanes|Eric Staal (F)|14|1093|395|527|922|756|3656
+#3|Florida Panthers|Nathan Horton (F)|14|627|203|218|421|567|3657
+#4|Columbus Blue Jackets|Nikolai Zherdev (F)|6|421|115|146|261|225|8620
+#5|Buffalo Sabres|Thomas Vanek (F)|13|965|357|396|753|521|8493
+#6|San Jose Sharks|Milan Michálek (F)|13|747|208|238|446|394|8586
+#7|Nashville Predators|Ryan Suter (D)|13|991|75|418|493|602|8897
+#8|Atlanta Thrashers|Braydon Coburn (D)|13|850|44|161|205|656|9477
+#9|Calgary Flames|Dion Phaneuf (D)|13|981|136|352|488|1292|8564
+#10|Montréal Canadiens|Andrei Kostitsyn (F)|7|398|103|119|222|181|6666
+#11|Philadelphia Flyers|Jeff Carter (F)|13|904|352|320|672|455|8813
+#12|New York Rangers|Hugh Jessiman (F)|1|2|0|0|0|5|11748
+#13|Los Angeles Kings|Dustin Brown (F)|14|1045|260|307|567|654|9099
+#14|Chicago Blackhawks|Brent Seabrook (D)|13|1004|95|337|432|612|8879
+#15|New York Islanders|Robert Nilsson (F)|5|252|37|81|118|90|352
+#16|San Jose Sharks|Steve Bernier (F)|12|637|105|125|230|300|9080
+#17|New Jersey Devils|Zach Parise (F)|13|872|333|352|685|344|8903
+#18|Washington Capitals|Eric Fehr (F)|13|580|106|100|206|187|10352
+#19|Mighty Ducks of Anaheim|Ryan Getzlaf (F)|13|917|247|628|875|772|8526
+#20|Minnesota Wild|Brent Burns (D)|14|961|182|384|566|617|9103
+#21|Boston Bruins|Mark Stuart (D)|12|673|26|67|93|722|9401
+#22|Edmonton Oilers|Marc-Antoine Pouliot (F)|7|192|21|36|57|76|8919
+#23|Vancouver Canucks|Ryan Kesler (F)|14|941|253|312|565|876|9014
+#24|Philadelphia Flyers|Mike Richards (F)|11|749|181|306|487|585|8816
+#25|Florida Panthers|Anthony Stewart (F)|6|262|27|44|71|123|8893
+#26|Los Angeles Kings|Brian Boyle (F)|11|693|106|86|192|533|11429
+#27|Los Angeles Kings|Jeff Tambellini (F)|6|242|27|36|63|88|9509
+#28|Mighty Ducks of Anaheim|Corey Perry (F)|13|957|366|400|766|1083|8541
+#29|Ottawa Senators|Patrick Eaves (F)|13|626|132|110|242|206|9144
+#30|St. Louis Blues|Shawn Belle (D)|3|20|0|1|1|2|9470
+#31|Carolina Hurricanes|Danny Richmond (D)|3|49|0|3|3|75|9441
+#32|Pittsburgh Penguins|Ryan Stone (F)|3|35|0|7|7|55|11536
+#33|Dallas Stars|Loui Eriksson (F)|12|838|233|318|551|158|683
+#34|Tampa Bay Lightning|Mike Egener (D)|||||||9464
+#35|Nashville Predators|Konstantin Glazachev (F)|||||||12239
+#36|Dallas Stars|Vojtech Polak (F)|2|5|0|0|0|0|9615
+#37|Nashville Predators|Kevin Klein (D)|12|627|38|116|154|185|9507
+#38|Florida Panthers|Kamil Kreps (F)|4|232|18|42|60|71|9612
+#39|Calgary Flames|Tim Ramholt (D)|1|1|0|0|0|0|9652
+#40|Montréal Canadiens|Cory Urquhart (F)|||||||11720
+#41|Tampa Bay Lightning|Matt Smaby (D)|4|122|0|6|6|106|12027
+#42|New Jersey Devils|Petr Vrana (F)|1|16|1|0|1|2|9633
+#43|San Jose Sharks|Josh Hennessy (F)|5|23|1|0|1|6|10420
+#44|Los Angeles Kings|Konstantin Pushkaryov (F)|2|17|2|3|5|8|9657
+#45|Boston Bruins|Patrice Bergeron (F)|14|963|289|445|734|366|9079
+#46|Columbus Blue Jackets|Dan Fritsche (F)|5|256|34|42|76|103|9434
+#47|San Jose Sharks|Matt Carle (D)|12|730|45|238|283|251|9108
+#48|New York Islanders|Dmitri Chernykh (F)|||||||19732
+#49|Nashville Predators|Shea Weber (D)|13|867|189|312|501|620|9505
+#50|New York Rangers|Ivan Baranka (D)|1|1|0|1|1|0|9654
+#51|Edmonton Oilers|Colin McDonald (F)|7|148|20|26|46|73|13411
+#52|Chicago Blackhawks|Corey Crawford (G)|12|409|-|-|-|-|11347
+#53|New York Islanders|Yevgeni Tunik (F)|||||||9579
+#54|Dallas Stars|B.J. Crombeen (F)|8|445|34|46|80|850|9149
+#55|Florida Panthers|Stefan Meyer (F)|2|20|0|2|2|17|14086
+#56|Minnesota Wild|Patrick O'Sullivan (F)|6|334|58|103|161|116|7914
+#57|Toronto Maple Leafs|John Doherty (D)|||||||38695
+#58|New York Islanders|Jeremy Colliton (F)|5|57|3|3|6|26|9466
+#59|Chicago Blackhawks|Michal Barinka (D)|2|34|0|2|2|26|9611
+#60|Vancouver Canucks|Marc-André Bernier (F)|||||||11506
+#61|Montréal Canadiens|Maxim Lapierre (F)|10|614|65|74|139|586|8988
+#62|St. Louis Blues|David Backes (F)|12|858|237|294|531|1091|11435
+#63|Colorado Avalanche|Dave Liffiton (D)|3|7|1|0|1|26|11022
+#64|Detroit Red Wings|Jimmy Howard (G)|12|461|-|-|-|-|9058
+#65|Buffalo Sabres|Branislav Fabry (F)|||||||31539
+#66|Boston Bruins|Masi Marjamäki (F)|1|1|0|0|0|0|3209
+#67|Ottawa Senators|Igor Mirnov (F)|||||||11046
+#68|Edmonton Oilers|Jean-François Jacques (F)|7|166|9|8|17|197|9026
+#69|Philadelphia Flyers|Colin Fraser (F)|9|359|20|38|58|290|9504
+#70|Pittsburgh Penguins|Jonathan Filewich (F)|1|5|0|0|0|0|9457
+#71|Columbus Blue Jackets|Dmitri Kosmachyov (D)|||||||9581
+#72|Edmonton Oilers|Mikhail Zhukov (F)|||||||849
+#73|Pittsburgh Penguins|Daniel Carcillo (F)|9|429|48|52|100|1233|9468
+#74|Buffalo Sabres|Clarke MacArthur (F)|12|552|133|172|305|343|8951
+#75|New York Rangers|Kenny Roche (F)|||||||14515
+#76|Nashville Predators|Richard Stehlík (D)|||||||9645
+#77|Phoenix Coyotes|Tyler Redenbach (F)|||||||11478
+#78|Minnesota Wild|Danny Irmen (F)|1|2|0|0|0|0|11773
+#79|Montréal Canadiens|Ryan O'Byrne (D)|6|308|5|34|39|369|11722
+#80|Phoenix Coyotes|Dmitri Pestunov (F)|||||||9584
+#81|Philadelphia Flyers|Stefan Ruzicka (F)|3|55|4|13|17|47|8682
+#82|Los Angeles Kings|Ryan Munce (G)|||||||9479
+#83|Washington Capitals|Stephen Werner (F)|||||||9405
+#84|St. Louis Blues|Konstantin Barulin (G)|||||||9582
+#85|Philadelphia Flyers|Alexandre Picard (D)|7|253|19|50|69|86|8847
+#86|Mighty Ducks of Anaheim|Shane Hynes (F)|||||||14035
+#87|Philadelphia Flyers|Ryan Potulny (F)|6|126|22|27|49|54|8850
+#88|St. Louis Blues|Zack Fitzgerald (D)|1|1|0|0|0|0|11879
+#89|Nashville Predators|Paul Brown (F)|||||||38694
+#90|Mighty Ducks of Anaheim|Juha Alén (D)|||||||3210
+#91|Toronto Maple Leafs|Martin Sagat (F)|||||||9647
+#92|Nashville Predators|Alexander Sulzer (D)|6|131|7|15|22|44|12396
+#93|New Jersey Devils|Ivan Khomutov (F)|||||||11352
+#94|Edmonton Oilers|Zack Stortini (F)|6|257|14|27|41|725|11008
+#95|Philadelphia Flyers|Rick Kozak (F)|||||||15335
+#96|Tampa Bay Lightning|Jonathan Boutin (G)|1|0|-|-|-|-|9090
+#97|Calgary Flames|Ryan Donally (F)|||||||15408
+#98|Nashville Predators|Grigori Shafigulin (F)|||||||9586
+#99|Dallas Stars|Matt Nickerson (D)|||||||7624
+#100|Ottawa Senators|Philippe Seydoux (D)|||||||7964
+#101|St. Louis Blues|Konstantin Zakharov (F)|||||||9658
+#102|Carolina Hurricanes|Aaron Dawson (D)|||||||38693
+#103|Columbus Blue Jackets|Kevin Jarman (F)|||||||14965
+#104|Columbus Blue Jackets|Philippe Dupuis (F)|4|116|6|12|18|62|11564
+#105|Florida Panthers|Martin Lojek (D)|2|5|0|1|1|0|11011
+#106|Buffalo Sabres|Jan Hejda (D)|9|627|25|110|135|317|8365
+#107|Boston Bruins|Byron Bitz (F)|3|97|10|12|22|65|14041
+#108|Philadelphia Flyers|Kevin Romy (F)|||||||9649
+#109|Washington Capitals|Andreas Valdix (F)|||||||514
+#110|Atlanta Thrashers|Jimmy Sharrow (D)|||||||11499
+#111|Vancouver Canucks|Brandon Nolan (F)|1|6|0|1|1|0|8361
+#112|Calgary Flames|Jamie Tardif (F)|1|2|0|0|0|0|9467
+#113|Montréal Canadiens|Corey Locke (F)|3|9|0|1|1|0|10314
+#114|Buffalo Sabres|Denis Yezhov (D)|||||||9580
+#115|Phoenix Coyotes|Liam Lindström (F)|||||||669
+#116|Atlanta Thrashers|Guillaume Desbiens (F)|3|23|0|0|0|37|11497
+#117|Nashville Predators|Teemu Lassila (G)|||||||2718
+#118|Boston Bruins|Frank Rediker (D)|||||||38692
+#119|Mighty Ducks of Anaheim|Nathan Saunders (D)|||||||13774
+#120|New York Islanders|Stefan Blaho (F)|||||||38691
+#121|Pittsburgh Penguins|Paul Bissonnette (F)|6|202|7|15|22|340|9473
+#122|New York Rangers|Corey Potter (D)|8|130|8|24|32|53|9404
+#123|Montréal Canadiens|Danny Stewart (F)|||||||12883
+#124|Florida Panthers|James Pemberton (D)|||||||17070
+#125|Toronto Maple Leafs|Konstantin Volkov (F)|||||||12296
+#126|Carolina Hurricanes|Kevin Nastiuk (G)|1|0|-|-|-|-|11522
+#127|St. Louis Blues|Alexandre Bolduc (F)|6|65|2|3|5|44|9472
+#128|Vancouver Canucks|Ty Morris (F)|||||||13097
+#129|Boston Bruins|Patrik Valcak (F)|||||||9673
+#130|Carolina Hurricanes|Matej Trojovsky (D)|||||||22797
+#131|Colorado Avalanche|David Svagrovsky (F)|||||||11307
+#132|Detroit Red Wings|Kyle Quincey (D)|13|586|36|122|158|548|10366
+#133|Nashville Predators|Rustam Sidikov (G)|||||||58130
+#134|Dallas Stars|Alexander Naurov (F)|||||||9894
+#135|Ottawa Senators|Mattias Karlsson (D)|||||||618
+#136|Atlanta Thrashers|Mike Vannelli (D)|||||||11445
+#137|Carolina Hurricanes|Tyson Strachan (D)|8|186|1|19|20|199|15420
+#138|Columbus Blue Jackets|Arsi Piispanen (F)|||||||3208
+#139|San Jose Sharks|Patrick Ehelechner (G)|||||||11805
+#140|Philadelphia Flyers|David Tremblay (G)|||||||11804
+#141|Florida Panthers|Dan Travis (F)|||||||24299
+#142|Ottawa Senators|Tim Cook (D)|||||||15294
+#143|Calgary Flames|Greg Moore (F)|2|10|0|0|0|0|9403
+#144|Dallas Stars|Eero Kilpeläinen (G)|||||||3207
+#145|Atlanta Thrashers|Brett Sterling (F)|4|30|5|4|9|32|9408
+#146|Colorado Avalanche|Mark McCutcheon (F)|||||||13616
+#147|Edmonton Oilers|Kalle Olsson (F)|||||||685
+#148|St. Louis Blues|Lee Stempniak (F)|13|909|203|266|469|327|10199
+#149|New York Rangers|Nigel Dawes (F)|5|212|39|45|84|43|9503
+#150|Buffalo Sabres|Thomas Morrow (D)|||||||15960
+#151|Chicago Blackhawks|Lasse Kukkonen (D)|4|159|6|16|22|90|2717
+#152|Los Angeles Kings|Brady Murray (F)|1|4|1|0|1|6|9440
+#153|Boston Bruins|Mike Brown (G)|||||||9421
+#154|Edmonton Oilers|David Rohlfs (F)|||||||11411
+#155|Washington Capitals|Josh Robertson (F)|||||||59185
+#156|Chicago Blackhawks|Alexei Ivanov (F)|||||||38690
+#157|Minnesota Wild|Marcin Kolusz (F)|||||||13650
+#158|Toronto Maple Leafs|John Mitchell (F)|9|548|70|107|177|267|11487
+#159|St. Louis Blues|Chris Beckford-Tseu (G)|1|1|-|-|-|-|11338
+#160|Vancouver Canucks|Nicklas Danielsson (F)|||||||610
+#161|Pittsburgh Penguins|Yevgeni Isakov (F)|||||||38687
+#162|Florida Panthers|Martin Tuma (D)|||||||11403
+#163|Colorado Avalanche|Brad Richardson (F)|13|683|81|123|204|362|10211
+#164|Detroit Red Wings|Ryan Oulahen (F)|||||||11764
+#165|Dallas Stars|Gino Guyer (F)|||||||9445
+#166|Ottawa Senators|Sergei Gimayev (D)|||||||19551
+#167|New Jersey Devils|Zach Tarkir (D)|||||||14337
+#168|Columbus Blue Jackets|Marc Methot (D)|12|615|22|101|123|374|10993
+#169|Pittsburgh Penguins|Lukas Bolf (D)|||||||22363
+#170|Detroit Red Wings|Andreas Sundin (F)|||||||2031
+#171|Florida Panthers|Denis Stasyuk (F)|||||||19107
+#172|Buffalo Sabres|Pavel Voroshnin (D)|||||||13647
+#173|Calgary Flames|Tyler Johnson (F)|||||||58131
+#174|Los Angeles Kings|Esa Pirnes (F)|1|57|3|8|11|12|2713
+#175|Atlanta Thrashers|Mike Hamilton (F)|||||||13796
+#176|New York Rangers|Ivan Dornic (F)|||||||18451
+#177|Montréal Canadiens|Christopher Heino Lindberg (G)|||||||595
+#178|Phoenix Coyotes|Ryan Gibbons (F)|||||||15682
+#179|New York Rangers|Philippe Furrer (D)|||||||12664
+#180|New York Rangers|Chris Holt (G)|2|2|-|-|-|-|9422
+#181|Chicago Blackhawks|Johan Andersson (F)|||||||838
+#182|New York Islanders|Bruno Gervais (D)|8|418|16|71|87|182|10226
+#183|Boston Bruins|Nate Thompson (F)|11|619|53|75|128|319|10261
+#184|Edmonton Oilers|Dragan Umicevic (F)|||||||549
+#185|Dallas Stars|Francis Wathier (F)|4|10|0|0|0|5|13999
+#186|Mighty Ducks of Anaheim|Drew Miller (F)|11|571|62|60|122|136|11405
+#187|Minnesota Wild|Miroslav Kopriva (G)|2|0|-|-|-|-|11767
+#188|Montréal Canadiens|Mark Flood (D)|2|39|3|5|8|10|10403
+#189|St. Louis Blues|Jonathan Lehun (F)|||||||15345
+#190|Vancouver Canucks|Chad Brownlee (D)|||||||14650
+#191|Philadelphia Flyers|Réjean Beauchemin (G)|||||||9478
+#192|Tampa Bay Lightning|Doug O'Brien (D)|1|5|0|0|0|2|8940
+#193|Philadelphia Flyers|Ville Hostikka (G)|||||||3206
+#194|Detroit Red Wings|Stefan Blom (D)|||||||2271
+#195|Dallas Stars|Drew Bagnall (D)|1|2|0|0|0|4|12923
+#196|Dallas Stars|Elias Granath (D)|||||||658
+#197|New Jersey Devils|Jason Smith (G)|||||||13424
+#198|Carolina Hurricanes|Shay Stephenson (F)|1|2|0|0|0|0|4344
+#199|Pittsburgh Penguins|Andy Chiodo (G)|1|8|-|-|-|-|8552
+#200|Columbus Blue Jackets|Alexander Guskov (D)|||||||21043
+#201|San Jose Sharks|Jonathan Tremblay (F)|||||||11811
+#202|Buffalo Sabres|Nathan Paetsch (D)|5|167|7|35|42|114|8902
+#203|Atlanta Thrashers|Denis Loginov (F)|||||||19734
+#204|Colorado Avalanche|Linus Videll (F)|||||||604
+#205|San Jose Sharks|Joe Pavelski (F)|12|888|317|380|697|349|10372
+#206|Calgary Flames|Thomas Bellemare (D)|||||||11889
+#207|Minnesota Wild|Georgi Misharin (D)|||||||9585
+#208|Phoenix Coyotes|Randall Gelech (F)|||||||11473
+#209|New York Rangers|Dylan Reese (D)|5|78|3|14|17|40|13412
+#210|Nashville Predators|Andrei Mukhachyov (D)|||||||19387
+#211|Chicago Blackhawks|Mike Brodeur (G)|3|7|-|-|-|-|11803
+#212|New York Islanders|Denis Rehák (D)|||||||10123
+#213|Nashville Predators|Miroslav Hanuljak (G)|||||||11802
+#214|Edmonton Oilers|Kyle Brodziak (F)|13|847|123|164|287|429|9097
+#215|Edmonton Oilers|Mathieu Roy (D)|6|66|2|11|13|76|8923
+#216|San Jose Sharks|Kai Hospelt (F)|||||||15405
+#217|Montréal Canadiens|Oskari Korpikari (D)|||||||3205
+#218|Mighty Ducks of Anaheim|Dirk Southern (F)|||||||14649
+#219|Minnesota Wild|Adam Courchaine (F)|||||||12833
+#220|Toronto Maple Leafs|Jeremy Williams (F)|5|32|9|2|11|6|11175
+#221|St. Louis Blues|Yevgeni Skachkov (F)|||||||19596
+#222|Vancouver Canucks|François-Pierre Guénette (F)|||||||13417
+#223|Florida Panthers|Dany Roussin (F)|||||||9475
+#224|Tampa Bay Lightning|Gerald Coleman (G)|1|2|-|-|-|-|9118
+#225|Colorado Avalanche|Brett Hemingway (F)|||||||13617
+#226|Detroit Red Wings|Tomas Kollar (F)|||||||641
+#227|Tampa Bay Lightning|Jay Rosehill (F)|5|117|5|3|8|352|8926
+#228|Ottawa Senators|William Colbert (D)|||||||18009
+#229|Pittsburgh Penguins|Stephen Dixon (F)|||||||9465
+#230|Carolina Hurricanes|Jamie Hoffmann (F)|||||||50045
+#231|Los Angeles Kings|Matt Zaba (G)|1|1|-|-|-|-|11801
+#232|Pittsburgh Penguins|Joe Jensen (F)|1|6|1|0|1|2|11719
+#233|Columbus Blue Jackets|Mathieu Gravel (F)|||||||11325
+#234|Florida Panthers|Petr Kadlec (D)|||||||10862
+#235|Buffalo Sabres|Jeff Weber (G)|||||||11800
+#236|San Jose Sharks|Alexander Hult (F)|||||||648
+#237|Toronto Maple Leafs|Shaun Landolt (F)|||||||22703
+#238|New York Islanders|Cody Blanshan (D)|||||||11716
+#239|Atlanta Thrashers|Tobias Enström (D)|11|719|54|254|308|422|594
+#240|Calgary Flames|Cam Cunning (F)|||||||11741
+#241|Montréal Canadiens|Jimmy Bonneau (F)|||||||12488
+#242|Phoenix Coyotes|Eduard Lewandowski (F)|||||||18838
+#243|New York Rangers|Jan Marek (F)|||||||8736
+#244|Los Angeles Kings|Mike Sullivan (F)|||||||11230
+#245|Chicago Blackhawks|Dustin Byfuglien (D)|13|827|173|321|494|1025|10667
+#246|New York Islanders|Igor Volkov (F)|||||||15026
+#247|Boston Bruins|Benoît Mondou (F)|||||||13425
+#248|Edmonton Oilers|Josef Hrabal (D)|||||||12294
+#249|Washington Capitals|Andrew Joudrey (F)|1|1|0|0|0|0|14078
+#250|Mighty Ducks of Anaheim|Shane O'Brien (D)|9|537|13|79|92|916|10228
+#251|Minnesota Wild|Mathieu Melanson (F)|||||||14046
+#252|Vancouver Canucks|Sergei Topol (F)|||||||12242
+#253|St. Louis Blues|Andrei Pervyshin (D)|||||||12231
+#254|Vancouver Canucks|Nathan McIver (D)|3|36|0|1|1|95|10353
+#255|Tampa Bay Lightning|Raimonds Danilics (F)|||||||30660
+#256|Tampa Bay Lightning|Brady Greco (D)|||||||12040
+#257|Colorado Avalanche|Darryl Yacboski (D)|||||||52326
+#258|Detroit Red Wings|Vladimir Kútny (F)|||||||38684
+#259|Dallas Stars|Niko Vainio (D)|||||||3204
+#260|Ottawa Senators|Ossi Louhivaara (F)|||||||3203
+#261|New Jersey Devils|Joey Tenute (F)|1|1|0|0|0|0|11557
+#262|Carolina Hurricanes|Ryan Rorabeck (D)|||||||38682
+#263|Pittsburgh Penguins|Matt Moulson (F)|11|650|176|193|369|122|9744
+#264|Florida Panthers|John Hecimovic (F)|||||||18037
+#265|Florida Panthers|Tanner Glass (F)|11|527|24|45|69|658|14085
+#266|Buffalo Sabres|Louis-Philippe Martin (F)|||||||15723
+#267|San Jose Sharks|Brian O'Hanley (D)|||||||11885
+#268|Nashville Predators|Lauris Darzins (F)|||||||3202
+#269|Atlanta Thrashers|Rylan Kaip (F)|||||||14047
+#270|Calgary Flames|Kevin Harvey (F)|||||||17021
+#271|Montréal Canadiens|Jaroslav Halák (G)|12|449|-|-|-|-|9648
+#272|Phoenix Coyotes|Sean Sullivan (D)|||||||12051
+#273|Tampa Bay Lightning|Albert Vishnyakov (F)|||||||18036
+#274|Los Angeles Kings|Marty Guerin (F)|||||||14453
+#275|Chicago Blackhawks|Mike Grenzy (D)|||||||15295
+#276|San Jose Sharks|Carter Lee (F)|||||||14855
+#277|Boston Bruins|Kevin Regan (G)|||||||11799
+#278|Edmonton Oilers|Troy Bodie (F)|5|159|9|12|21|172|11723
+#279|Washington Capitals|Mark Olafson (F)|||||||18035
+#280|Mighty Ducks of Anaheim|Ville Mäntymaa (D)|||||||3201
+#281|Minnesota Wild|Jean-Michel Bolduc (D)|||||||27320
+#282|Chicago Blackhawks|Chris Porter (F)|7|234|15|19|34|39|14133
+#283|Columbus Blue Jackets|Trevor Hendrikx (D)|||||||15540
+#284|St. Louis Blues|Juhamatti Aaltonen (F)|||||||3200
+#285|Vancouver Canucks|Matthew Hansen (D)|||||||59183
+#286|Tampa Bay Lightning|Zbynek Hrdel (F)|||||||9618
+#287|Tampa Bay Lightning|Nick Tarnasky (F)|5|245|13|17|30|297|8846
+#288|Colorado Avalanche|David Jones (F)|9|462|104|87|191|122|11426
+#289|Detroit Red Wings|Mikael Johansson (F)|||||||2647
+#290|Phoenix Coyotes|Loïc Burkhalter (F)|||||||10823
+#291|Ottawa Senators|Brian Elliott (G)|11|415|-|-|-|-|11336
+#292|New Jersey Devils|Arseni Bondarev (F)|||||||18034
+#1|Washington Capitals|Alexander Ovechkin (F)|13|1003|607|515|1122|649|4230
+#2|Pittsburgh Penguins|Yevgeni Malkin (F)|12|784|370|560|930|813|4231
+#3|Chicago Blackhawks|Cam Barker (D)|8|310|21|75|96|290|9198
+#4|Carolina Hurricanes|Andrew Ladd (F)|13|920|245|281|526|548|6668
+#5|Phoenix Coyotes|Blake Wheeler (F)|10|778|222|383|605|512|9215
+#6|New York Rangers|Al Montoya (G)|11|168|-|-|-|-|9438
+#7|Florida Panthers|Rostislav Olesz (F)|8|365|57|77|134|118|8652
+#8|Columbus Blue Jackets|Alexandre Picard (F)|5|67|0|2|2|58|6670
+#9|Mighty Ducks of Anaheim|Ladislav Smid (D)|11|583|12|60|72|472|9225
+#10|Atlanta Thrashers|Boris Valábik (D)|3|80|0|7|7|210|9244
+#11|Los Angeles Kings|Lauri Tukonen (F)|2|5|0|0|0|0|3199
+#12|Minnesota Wild|A.J. Thelen (D)|||||||11595
+#13|Buffalo Sabres|Drew Stafford (F)|12|784|191|224|415|397|9180
+#14|Edmonton Oilers|Devan Dubnyk (G)|9|423|-|-|-|-|9201
+#15|Nashville Predators|Alexander Radulov (F)|5|312|92|136|228|208|8794
+#16|New York Islanders|Petteri Nokelainen (F)|5|245|20|21|41|103|4128
+#17|St. Louis Blues|Marek Schwarz (G)|3|6|-|-|-|-|9224
+#18|Montréal Canadiens|Kyle Chipchura (F)|9|481|31|73|104|376|9192
+#19|New York Rangers|Lauri Korpikoski (F)|10|609|86|115|201|132|4219
+#20|New Jersey Devils|Travis Zajac (F)|12|842|167|294|461|290|10232
+#21|Colorado Avalanche|Wojtek Wolski (F)|8|451|99|168|267|113|8832
+#22|San Jose Sharks|Lukas Kaspar (F)|2|16|2|2|4|8|9616
+#23|Ottawa Senators|Andrej Meszaros (D)|10|645|63|175|238|457|8664
+#24|Calgary Flames|Kris Chucko (F)|1|2|0|0|0|2|11434
+#25|Edmonton Oilers|Rob Schremp (F)|5|114|20|34|54|26|8876
+#26|Vancouver Canucks|Cory Schneider (G)|10|370|-|-|-|-|9203
+#27|Washington Capitals|Jeff Schultz (D)|10|409|11|65|76|137|9490
+#28|Dallas Stars|Mark Fistric (D)|8|325|4|30|34|284|8399
+#29|Washington Capitals|Mike Green (D)|13|787|142|322|464|532|9476
+#30|Tampa Bay Lightning|Andy Rogers (D)|||||||9483
+#31|Pittsburgh Penguins|Johannes Salmonsson (F)|||||||1269
+#32|Chicago Blackhawks|Dave Bolland (F)|12|433|85|123|208|299|9193
+#33|Washington Capitals|Chris Bourque (F)|4|51|2|6|8|18|6667
+#34|Dallas Stars|Johan Fransson (D)|||||||507
+#35|Phoenix Coyotes|Logan Stephenson (D)|||||||11474
+#36|New York Rangers|Darin Olver (F)|||||||11418
+#37|Florida Panthers|David Shantz (G)|1|0|-|-|-|-|11399
+#38|Carolina Hurricanes|Justin Peters (G)|7|83|-|-|-|-|10402
+#39|Mighty Ducks of Anaheim|Jordan Smith (D)|||||||18015
+#40|Atlanta Thrashers|Grant Lewis (D)|1|1|0|0|0|0|14106
+#41|Chicago Blackhawks|Bryan Bickell (F)|10|395|66|70|136|192|11346
+#42|Minnesota Wild|Roman Voloshenko (F)|||||||9259
+#43|Buffalo Sabres|Michael Funk (D)|2|9|0|2|2|0|9482
+#44|Edmonton Oilers|Roman Teslyuk (D)|||||||11605
+#45|Chicago Blackhawks|Ryan Garlock (F)|||||||9488
+#46|Columbus Blue Jackets|Adam Pineault (F)|1|3|0|0|0|0|9415
+#47|New York Islanders|Blake Comeau (F)|12|720|121|164|285|454|9190
+#48|New York Rangers|Dane Byers (F)|3|14|1|0|1|60|9489
+#49|St. Louis Blues|Carl Söderberg (F)|6|400|63|133|196|148|665
+#50|Phoenix Coyotes|Enver Lisin (F)|4|135|24|18|42|64|9255
+#51|New York Rangers|Bruce Graham (F)|||||||14004
+#52|Dallas Stars|Raymond Sawada (F)|3|11|1|0|1|0|11425
+#53|Florida Panthers|David Booth (F)|10|530|124|112|236|216|9402
+#54|Chicago Blackhawks|Jakub Sindel (F)|||||||9229
+#55|Colorado Avalanche|Victor Oreskovich (F)|3|67|2|7|9|41|41101
+#56|Dallas Stars|Nicklas Grossmann (D)|11|592|13|73|86|314|2439
+#57|Edmonton Oilers|Geoff Paukovich (F)|||||||9213
+#58|Ottawa Senators|Kirill Lyamin (D)|||||||9254
+#59|Columbus Blue Jackets|Kyle Wharton (D)|||||||9484
+#60|New York Rangers|Brandon Dubinsky (F)|12|762|147|277|424|869|11024
+#61|Pittsburgh Penguins|Alex Goligoski (D)|11|722|73|275|348|254|9435
+#62|Washington Capitals|Mikhail Yunkov (F)|||||||9260
+#63|Boston Bruins|David Krejci (F)|12|769|174|396|570|284|9226
+#64|Boston Bruins|Martins Karsums (F)|1|24|1|5|6|6|9238
+#65|Tampa Bay Lightning|Mark Tobin (F)|||||||11524
+#66|Washington Capitals|Sami Lepistö (D)|5|176|6|29|35|137|4127
+#67|Pittsburgh Penguins|Nick Johnson (F)|5|113|14|23|37|52|17765
+#68|Chicago Blackhawks|Adam Berti (F)|1|2|0|0|0|0|9493
+#69|Carolina Hurricanes|Casey Borer (D)|3|16|1|2|3|9|9419
+#70|Calgary Flames|Brandon Prust (F)|9|486|40|75|115|1036|8920
+#71|Buffalo Sabres|Andrej Sekera (D)|12|683|45|187|232|172|9249
+#72|Colorado Avalanche|Denis Parshin (F)|||||||9588
+#73|New York Rangers|Zdenek Bahensky (F)|||||||9235
+#74|Mighty Ducks of Anaheim|Kyle Klubertanz (D)|||||||9411
+#75|Mighty Ducks of Anaheim|Tim Brent (F)|7|207|21|27|48|76|9508
+#76|Atlanta Thrashers|Scott Lehman (D)|1|1|0|0|0|0|11756
+#77|Ottawa Senators|Shawn Weller (F)|||||||9436
+#78|Minnesota Wild|Peter Ölvecký (F)|2|32|2|5|7|12|11772
+#79|Minnesota Wild|Clayton Stoner (D)|9|360|7|41|48|459|11361
+#80|New York Rangers|Billy Ryan (F)|||||||14877
+#81|Nashville Predators|Václav Meidl (F)|||||||12114
+#82|New York Islanders|Sergei Ogorodnikov (F)|||||||11495
+#83|St. Louis Blues|Viktor Alexandrov (F)|||||||12297
+#84|Montréal Canadiens|Alexei Yemelin (D)|7|456|15|66|81|363|9253
+#85|Pittsburgh Penguins|Brian Gifford (F)|||||||15041
+#86|Dallas Stars|John Lammers (F)|||||||9487
+#87|Ottawa Senators|Peter Regin (F)|7|243|23|44|67|64|4104
+#88|Washington Capitals|Clayton Barthel (D)|||||||11528
+#89|Ottawa Senators|Jeff Glass (G)|2|15|-|-|-|-|9502
+#90|Toronto Maple Leafs|Justin Pogge (G)|3|7|-|-|-|-|9202
+#91|Vancouver Canucks|Alexander Edler (D)|12|758|84|249|333|491|4081
+#92|Philadelphia Flyers|Rob Bellamy (F)|||||||14875
+#93|Columbus Blue Jackets|Dan LaCosta (G)|2|4|-|-|-|-|11559
+#94|San Jose Sharks|Thomas Greiss (G)|9|208|-|-|-|-|10954
+#95|Los Angeles Kings|Paul Baier (D)|||||||15066
+#96|Columbus Blue Jackets|Andrei Plekhanov (D)|||||||12251
+#97|Detroit Red Wings|Johan Franzén (F)|13|602|187|183|370|401|158
+#98|Calgary Flames|Dustin Boyd (F)|5|220|32|31|63|41|9191
+#99|Pittsburgh Penguins|Tyler Kennedy (F)|9|527|89|126|215|239|11535
+#100|Montréal Canadiens|J.T. Wyman (F)|3|44|2|9|11|8|15059
+#101|Philadelphia Flyers|R.J. Anderson (D)|||||||18033
+#102|Tampa Bay Lightning|Mike Lundin (D)|6|252|4|32|36|54|14077
+#103|Phoenix Coyotes|Roman Tománek (F)|||||||18032
+#104|Dallas Stars|Fredrik Näslund (F)|||||||2495
+#105|Florida Panthers|Evan Schafer (D)|||||||18031
+#106|Atlanta Thrashers|Chad Painchaud (F)|||||||15024
+#107|Nashville Predators|Nick Fugère (F)|||||||18030
+#108|Boston Bruins|Ashton Rome (F)|||||||10637
+#109|Carolina Hurricanes|Brett Carson (D)|5|90|2|11|13|20|10406
+#110|Los Angeles Kings|Ned Lukacevic (F)|||||||17817
+#111|Minnesota Wild|Ryan Jones (F)|6|334|54|46|100|181|11410
+#112|Edmonton Oilers|Liam Reddox (F)|4|100|6|18|24|34|9496
+#113|Toronto Maple Leafs|Roman Kukumberg (F)|||||||9665
+#114|Minnesota Wild|Patrick Bordeleau (F)|3|129|8|8|16|185|12141
+#115|New York Islanders|Wes O'Neill (D)|2|5|0|0|0|6|9480
+#116|St. Louis Blues|Michal Birner (F)|||||||9233
+#117|Minnesota Wild|Julien Sprunger (F)|||||||9242
+#118|Calgary Flames|Aki Seitsonen (F)|||||||4131
+#119|Phoenix Coyotes|Kevin Porter (F)|8|249|29|29|58|60|9212
+#120|Chicago Blackhawks|Mitch Maunu (D)|||||||53546
+#121|Calgary Flames|Kris Hogg (F)|||||||11671
+#122|Ottawa Senators|Alexander Nikulin (F)|2|3|0|0|0|0|12427
+#123|Chicago Blackhawks|Karel Hromas (F)|||||||9234
+#124|Philadelphia Flyers|David Laliberté (F)|1|11|2|1|3|6|11124
+#125|Vancouver Canucks|Andrew Sarauer (F)|||||||15047
+#126|San Jose Sharks|Torrey Mitchell (F)|11|666|67|85|152|351|11438
+#127|New York Rangers|Ryan Callahan (F)|12|705|179|190|369|414|9437
+#128|Detroit Red Wings|Evan McGrath (F)|||||||9491
+#129|San Jose Sharks|Jason Churchill (G)|||||||11789
+#130|Pittsburgh Penguins|Michal Sersen (D)|||||||23857
+#131|Chicago Blackhawks|Trevor Kell (F)|||||||11326
+#132|Washington Capitals|Oscar Hedman (D)|||||||1950
+#133|Columbus Blue Jackets|Petr Pohl (F)|||||||9228
+#134|Boston Bruins|Kris Versteeg (F)|11|643|149|209|358|374|9486
+#135|New York Rangers|Roman Psurny (F)|||||||9620
+#136|St. Louis Blues|Nikita Nikitin (D)|6|259|17|59|76|85|12241
+#137|Carolina Hurricanes|Magnus Åkerlund (G)|||||||2032
+#138|Washington Capitals|Pasi Salonen (F)|||||||4130
+#139|Nashville Predators|Kyle Moir (G)|||||||11608
+#140|Chicago Blackhawks|Jake Dowell (F)|7|157|11|22|33|133|9416
+#141|Ottawa Senators|Jim McKenzie (F)|||||||14182
+#142|Atlanta Thrashers|Juraj Gracik (F)|||||||9245
+#143|Los Angeles Kings|Eric Neilson (F)|||||||11526
+#144|Philadelphia Flyers|Chris Zarb (D)|||||||15308
+#145|Buffalo Sabres|Michal Valent (G)|||||||11788
+#146|Edmonton Oilers|Bryan Young (D)|2|17|0|0|0|10|11010
+#147|Nashville Predators|Janne Niskala (D)|1|6|1|2|3|6|4278
+#148|New York Islanders|Steven Regier (F)|4|26|3|1|4|8|10876
+#149|Philadelphia Flyers|Gino Pisellini (F)|||||||11351
+#150|Montréal Canadiens|Mikhail Grabovski (F)|12|534|125|171|296|312|9351
+#151|Detroit Red Wings|Sergei Kolosov (D)|||||||12191
+#152|Florida Panthers|Bret Nasby (D)|||||||13615
+#153|San Jose Sharks|Steven Zalewski (F)|2|10|0|0|0|0|15057
+#154|Colorado Avalanche|Richard Demén Willaume (D)|||||||1290
+#155|New Jersey Devils|Andrei Mikhailishin (D)|||||||18029
+#156|Ottawa Senators|Roman Wick (F)|1|7|0|0|0|0|17894
+#157|Toronto Maple Leafs|Dmitri Vorobyov (D)|||||||9603
+#158|Tampa Bay Lightning|Brandon Elliott (D)|||||||12039
+#159|Vancouver Canucks|Mike Brown (F)|9|407|19|17|36|778|9412
+#160|Boston Bruins|Ben Walter (F)|5|24|1|0|1|6|10986
+#161|Minnesota Wild|Jean-Claude Sawyer (D)|||||||12166
+#162|Detroit Red Wings|Tyler Haskins (F)|||||||11324
+#163|Tampa Bay Lightning|Dusty Collins (F)|||||||9417
+#164|Pittsburgh Penguins|Moises Gutierrez (F)|||||||11694
+#165|Chicago Blackhawks|Scott McCulloch (F)|||||||14865
+#166|Washington Capitals|Peter Guggisberg (F)|||||||9655
+#167|Columbus Blue Jackets|Robert Page (D)|||||||15315
+#168|Phoenix Coyotes|Kevin Cormier (F)|||||||12131
+#169|New York Rangers|Jordan Foote (F)|||||||18028
+#170|Philadelphia Flyers|Ladislav Scurko (F)|||||||9252
+#171|Philadelphia Flyers|Frédérik Cabana (F)|||||||9494
+#172|Mighty Ducks of Anaheim|Matt Auffrey (F)|||||||9427
+#173|Calgary Flames|Adam Pardy (D)|9|342|4|48|52|269|11740
+#174|Los Angeles Kings|Scott Parse (F)|3|73|14|16|30|36|11414
+#175|Minnesota Wild|Aaron Boogaard (F)|||||||11601
+#176|Buffalo Sabres|Patrick Kaleta (F)|9|348|27|27|54|542|10990
+#177|Edmonton Oilers|Max Gordichuk (D)|||||||11308
+#178|Nashville Predators|Mike Santorelli (F)|8|406|64|74|138|78|11417
+#179|New York Islanders|Jaroslav Mrazek (D)|||||||9619
+#180|St. Louis Blues|Roman Polák (D)|12|688|25|102|127|550|9621
+#181|Montréal Canadiens|Loïc Lacasse (G)|||||||11232
+#182|Calgary Flames|Fred Wikner (F)|||||||1255
+#183|Dallas Stars|Trevor Ludwig (D)|||||||14859
+#184|Colorado Avalanche|Derek Peltier (D)|2|14|0|0|0|2|12367
+#185|New Jersey Devils|Josh Disher (G)|||||||11787
+#186|Atlanta Thrashers|Dan Turple (G)|1|0|-|-|-|-|11786
+#187|Toronto Maple Leafs|Robbie Earl (F)|3|47|6|1|7|6|9414
+#188|Tampa Bay Lightning|Jan Zapletal (D)|||||||18027
+#189|Vancouver Canucks|Julien Ellis (G)|||||||11353
+#190|Columbus Blue Jackets|Lennart Petrell (F)|2|95|7|11|18|49|4279
+#191|Tampa Bay Lightning|Karri Rämö (G)|6|159|-|-|-|-|4280
+#192|Detroit Red Wings|Anton Axelsson (F)|||||||2034
+#193|Nashville Predators|Kevin Schaeffer (D)|||||||13482
+#194|Pittsburgh Penguins|Chris Peluso (D)|||||||15311
+#195|Minnesota Wild|Jean-Michel Rizk (F)|||||||9497
+#196|Chicago Blackhawks|Petri Kontiola (F)|1|12|0|5|5|6|4281
+#197|Washington Capitals|Andrew Gordon (F)|5|55|3|4|7|6|11449
+#198|Columbus Blue Jackets|Justin Vienneau (D)|||||||51401
+#199|Phoenix Coyotes|Chad Kolarik (F)|2|6|0|1|1|2|9432
+#200|Calgary Flames|Matt Schneider (F)|||||||18026
+#201|San Jose Sharks|Mike Vernace (D)|2|22|0|1|1|10|11585
+#202|Carolina Hurricanes|Ryan Pottruff (D)|||||||11237
+#203|Mighty Ducks of Anaheim|Gabriel Bouthillette (G)|||||||11785
+#204|Atlanta Thrashers|Miikka Tuomainen (F)|||||||4223
+#205|Los Angeles Kings|Mike Curry (F)|||||||18025
+#206|Minnesota Wild|Anton Khudobin (G)|9|147|-|-|-|-|9265
+#207|Buffalo Sabres|Mark Mancari (F)|5|42|3|10|13|22|8955
+#208|Edmonton Oilers|Stéphane Goulet (F)|||||||11533
+#209|Nashville Predators|Stanislav Balán (F)|||||||13659
+#210|New York Islanders|Emil Axelsson (D)|||||||2620
+#211|St. Louis Blues|David Fredriksson (F)|||||||2018
+#212|Montréal Canadiens|Jon Gleed (D)|||||||12487
+#213|Calgary Flames|Jimmy Spratt (G)|||||||11784
+#214|Chicago Blackhawks|Troy Brouwer (F)|12|763|169|172|341|541|10669
+#215|Colorado Avalanche|Ian Keserich (G)|||||||11783
+#216|New Jersey Devils|Pierre-Luc Létourneau-Leblond (F)|5|41|0|3|3|101|15208
+#217|New Jersey Devils|Tyler Eckford (D)|2|7|0|1|1|4|11919
+#218|Dallas Stars|Sergei Kukushkin (F)|||||||12248
+#219|Ottawa Senators|Joe Cooper (F)|||||||14564
+#220|Toronto Maple Leafs|Maxim Semyonov (D)|||||||18024
+#221|Los Angeles Kings|Danny Taylor (G)|3|4|-|-|-|-|14833
+#222|Pittsburgh Penguins|Jordan Morrison (F)|||||||17820
+#223|Chicago Blackhawks|Jared Walker (F)|||||||11639
+#224|Boston Bruins|Matt Hunwick (D)|11|521|25|92|117|203|9418
+#225|San Jose Sharks|Dave MacDonald (D)|||||||15063
+#226|Detroit Red Wings|Steve Covington (F)|||||||14837
+#227|New York Islanders|Chris Campoli (D)|7|440|35|111|146|200|9106
+#228|Pittsburgh Penguins|David Brown (G)|||||||11782
+#229|Chicago Blackhawks|Eric Hunter (F)|||||||9492
+#230|Washington Capitals|Justin Mrazek (G)|||||||11781
+#231|Columbus Blue Jackets|Brian McGuirk (F)|||||||14687
+#232|Philadelphia Flyers|Martin Houle (G)|1|1|-|-|-|-|9057
+#233|Columbus Blue Jackets|Matt Greer (F)|||||||18023
+#234|San Jose Sharks|Derek Macintyre (G)|||||||11780
+#235|Carolina Hurricanes|Jonas Fiedler (F)|||||||18022
+#236|Mighty Ducks of Anaheim|Matt Christie (F)|||||||14518
+#237|Atlanta Thrashers|Mitch Carefoot (F)|||||||13480
+#238|Los Angeles Kings|Yutaka Fukufuji (G)|1|4|-|-|-|-|10674
+#239|Colorado Avalanche|Brandon Yip (F)|5|174|29|27|56|130|11887
+#240|Phoenix Coyotes|Aaron Gagnon (F)|4|38|3|2|5|2|9498
+#241|Buffalo Sabres|Mike Card (D)|1|4|0|0|0|0|10350
+#242|Edmonton Oilers|Tyler Spurgeon (F)|||||||11534
+#243|Nashville Predators|Denis Kulyash (D)|||||||12300
+#244|New York Islanders|Jason Pitton (F)|||||||11492
+#245|Tampa Bay Lightning|Justin Keller (F)|||||||12026
+#246|Montréal Canadiens|Gregory Stewart (F)|3|26|0|1|1|48|14187
+#247|New York Rangers|Jonathan Paiement (D)|||||||11881
+#248|Dallas Stars|Lukas Vomela (D)|||||||18021
+#249|Colorado Avalanche|J.D. Corbin (F)|||||||14460
+#250|New Jersey Devils|Nathan Perkovich (F)|||||||14856
+#251|Ottawa Senators|Matt McIlvane (F)|||||||17616
+#252|Toronto Maple Leafs|Jan Steber (F)|||||||13652
+#253|Philadelphia Flyers|Travis Gawryletz (D)|||||||18020
+#254|Vancouver Canucks|David Schulz (D)|||||||9481
+#255|Boston Bruins|Anton Hedman (F)|||||||3841
+#256|Chicago Blackhawks|Matthew Ford (F)|||||||14863
+#257|Detroit Red Wings|Gennadi Stolyarov (F)|||||||13646
+#258|Nashville Predators|Pekka Rinne (G)|12|567|-|-|-|-|4282
+#259|Pittsburgh Penguins|Brian Ihnacak (F)|||||||18019
+#260|Chicago Blackhawks|Marko Anttila (F)|||||||4283
+#261|Phoenix Coyotes|Will Engasser (F)|||||||15314
+#262|Montréal Canadiens|Mark Streit (D)|13|786|96|338|434|374|4092
+#263|Washington Capitals|Travis Morin (F)|3|13|0|1|1|0|11446
+#264|Los Angeles Kings|Valtteri Tenkanen (F)|||||||4284
+#265|Phoenix Coyotes|Daniel Winnik (F)|11|798|82|169|251|367|11480
+#266|New York Rangers|Jakub Petruzalek (F)|1|2|0|1|1|0|9617
+#267|Florida Panthers|Spencer Dillon (D)|||||||15046
+#268|Carolina Hurricanes|Martin Vágner (D)|||||||18018
+#269|Mighty Ducks of Anaheim|Janne Pesonen (F)|1|7|0|0|0|0|4285
+#270|Atlanta Thrashers|Matt Siddall (F)|||||||15048
+#271|Columbus Blue Jackets|Grant Clitsome (D)|7|205|15|56|71|98|15053
+#272|Minnesota Wild|Kyle Wilson (F)|3|39|4|9|13|12|11750
+#273|Buffalo Sabres|Dylan Hunter (F)|||||||14326
+#274|Edmonton Oilers|Björn Bjurling (G)|||||||589
+#275|Nashville Predators|Craig Switzer (D)|||||||14874
+#276|New York Islanders|Sylvain Michaud (G)|||||||11779
+#277|St. Louis Blues|Jonathan Boutin (F)|||||||18017
+#278|Montréal Canadiens|Alexandre Dulac-Lemelin (D)|||||||16666
+#279|Calgary Flames|Adam Cracknell (F)|8|208|21|22|43|46|14459
+#280|Dallas Stars|Matt McKnight (F)|||||||18016
+#281|Colorado Avalanche|Steve McClellan (D)|||||||41102
+#282|New Jersey Devils|Valeri Klimov (D)|||||||41103
+#283|Florida Panthers|Luke Beaverson (D)|||||||11920
+#284|Ottawa Senators|John Wikner (F)|||||||1256
+#285|Toronto Maple Leafs|Pierce Norton (F)|||||||14860
+#286|Philadelphia Flyers|Triston Grant (F)|2|11|0|1|1|19|10303
+#287|Vancouver Canucks|Jannik Hansen (F)|12|626|109|147|256|282|2368
+#288|San Jose Sharks|Brian Mahoney-Wilson (G)|||||||11777
+#289|San Jose Sharks|Christian Jensen (D)|||||||15307
+#290|Detroit Red Wings|Nils Bäckström (D)|||||||2277
+#291|Philadelphia Flyers|John Carter (F)|||||||41104
+#1|Pittsburgh Penguins|Sidney Crosby (F)|13|864|411|705|1116|622|6146
+#2|Anaheim Ducks|Bobby Ryan (F)|11|731|234|271|505|386|9210
+#3|Carolina Hurricanes|Jack Johnson (D)|12|788|66|212|278|454|9205
+#4|Minnesota Wild|Benoît Pouliot (F)|12|625|130|133|263|371|4229
+#5|Montréal Canadiens|Carey Price (G)|11|558|-|-|-|-|9368
+#6|Columbus Blue Jackets|Gilbert Brulé (F)|8|299|43|52|95|156|10235
+#7|Chicago Blackhawks|Jack Skille (F)|10|368|43|41|84|118|9217
+#8|San Jose Sharks|Devin Setoguchi (F)|9|516|131|130|261|177|9360
+#9|Ottawa Senators|Brian Lee (D)|7|209|5|31|36|124|9218
+#10|Vancouver Canucks|Luc Bourdon (D)|2|36|2|0|2|24|9185
+#11|Los Angeles Kings|Anze Kopitar (F)|12|922|290|538|828|248|4233
+#12|New York Rangers|Marc Staal (D)|11|761|38|126|164|384|9183
+#13|Buffalo Sabres|Marek Zagrapan (F)|||||||9248
+#14|Washington Capitals|Sasha Pokulok (D)|||||||9200
+#15|New York Islanders|Ryan O'Marra (F)|3|33|1|6|7|17|9197
+#16|Atlanta Thrashers|Alex Bourret (F)|||||||10877
+#17|Arizona Coyotes|Martin Hanzal (F)|11|666|125|210|335|570|9237
+#18|Nashville Predators|Ryan Parent (D)|5|106|1|6|7|36|9184
+#19|Detroit Red Wings|Jakub Kindl (D)|8|331|16|58|74|181|9230
+#20|Florida Panthers|Kenndal McArdle (F)|4|42|1|2|3|51|10440
+#21|Toronto Maple Leafs|Tuukka Rask (G)|11|449|-|-|-|-|4217
+#22|Boston Bruins|Matt Lashoff (D)|5|74|1|15|16|59|10302
+#23|New Jersey Devils|Niclas Bergfors (F)|5|173|35|48|83|20|2045
+#24|St. Louis Blues|T.J. Oshie (F)|10|665|186|277|463|340|9209
+#25|Edmonton Oilers|Andrew Cogliano (F)|11|866|149|220|369|309|9187
+#26|Calgary Flames|Matt Pelech (D)|3|13|1|3|4|38|11249
+#27|Washington Capitals|Joe Finley (D)|2|21|0|1|1|32|12209
+#28|Dallas Stars|Matt Niskanen (D)|11|801|56|242|298|419|9214
+#29|Philadelphia Flyers|Steve Downie (F)|9|434|76|120|196|1057|9186
+#30|Tampa Bay Lightning|Vladimír Mihálik (D)|2|15|0|3|3|8|9251
+#31|Anaheim Ducks|Brendan Mikkelson (D)|5|131|1|9|10|59|9355
+#32|Florida Panthers|Tyler Plante (G)|2|0|-|-|-|-|11450
+#33|Dallas Stars|James Neal (F)|10|703|263|232|495|530|9362
+#34|Colorado Avalanche|Ryan Stoa (F)|3|40|4|3|7|20|9375
+#35|San Jose Sharks|Marc-Édouard Vlasic (D)|12|893|64|222|286|382|10218
+#36|Edmonton Oilers|Taylor Chorney (D)|8|166|4|18|22|56|9204
+#37|St. Louis Blues|Scott Jackson (D)|1|1|0|0|0|0|11619
+#38|New Jersey Devils|Jeff Frazee (G)|2|1|-|-|-|-|9222
+#39|Boston Bruins|Petr Kalus (F)|2|11|4|1|5|6|9231
+#40|New York Rangers|Michael Sauer (D)|4|98|4|14|18|96|12385
+#41|Atlanta Thrashers|Ondrej Pavelec (G)|11|398|-|-|-|-|9626
+#42|Detroit Red Wings|Justin Abdelkader (F)|11|619|100|130|230|545|10460
+#43|Chicago Blackhawks|Mike Blunden (F)|11|127|7|6|13|145|9195
+#44|Colorado Avalanche|Paul Stastny (F)|12|824|220|426|646|384|10212
+#45|Montréal Canadiens|Guillaume Latendresse (F)|7|341|87|60|147|185|9194
+#46|New York Islanders|Dustin Kohn (D)|1|22|0|4|4|4|10432
+#47|Colorado Avalanche|Tom Fritsche (F)|||||||9221
+#48|Buffalo Sabres|Philip Gogulla (F)|||||||10612
+#49|Atlanta Thrashers|Chad Denny (D)|||||||12386
+#50|Los Angeles Kings|Dany Roussin (F)|||||||9475
+#51|Vancouver Canucks|Mason Raymond (F)|10|546|115|136|251|156|11354
+#52|Colorado Avalanche|Chris Durand (F)|||||||12388
+#53|Atlanta Thrashers|Andrew Kozek (F)|||||||12389
+#54|Chicago Blackhawks|Dan Bertram (F)|||||||9196
+#55|Columbus Blue Jackets|Adam McQuaid (D)|9|462|13|53|66|652|11321
+#56|New York Rangers|Marc-André Cliche (F)|3|151|3|11|14|34|10435
+#57|Minnesota Wild|Matt Kassian (F)|4|76|4|1|5|167|12387
+#58|Carolina Hurricanes|Nate Hagemo (D)|||||||9420
+#59|Arizona Coyotes|Pier-Olivier Pelletier (G)|||||||9367
+#60|Los Angeles Kings|T.J. Fast (D)|||||||11600
+#61|Pittsburgh Penguins|Michael Gergen (D)|||||||18014
+#62|Pittsburgh Penguins|Kris Letang (D)|12|682|96|341|437|494|9189
+#63|Anaheim Ducks|Jason Bailey (F)|||||||9374
+#64|Carolina Hurricanes|Joe Barnes (F)|||||||12635
+#65|Minnesota Wild|Kris Westblom (G)|||||||11682
+#66|New York Rangers|Brodie Dupont (F)|1|1|0|0|0|0|11452
+#67|Columbus Blue Jackets|Kris Russell (D)|11|719|43|168|211|218|9188
+#68|Chicago Blackhawks|Evan Brophey (F)|2|4|0|0|0|0|11111
+#69|Calgary Flames|Gord Baldwin (D)|||||||11670
+#70|Ottawa Senators|Vitali Anikeyenko (D)|||||||9587
+#71|Dallas Stars|Rich Clune (F)|5|139|7|15|22|327|9364
+#72|Los Angeles Kings|Jonathan Quick (G)|11|556|-|-|-|-|11798
+#73|Tampa Bay Lightning|Radek Smolenak (F)|2|7|0|1|1|15|9622
+#74|Calgary Flames|Dan Ryder (F)|||||||10698
+#75|Dallas Stars|Perttu Lindgren (F)|1|1|0|0|0|0|6423
+#76|New York Islanders|Shea Guthrie (F)|||||||12384
+#77|New York Rangers|Dalyn Flatt (D)|||||||11252
+#78|Nashville Predators|Teemu Laakso (D)|3|17|0|0|0|10|4417
+#79|Nashville Predators|Cody Franson (D)|9|550|43|169|212|202|10431
+#80|Detroit Red Wings|Christofer Löfberg (F)|||||||1299
+#81|Edmonton Oilers|Danny Syvret (D)|5|59|3|4|7|30|8900
+#82|Toronto Maple Leafs|Phil Oreskovic (D)|1|10|1|1|2|21|11264
+#83|Boston Bruins|Mikko Lehtonen (F)|2|2|0|0|0|0|5877
+#84|New Jersey Devils|Mark Fraser (D)|7|219|4|18|22|302|11020
+#85|St. Louis Blues|Ben Bishop (G)|9|323|-|-|-|-|11797
+#86|Edmonton Oilers|Robby Dee (F)|||||||12208
+#87|Buffalo Sabres|Marc-André Gragnani (D)|6|78|3|15|18|36|9356
+#88|Colorado Avalanche|T.J. Hensick (F)|4|112|12|26|38|18|9410
+#89|Tampa Bay Lightning|Chris Lawrence (F)|||||||9363
+#90|Florida Panthers|Dan Collins (F)|||||||9373
+#91|Philadelphia Flyers|Oskars Bartulis (D)|2|66|1|8|9|32|10449
+#92|Tampa Bay Lightning|Marek Bartánus (F)|||||||10608
+#93|Florida Panthers|Olivier Legault (F)|||||||15596
+#94|Carolina Hurricanes|Jakub Vojta (D)|||||||9624
+#95|Ottawa Senators|Cody Bass (F)|7|75|2|3|5|107|9358
+#96|Buffalo Sabres|Chris Butler (D)|10|394|13|71|84|187|9206
+#97|Edmonton Oilers|Chris VandeVelde (F)|7|278|18|30|48|95|14870
+#98|Ottawa Senators|Ilya Zubov (F)|2|11|0|2|2|0|9256
+#99|New Jersey Devils|Patrick Davis (F)|2|9|1|0|1|0|10294
+#100|Boston Bruins|Jonathan Sigalet (D)|1|1|0|0|0|4|9485
+#101|Columbus Blue Jackets|Jared Boll (F)|11|579|28|38|66|1298|14076
+#102|Tampa Bay Lightning|Blair Jones (F)|8|132|7|10|17|65|11041
+#103|Detroit Red Wings|Mattias Ritola (F)|4|43|4|5|9|17|2050
+#104|Florida Panthers|Matt Duffy (D)|||||||14876
+#105|Arizona Coyotes|Keith Yandle (D)|12|825|85|381|466|494|10247
+#106|Boston Bruins|Vladimír Sobotka (F)|9|463|47|108|155|332|9227
+#107|New York Rangers|Tom Pyatt (F)|7|408|43|56|99|69|9199
+#108|Chicago Blackhawks|Niklas Hjalmarsson (D)|11|672|24|128|152|256|2640
+#109|Washington Capitals|Andrew Thomas (D)|||||||15044
+#110|Minnesota Wild|Kyle Bailey (F)|||||||11674
+#111|Calgary Flames|J.D. Watt (F)|||||||11594
+#112|San Jose Sharks|Alex Stalock (G)|7|92|-|-|-|-|11796
+#113|Chicago Blackhawks|Nathan Davis (F)|||||||9211
+#114|Vancouver Canucks|Alexandre Vincent (G)|||||||11795
+#115|Ottawa Senators|Janne Kolehmainen (F)|||||||4224
+#116|Atlanta Thrashers|Jordan Smotherman (F)|2|4|1|1|2|0|11568
+#117|Chicago Blackhawks|Denis Istomin (F)|||||||18013
+#118|Washington Capitals|Patrick McNeill (D)|||||||10433
+#119|Philadelphia Flyers|Jérémy Duchesne (G)|1|1|-|-|-|-|11794
+#120|Edmonton Oilers|Vyacheslav Trukhno (F)|||||||4126
+#121|Montréal Canadiens|Juraj Mikus (F)|||||||9250
+#122|Minnesota Wild|Morten Madsen (F)|||||||2613
+#123|Carolina Hurricanes|Ondrej Otcenas (F)|||||||9661
+#124|Colorado Avalanche|Ray Macias (D)|2|7|0|1|1|2|13618
+#125|Pittsburgh Penguins|Tommi Leinonen (D)|||||||7537
+#126|Pittsburgh Penguins|Tim Crowder (F)|||||||14857
+#127|Anaheim Ducks|Bobby Bolt (F)|||||||11309
+#128|Calgary Flames|Kevin Lalande (G)|||||||11245
+#129|Minnesota Wild|Anthony Aiello (D)|||||||14683
+#130|Montréal Canadiens|Mathieu Aubin (F)|||||||12486
+#131|Columbus Blue Jackets|Tomas Pöpperle (G)|1|2|-|-|-|-|10879
+#132|Detroit Red Wings|Darren Helm (F)|11|568|93|117|210|171|10438
+#133|Tampa Bay Lightning|Stanislav Lascek (F)|||||||9247
+#134|Chicago Blackhawks|Brennan Turner (D)|||||||15316
+#135|Atlanta Thrashers|Tomas Pospisil (F)|||||||9623
+#136|Ottawa Senators|Tomas Kudelka (D)|||||||9232
+#137|Detroit Red Wings|Johan Ryno (F)|||||||4120
+#138|Vancouver Canucks|Matt Butcher (F)|||||||15045
+#139|Los Angeles Kings|Patrik Hersley (D)|||||||1288
+#140|San Jose Sharks|Taylor Dakers (G)|||||||11677
+#141|Anaheim Ducks|Brian Salcido (D)|1|2|0|1|1|0|11406
+#142|Buffalo Sabres|Nathan Gerbe (F)|9|396|58|80|138|172|9216
+#143|Washington Capitals|Daren Machesney (G)|2|0|-|-|-|-|11555
+#144|New York Islanders|Masi Marjamäki (F)|1|1|0|0|0|0|3209
+#145|Carolina Hurricanes|Tim Kunes (D)|||||||14684
+#146|Dallas Stars|Tom Wandell (F)|5|229|20|23|43|52|2021
+#147|New York Rangers|Trevor Koverko (D)|||||||11234
+#148|Arizona Coyotes|Anton Krysanov (F)|||||||10490
+#149|San Jose Sharks|Derek Joslin (D)|5|116|4|12|16|63|11392
+#150|Nashville Predators|Cal O'Reilly (F)|7|145|16|33|49|14|11360
+#151|Detroit Red Wings|Jeff May (D)|||||||11645
+#152|Philadelphia Flyers|Josh Beaulieu (F)|||||||12428
+#153|Toronto Maple Leafs|Alex Berry (F)|||||||18012
+#154|Boston Bruins|Wacey Rabbit (F)|||||||11593
+#155|New Jersey Devils|Mark Fayne (D)|7|389|17|48|65|131|18011
+#156|St. Louis Blues|Ryan Reaves (F)|8|498|31|30|61|789|14003
+#157|Edmonton Oilers|Fredrik Pettersson (F)|||||||1715
+#158|Calgary Flames|Matt Keetley (G)|1|1|-|-|-|-|11664
+#159|Carolina Hurricanes|Risto Korhonen (D)|||||||4418
+#160|Dallas Stars|Matt Watkins (F)|1|1|0|0|0|0|14871
+#161|Florida Panthers|Brian Foster (G)|1|1|-|-|-|-|11793
+#162|San Jose Sharks|P.J. Fenton (F)|||||||17767
+#163|Tampa Bay Lightning|Marek Kvapil (F)|||||||8640
+#164|Florida Panthers|Roman Derlyuk (D)|||||||18010
+#165|Tampa Bay Lightning|Kevin Beech (G)|||||||11259
+#166|Colorado Avalanche|Jason Lynch (D)|||||||11634
+#167|Chicago Blackhawks|Joe Fallon (G)|1|0|-|-|-|-|11792
+#168|Colorado Avalanche|Justin Mercier (F)|1|9|1|1|2|0|9377
+#169|St. Louis Blues|Mike Gauthier (D)|||||||11650
+#170|New Jersey Devils|Sean Zimmerman (D)|||||||10459
+#171|St. Louis Blues|Nick Drazenovic (F)|3|12|0|0|0|6|11637
+#172|Boston Bruins|Lukas Vantuch (F)|||||||10604
+#173|Toronto Maple Leafs|Johan Dahlberg (F)|||||||2046
+#174|Philadelphia Flyers|John Flatters (D)|||||||11646
+#175|Detroit Red Wings|Juho Mielonen (D)|||||||6424
+#176|Nashville Predators|Ryan Maki (F)|||||||11553
+#177|Columbus Blue Jackets|Derek Reinhart (D)|||||||19378
+#178|New York Rangers|Greg Beller (F)|||||||15313
+#179|Calgary Flames|Brett Sutter (F)|7|60|2|8|10|40|11630
+#180|New York Islanders|Tyrell Mason (D)|||||||15054
+#181|Washington Capitals|Tim Kennedy (F)|6|162|15|24|39|60|11412
+#182|Buffalo Sabres|Adam Dennis (G)|1|0|-|-|-|-|11396
+#183|San Jose Sharks|William Colbert (D)|||||||18009
+#184|Los Angeles Kings|Ryan McGinnis (D)|||||||12429
+#185|Vancouver Canucks|Kris Fredheim (D)|1|3|0|0|0|2|14864
+#186|Ottawa Senators|Dmitri Megalinsky (D)|||||||15679
+#187|Atlanta Thrashers|Andrei Zubarev (D)|1|4|0|1|1|4|9257
+#188|Chicago Blackhawks|Joe Charlebois (D)|||||||14873
+#189|Columbus Blue Jackets|Kirill Starkov (F)|||||||2627
+#190|Montréal Canadiens|Matt D'Agostini (F)|7|321|52|55|107|147|11721
+#191|Buffalo Sabres|Vyacheslav Buravchikov (D)|||||||9261
+#192|Carolina Hurricanes|Nicolas Blanchard (F)|1|9|0|0|0|20|11306
+#193|San Jose Sharks|Tony Lucia (F)|||||||18008
+#194|Pittsburgh Penguins|Jean-Philippe Paquet (D)|||||||9354
+#195|Pittsburgh Penguins|Joe Vitale (F)|7|234|11|33|44|156|15069
+#196|New York Islanders|Nick Tuzzolino (D)|||||||11327
+#197|Anaheim Ducks|Jean-Philippe Levasseur (G)|3|0|-|-|-|-|11791
+#198|Carolina Hurricanes|Kyle Lawson (D)|||||||9380
+#199|Minnesota Wild|Riley Emmerson (F)|||||||11586
+#200|Montréal Canadiens|Sergei Kostitsyn (F)|6|353|67|109|176|188|9653
+#201|Columbus Blue Jackets|Trevor Hendrikx (D)|||||||15540
+#202|Chicago Blackhawks|David Kuchejda (F)|||||||10476
+#203|Chicago Blackhawks|Adam Hobson (F)|||||||9357
+#204|Ottawa Senators|Colin Greening (F)|6|286|45|57|102|150|15312
+#205|Vancouver Canucks|Mario Bliznak (F)|2|6|1|0|1|0|11598
+#206|Los Angeles Kings|Josh Meyers (D)|||||||18007
+#207|Atlanta Thrashers|Myles Stoesz (F)|||||||12426
+#208|Buffalo Sabres|Matt Generous (D)|||||||15451
+#209|Washington Capitals|Viktor Dovgan (D)|||||||13643
+#210|New York Islanders|Luciano Aquino (F)|||||||15595
+#211|New York Rangers|Ryan Russell (F)|1|41|2|0|2|2|11056
+#212|Arizona Coyotes|Patrick Brosnihan (F)|||||||18006
+#213|Nashville Predators|Scott Todd (D)|||||||18005
+#214|Detroit Red Wings|Bretton Stamler (D)|||||||11616
+#215|Philadelphia Flyers|Matt Clackson (F)|||||||15050
+#216|Toronto Maple Leafs|Anton Strålman (D)|11|702|45|180|225|243|4152
+#217|Boston Bruins|Brock Bradford (F)|||||||11430
+#218|New Jersey Devils|Alexander Sundström (F)|||||||2019
+#219|St. Louis Blues|Nikolai Lemtyugov (F)|||||||9263
+#220|Edmonton Oilers|Matthew Glasser (F)|||||||15042
+#221|Calgary Flames|Myles Rumsey (D)|||||||18004
+#222|Colorado Avalanche|Kyle Cumiskey (D)|6|139|9|26|35|48|10405
+#223|Dallas Stars|Pat McGann (G)|||||||11790
+#224|Florida Panthers|Zach Bearson (F)|||||||14862
+#225|Tampa Bay Lightning|John Wessbecker (D)|||||||18003
+#226|Los Angeles Kings|John Seymour (F)|||||||11256
+#227|Buffalo Sabres|Andrew Orpik (F)|||||||11884
+#228|Toronto Maple Leafs|Chad Rau (F)|1|9|2|0|2|0|9371
+#229|Montréal Canadiens|Philippe Paquet (D)|||||||15055
+#230|Nashville Predators|Patric Hörnqvist (F)|10|649|203|208|411|333|3683
+#1|St. Louis Blues|Erik Johnson (D)|11|637|70|192|262|418|9207
+#2|Pittsburgh Penguins|Jordan Staal (F)|12|843|206|276|482|409|10157
+#3|Chicago Blackhawks|Jonathan Toews (F)|11|791|292|382|674|437|8792
+#4|Washington Capitals|Nicklas Bäckström (F)|11|815|209|590|799|418|3682
+#5|Boston Bruins|Phil Kessel (F)|12|914|330|411|741|270|8793
+#6|Columbus Blue Jackets|Derick Brassard (F)|11|716|162|266|428|352|9366
+#7|New York Islanders|Kyle Okposo (F)|11|670|173|285|458|374|10458
+#8|Phoenix Coyotes|Peter Mueller (F)|6|297|63|97|160|98|9220
+#9|Minnesota Wild|James Sheppard (F)|7|394|23|68|91|192|11121
+#10|Florida Panthers|Michael Frolík (F)|10|728|137|199|336|263|8701
+#11|Los Angeles Kings|Jonathan Bernier (G)|10|289|-|-|-|-|9330
+#12|Atlanta Thrashers|Bryan Little (F)|11|754|200|275|475|265|10426
+#13|Toronto Maple Leafs|Jiri Tlusty (F)|9|446|89|88|177|126|8605
+#14|Vancouver Canucks|Michael Grabner (F)|9|553|158|91|249|96|8494
+#15|Tampa Bay Lightning|Riku Helenius (G)|1|1|-|-|-|-|7451
+#16|San Jose Sharks|Ty Wishart (D)|3|26|1|5|6|10|9332
+#17|Los Angeles Kings|Trevor Lewis (F)|10|574|61|78|139|146|10461
+#18|Colorado Avalanche|Chris Stewart (F)|10|652|160|161|321|729|10442
+#19|Mighty Ducks of Anaheim|Mark Mitera (D)|||||||9219
+#20|Montréal Canadiens|David Fischer (D)|||||||11984
+#21|New York Rangers|Bobby Sanguinetti (D)|3|45|2|4|6|8|11110
+#22|Philadelphia Flyers|Claude Giroux (F)|11|739|214|463|677|328|10437
+#23|Washington Capitals|Semyon Varlamov (G)|10|399|-|-|-|-|9308
+#24|Buffalo Sabres|Dennis Persson (D)|||||||4568
+#25|St. Louis Blues|Patrik Berglund (F)|10|694|168|154|322|242|3637
+#26|Calgary Flames|Leland Irving (G)|2|13|-|-|-|-|10427
+#27|Dallas Stars|Ivan Vishnevsky (D)|2|5|0|2|2|2|11890
+#28|Ottawa Senators|Nick Foligno (F)|11|768|169|231|400|631|10675
+#29|Phoenix Coyotes|Chris Summers (D)|6|70|2|7|9|51|9317
+#30|New Jersey Devils|Matt Corrente (D)|2|34|0|6|6|68|9331
+#31|St. Louis Blues|Tomas Kana (F)|1|6|0|2|2|2|9236
+#32|Pittsburgh Penguins|Carl Sneep (D)|1|1|0|1|1|0|11431
+#33|Chicago Blackhawks|Igor Makarov (F)|||||||9591
+#34|Washington Capitals|Michal Neuvirth (G)|10|250|-|-|-|-|9279
+#35|Washington Capitals|François Bouchard (F)|||||||9341
+#36|San Jose Sharks|Jamie McGinn (F)|10|598|113|100|213|261|9336
+#37|Boston Bruins|Yuri Alexandrov (D)|||||||9297
+#38|Mighty Ducks of Anaheim|Bryce Swan (F)|||||||11985
+#39|Philadelphia Flyers|Andreas Nödl (F)|5|183|15|21|36|28|11448
+#40|Minnesota Wild|Ondrej Fiala (F)|||||||9625
+#41|Detroit Red Wings|Cory Emmerton (F)|4|139|12|9|21|22|9348
+#42|Philadelphia Flyers|Mike Ratchuk (D)|||||||9323
+#43|Atlanta Thrashers|Riley Holzapfel (F)|||||||11059
+#44|Toronto Maple Leafs|Nikolai Kulyomin (F)|10|669|121|153|274|173|9258
+#45|Edmonton Oilers|Jeff Petry (D)|8|527|45|122|167|215|12265
+#46|Buffalo Sabres|Jhonas Enroth (G)|8|153|-|-|-|-|3688
+#47|Detroit Red Wings|Shawn Matthias (F)|11|551|90|84|174|180|9345
+#48|Los Angeles Kings|Joey Ryan (D)|||||||12266
+#49|Montréal Canadiens|Ben Maxwell (F)|4|47|2|6|8|19|9337
+#50|Boston Bruins|Milan Lucic (F)|11|811|192|289|481|981|11104
+#51|Colorado Avalanche|Nigel Williams (D)|||||||9310
+#52|Washington Capitals|Keith Seabrook (D)|||||||10656
+#53|Montréal Canadiens|Mathieu Carle (D)|1|3|0|0|0|4|11891
+#54|New York Rangers|Artyom Anisimov (F)|10|625|148|162|310|190|9300
+#55|Philadelphia Flyers|Denis Bodrov (D)|||||||9262
+#56|Nashville Predators|Blake Geoffrion (F)|2|55|8|5|13|34|9312
+#57|Buffalo Sabres|Mike Weber (D)|8|351|9|44|53|437|11231
+#58|New Jersey Devils|Alexander Vasyunov (F)|1|18|1|4|5|0|9305
+#59|Colorado Avalanche|Codey Burki (F)|||||||10434
+#60|New York Islanders|Jesse Joensuu (F)|6|129|13|11|24|77|4218
+#61|Chicago Blackhawks|Simon Danis-Pépin (D)|||||||12267
+#62|Detroit Red Wings|Dick Axelsson (F)|||||||3778
+#63|Carolina Hurricanes|Jamie McBain (D)|8|348|30|80|110|72|9311
+#64|St. Louis Blues|Jonas Junland (D)|2|4|0|2|2|2|3442
+#65|Pittsburgh Penguins|Brian Strait (D)|7|187|6|23|29|91|9313
+#66|Montréal Canadiens|Ryan White (F)|8|313|31|30|61|447|11050
+#67|New Jersey Devils|Kirill Tulupov (D)|||||||9298
+#68|Ottawa Senators|Eric Gryba (D)|6|279|7|36|43|358|12268
+#69|Columbus Blue Jackets|Steve Mason (G)|10|476|-|-|-|-|10428
+#70|New York Islanders|Robin Figren (F)|||||||3636
+#71|Boston Bruins|Brad Marchand (F)|9|602|226|233|459|578|10439
+#72|Minnesota Wild|Cal Clutterbuck (F)|11|714|109|97|206|550|9359
+#73|Florida Panthers|Brady Calla (F)|||||||11658
+#74|Los Angeles Kings|Jeff Zatkoff (G)|6|48|-|-|-|-|10457
+#75|Edmonton Oilers|Theo Peckham (D)|6|160|4|13|17|388|11266
+#76|Chicago Blackhawks|Tony Lagerström (F)|||||||3696
+#77|New Jersey Devils|Vladimir Zharkov (F)|3|82|2|12|14|10|9303
+#78|Tampa Bay Lightning|Kevin Quick (D)|1|6|0|1|1|0|15081
+#79|Philadelphia Flyers|Jon Matsumoto (F)|2|14|2|0|2|4|11409
+#80|Atlanta Thrashers|Michael Forney (F)|||||||14868
+#81|Colorado Avalanche|Mike Carman (F)|||||||9321
+#82|Vancouver Canucks|Daniel Rahimi (D)|||||||3856
+#83|Mighty Ducks of Anaheim|John de Gray (D)|||||||10676
+#84|New York Rangers|Ryan Hillier (F)|||||||12270
+#85|Columbus Blue Jackets|Tom Sestito (F)|9|154|10|11|21|499|12269
+#86|Los Angeles Kings|Bud Holloway (F)|1|1|0|0|0|0|11620
+#87|Calgary Flames|John Armstrong (F)|||||||12271
+#88|Phoenix Coyotes|Jonas Ahnelöv (D)|||||||3790
+#89|Calgary Flames|Aaron Marvin (F)|||||||14866
+#90|Dallas Stars|Aaron Snow (F)|||||||11250
+#91|Ottawa Senators|Kaspars Daugavins (F)|3|91|6|9|15|21|11335
+#92|Detroit Red Wings|Daniel Larsson (G)|1|0|-|-|-|-|1284
+#93|Carolina Hurricanes|Harrison Reed (F)|||||||11114
+#94|St. Louis Blues|Ryan Turek (D)|||||||12272
+#95|Chicago Blackhawks|Ben Shutron (D)|||||||9340
+#96|Chicago Blackhawks|Joe Palmer (G)|||||||9328
+#97|Washington Capitals|Oskar Osala (F)|2|3|0|0|0|0|8396
+#98|San Jose Sharks|James DeLory (D)|||||||11233
+#99|Toronto Maple Leafs|James Reimer (G)|8|302|-|-|-|-|11538
+#100|New York Islanders|Rhett Rakhshani (F)|2|7|0|0|0|2|9315
+#101|Philadelphia Flyers|Joonas Lehtivuori (D)|||||||7452
+#102|Minnesota Wild|Kyle Medvec (D)|||||||12273
+#103|Florida Panthers|Michael Caruso (D)|1|2|0|0|0|0|11235
+#104|New York Rangers|David Kveton (F)|||||||9286
+#105|Nashville Predators|Niko Snellman (F)|||||||8397
+#106|St. Louis Blues|Reto Berra (G)|5|76|-|-|-|-|11986
+#107|New Jersey Devils|T.J. Miller (D)|||||||12274
+#108|New York Islanders|Jase Weslosky (G)|||||||12275
+#109|Philadelphia Flyers|Jakub Kovar (G)|||||||10475
+#110|Colorado Avalanche|Kevin Montgomery (D)|||||||9318
+#111|Toronto Maple Leafs|Korbinian Holzer (D)|6|135|4|15|19|94|12276
+#112|Mighty Ducks of Anaheim|Matt Beleskey (F)|10|473|75|82|157|435|9338
+#113|Columbus Blue Jackets|Ben Wright (D)|||||||11673
+#114|Los Angeles Kings|Niclas Andersén (D)|||||||3724
+#115|New York Islanders|Tomas Marcinko (F)|||||||9292
+#116|Florida Panthers|Derrick LaPoint (D)|||||||14869
+#117|Buffalo Sabres|Felix Schütz (F)|||||||10613
+#118|Calgary Flames|Hugo Carpentier (F)|||||||9343
+#119|New York Islanders|Doug Rogers (F)|||||||15065
+#120|Dallas Stars|Richard Bachman (G)|8|48|-|-|-|-|11987
+#121|Ottawa Senators|Pierre-Luc Lessard (D)|||||||12119
+#122|Washington Capitals|Luke Lynes (F)|||||||12277
+#123|Carolina Hurricanes|Bobby Hughes (F)|||||||11106
+#124|St. Louis Blues|Andrew Sackrison (F)|||||||12182
+#125|Pittsburgh Penguins|Chad Johnson (G)|8|173|-|-|-|-|11918
+#126|New York Islanders|Shane Sims (D)|1|1|0|0|0|0|12278
+#127|Washington Capitals|Maxime Lacroix (F)|||||||10657
+#128|Boston Bruins|Andrew Bodnarchuk (D)|2|42|0|4|4|16|12279
+#129|Columbus Blue Jackets|Robert Nyholm (F)|||||||8393
+#130|Phoenix Coyotes|Brett Bennett (G)|||||||9329
+#131|Phoenix Coyotes|Martin Latal (F)|||||||9282
+#132|Minnesota Wild|Niko Hovinen (G)|||||||7472
+#133|Edmonton Oilers|Bryan Pitton (G)|1|0|-|-|-|-|11255
+#134|Los Angeles Kings|David Meckler (F)|||||||12281
+#135|Atlanta Thrashers|Alex Kangas (G)|||||||12280
+#136|Columbus Blue Jackets|Nick Sucharski (F)|||||||11413
+#137|New York Rangers|Tomas Zaborsky (F)|||||||10610
+#138|Dallas Stars|David McIntyre (F)|1|7|1|1|2|2|12282
+#139|Montréal Canadiens|Pavel Valentenko (D)|||||||10496
+#140|Edmonton Oilers|Cody Wild (D)|||||||12283
+#141|New York Islanders|Kim Johansson (F)|||||||3703
+#142|Columbus Blue Jackets|Maxime Fréchette (D)|||||||19377
+#143|San Jose Sharks|Ashton Rome (F)|||||||10637
+#144|Los Angeles Kings|Martin Nolet (D)|||||||19376
+#145|Philadelphia Flyers|Jon Rheault (F)|1|5|0|0|0|0|14861
+#146|Nashville Predators|Mark Dekanich (G)|1|1|-|-|-|-|11988
+#147|Buffalo Sabres|Alex Biega (D)|4|138|2|18|20|72|11427
+#148|New Jersey Devils|Olivier Magnan (D)|1|18|0|0|0|4|11350
+#149|Calgary Flames|Juuso Puustinen (F)|||||||8395
+#150|Dallas Stars|Max Wärn (F)|||||||8394
+#151|Ottawa Senators|Ryan Daniels (G)|||||||11323
+#152|Phoenix Coyotes|Jordan Bendfeld (D)|||||||11669
+#153|Carolina Hurricanes|Stefan Chaput (F)|||||||9335
+#154|St. Louis Blues|Matthew McCollem (F)|||||||15064
+#155|Florida Panthers|Peter Aston (D)|||||||8418
+#156|Chicago Blackhawks|Jan-Mikael Juutilainen (F)|||||||8392
+#157|Washington Capitals|Brent Gwidt (F)|||||||14387
+#158|Boston Bruins|Levi Nelson (F)|||||||9349
+#159|Columbus Blue Jackets|Jesse Dudás (D)|||||||11640
+#160|New York Islanders|Andrew MacDonald (D)|10|539|28|124|152|258|12406
+#161|Toronto Maple Leafs|Viktor Stålberg (F)|8|488|82|86|168|245|4202
+#162|Minnesota Wild|Julian Walker (F)|||||||12653
+#163|Vancouver Canucks|Sergei Shirokov (F)|2|8|1|0|1|2|9264
+#164|Los Angeles Kings|Constantin Braun (D)|||||||9273
+#165|Atlanta Thrashers|Jonas Enlund (F)|||||||8067
+#166|Toronto Maple Leafs|Tyler Ruegsegger (F)|||||||11444
+#167|Vancouver Canucks|Juraj Simek (F)|||||||10616
+#168|Tampa Bay Lightning|Dane Crowley (D)|||||||11696
+#169|Chicago Blackhawks|Chris Auger (F)|||||||15843
+#170|Edmonton Oilers|Alexander Bumagin (F)|||||||9592
+#171|New York Islanders|Brian Day (F)|||||||15309
+#172|Mighty Ducks of Anaheim|Petteri Wirtanen (F)|1|3|1|0|1|2|4222
+#173|New York Islanders|Stefan Ridderwall (G)|||||||3635
+#174|New York Rangers|Eric Hunter (F)|||||||9492
+#175|Philadelphia Flyers|Michael Dupont (G)|||||||11983
+#176|Nashville Predators|Ryan Flynn (F)|||||||9316
+#177|Washington Capitals|Mathieu Perreault (F)|9|496|108|171|279|248|10441
+#178|New Jersey Devils|Tony Romano (F)|||||||12468
+#179|Calgary Flames|Jordan Fulton (F)|||||||15452
+#180|Toronto Maple Leafs|Leo Komarov (F)|5|327|52|70|122|138|7617
+#181|Ottawa Senators|Kevin Koopman (D)|||||||12264
+#182|Detroit Red Wings|Jan Mursak (F)|3|46|2|2|4|8|11112
+#183|Carolina Hurricanes|Nick Dodge (F)|||||||11439
+#184|St. Louis Blues|Alexander Hellström (D)|||||||3679
+#185|Pittsburgh Penguins|Timo Seppänen (D)|||||||7410
+#186|Chicago Blackhawks|Peter LeBlanc (F)|1|1|0|0|0|0|12260
+#187|Calgary Flames|Devin DiDiomete (F)|||||||11320
+#188|Phoenix Coyotes|Chris Frank (D)|||||||12261
+#189|Columbus Blue Jackets|Derek Dorsett (F)|10|515|51|76|127|1314|11666
+#190|New York Islanders|Troy Mattila (F)|||||||12263
+#191|Detroit Red Wings|Nick Oslund (F)|||||||12181
+#192|Minnesota Wild|Chris Hickey (F)|||||||14398
+#193|Florida Panthers|Marc Cheverie (G)|||||||11982
+#194|Columbus Blue Jackets|Matt Marquardt (F)|||||||12259
+#195|Atlanta Thrashers|Jesse Martin (F)|||||||12183
+#196|Phoenix Coyotes|Benn Ferriero (F)|5|98|14|9|23|25|9378
+#197|Vancouver Canucks|Evan Fuller (F)|||||||11642
+#198|Tampa Bay Lightning|Denis Kazionov (F)|||||||12232
+#199|Montréal Canadiens|Cameron Cepek (D)|||||||11655
+#200|Atlanta Thrashers|Arturs Kulda (D)|3|15|0|2|2|8|11357
+#201|Colorado Avalanche|Billy Sauer (G)|||||||11981
+#202|San Jose Sharks|John McCarthy (F)|5|88|3|3|6|22|12262
+#203|San Jose Sharks|Jay Barriball (F)|||||||10909
+#204|New York Rangers|Lukas Zeliska (F)|||||||11648
+#205|Philadelphia Flyers|Andrei Popov (F)|||||||9299
+#206|Nashville Predators|Viktor Gibbs Sjödin (F)|||||||4575
+#207|Buffalo Sabres|Benjamin Breault (F)|||||||12160
+#208|New Jersey Devils|Kyell Henegan (D)|||||||12258
+#209|Calgary Flames|Per Johnsson (D)|||||||3900
+#210|Atlanta Thrashers|Will O'Neill (D)|1|1|0|0|0|0|12257
+#211|Ottawa Senators|Erik Condra (F)|7|366|39|59|98|174|11419
+#212|Detroit Red Wings|Logan Pyett (D)|||||||9344
+#213|Carolina Hurricanes|Justin Krueger (D)|||||||12256
+#1|Chicago Blackhawks|Patrick Kane (F)|11|822|312|516|828|316|9326
+#2|Philadelphia Flyers|James van Riemsdyk (F)|9|609|201|192|393|281|9324
+#3|Phoenix Coyotes|Kyle Turris (F)|10|609|149|212|361|274|11345
+#4|Los Angeles Kings|Thomas Hickey (D)|6|409|22|89|111|157|11617
+#5|Washington Capitals|Karl Alzner (D)|10|673|20|109|129|217|10429
+#6|Edmonton Oilers|Sam Gagner (F)|11|770|152|281|433|354|10425
+#7|Columbus Blue Jackets|Jakub Voracek (F)|10|768|175|398|573|407|9285
+#8|Boston Bruins|Zach Hamill (F)|3|20|0|4|4|4|11053
+#9|San Jose Sharks|Logan Couture (F)|9|582|213|224|437|149|11109
+#10|Florida Panthers|Keaton Ellerby (D)|6|212|4|23|27|88|9333
+#11|Carolina Hurricanes|Brandon Sutter (F)|10|657|131|123|254|116|9339
+#12|Montréal Canadiens|Ryan McDonagh (D)|8|530|53|188|241|221|11458
+#13|St. Louis Blues|Lars Eller (F)|9|604|103|116|219|375|5995
+#14|Colorado Avalanche|Kevin Shattenkirk (D)|8|536|73|248|321|348|11460
+#15|Edmonton Oilers|Alex Plante (D)|3|10|0|2|2|15|11706
+#16|Minnesota Wild|Colton Gillies (F)|4|154|6|12|18|72|11100
+#17|New York Rangers|Alexei Cherepanov (F)|||||||10626
+#18|St. Louis Blues|Ian Cole (D)|8|405|20|77|97|356|11456
+#19|Anaheim Ducks|Logan MacMillan (D)|||||||12504
+#20|Pittsburgh Penguins|Angelo Esposito (F)|||||||10436
+#21|Edmonton Oilers|Riley Nash (F)|7|399|53|86|139|101|12507
+#22|Montréal Canadiens|Max Pacioretty (F)|10|626|226|222|448|339|12461
+#23|Nashville Predators|Jonathon Blum (D)|5|110|7|17|24|22|11597
+#24|Calgary Flames|Mikael Backlund (F)|10|543|108|165|273|257|4295
+#25|Vancouver Canucks|Patrick White (F)|||||||11470
+#26|St. Louis Blues|David Perron (F)|11|722|175|269|444|550|11123
+#27|Detroit Red Wings|Brendan Smith (D)|7|353|17|62|79|379|12506
+#28|San Jose Sharks|Nick Petrecki (D)|1|1|0|0|0|0|12207
+#29|Ottawa Senators|Jim O'Brien (F)|5|77|8|5|13|16|9319
+#30|Phoenix Coyotes|Nick Ross (D)|||||||11099
+#31|Buffalo Sabres|T.J. Brennan (D)|4|53|5|8|13|29|12169
+#32|Phoenix Coyotes|Brett MacLean (F)|2|18|2|3|5|4|11108
+#33|Vancouver Canucks|Taylor Ellington (D)|||||||11695
+#34|Washington Capitals|Josh Godfrey (D)|||||||12512
+#35|Boston Bruins|Tommy Cross (D)|2|3|0|1|1|0|11457
+#36|Phoenix Coyotes|Joel Gistedt (G)|||||||2036
+#37|Columbus Blue Jackets|Stefan Legein (F)|||||||12460
+#38|Chicago Blackhawks|Bill Sweatt (F)|2|3|0|0|0|0|9322
+#39|St. Louis Blues|Simon Hjalmarsson (F)|||||||5009
+#40|Florida Panthers|Michal Repik (F)|4|72|9|11|20|36|10481
+#41|Philadelphia Flyers|Kevin Marshall (D)|1|10|0|0|0|8|12508
+#42|Anaheim Ducks|Eric Tangradi (F)|7|144|5|10|15|86|12514
+#43|Montréal Canadiens|P.K. Subban (D)|9|582|89|288|377|658|11251
+#44|St. Louis Blues|Aaron Palushaj (F)|4|68|3|11|14|18|12513
+#45|Colorado Avalanche|Colby Cohen (D)|1|3|0|0|0|4|12463
+#46|Washington Capitals|Theo Ruth (D)|||||||11459
+#47|Tampa Bay Lightning|Dana Tyrell (F)|5|135|7|17|24|26|11638
+#48|New York Rangers|Antoine Lafleur (G)|||||||12121
+#49|Colorado Avalanche|Trevor Cann (G)|||||||11356
+#50|Dallas Stars|Nico Sacchetti (F)|||||||12509
+#51|Pittsburgh Penguins|Keven Veilleux (F)|||||||11402
+#52|Los Angeles Kings|Oscar Möller (F)|3|87|12|14|26|22|5504
+#53|Columbus Blue Jackets|Will Weber (D)|||||||12515
+#54|Nashville Predators|Jeremy Smith (G)|5|10|-|-|-|-|11341
+#55|Colorado Avalanche|T.J. Galiardi (F)|7|321|44|61|105|136|12464
+#56|Chicago Blackhawks|Akim Aliu (D)|2|7|2|1|3|26|11116
+#57|New Jersey Devils|Mike Hoeffel (F)|||||||12457
+#58|Nashville Predators|Nick Spaling (F)|7|437|52|72|124|120|12462
+#59|Buffalo Sabres|Drew Schiestel (D)|||||||12516
+#60|Ottawa Senators|Ruslan Bashkirov (F)|||||||9301
+#61|Los Angeles Kings|Wayne Simmonds (F)|10|762|226|218|444|958|12517
+#62|New York Islanders|Mark Katic (D)|1|11|0|1|1|4|11395
+#63|Anaheim Ducks|Maxime Macenauer (F)|1|29|1|3|4|18|12518
+#64|Dallas Stars|Sergei Korostin (F)|||||||11864
+#65|Montréal Canadiens|Olivier Fortier (F)|||||||11391
+#66|Philadelphia Flyers|Garrett Klotz (F)|||||||12519
+#67|Atlanta Thrashers|Spencer Machacek (F)|3|25|2|7|9|7|12505
+#68|Columbus Blue Jackets|Jake Hansen (F)|||||||12520
+#69|Chicago Blackhawks|Maxime Tanguay (F)|||||||11129
+#70|Calgary Flames|John Negrin (D)|1|3|0|1|1|2|11398
+#71|Florida Panthers|Yevgeni Dadonov (F)|4|129|38|47|85|24|11859
+#72|Carolina Hurricanes|Drayson Bowman (F)|6|180|15|18|33|53|12521
+#73|Montréal Canadiens|Yannick Weber (D)|10|394|25|58|83|163|10615
+#74|Toronto Maple Leafs|Dale Mitchell (F)|||||||12113
+#75|Tampa Bay Lightning|Luca Cunti (F)|||||||10902
+#76|New York Islanders|Jason Gregoire (F)|||||||12522
+#77|Tampa Bay Lightning|Alex Killorn (F)|6|435|87|134|221|268|12523
+#78|Pittsburgh Penguins|Robert Bortuzzo (D)|7|276|12|30|42|304|12524
+#79|New Jersey Devils|Nick Palmieri (F)|3|87|13|12|25|20|12525
+#80|Pittsburgh Penguins|Casey Pierro-Zabotel (F)|||||||11590
+#81|Nashville Predators|Ryan Thang (F)|1|1|0|0|0|0|11420
+#82|Los Angeles Kings|Bryan Cameron (F)|||||||11244
+#83|San Jose Sharks|Timo Pielmeier (G)|1|1|-|-|-|-|11848
+#84|Washington Capitals|Phil DeSimone (F)|||||||12526
+#85|St. Louis Blues|Brett Sonne (F)|||||||12527
+#86|Chicago Blackhawks|Josh Unice (G)|||||||11455
+#87|New Jersey Devils|Corbin McPherson (D)|||||||12528
+#88|Detroit Red Wings|Joakim Andersson (F)|5|205|15|21|36|48|4087
+#89|Buffalo Sabres|Corey Tropp (F)|4|149|6|21|27|133|12187
+#90|Ottawa Senators|Louie Caporusso (F)|||||||12529
+#91|San Jose Sharks|Tyson Sexsmith (G)|1|0|-|-|-|-|11592
+#92|Anaheim Ducks|Justin Vaive (F)|||||||11468
+#93|Anaheim Ducks|Steven Kampfer (D)|6|166|10|16|26|82|12530
+#94|Columbus Blue Jackets|Maxim Mayorov (F)|4|22|2|1|3|2|12466
+#95|Los Angeles Kings|Alec Martinez (D)|9|496|57|115|172|160|12531
+#96|St. Louis Blues|Cade Fairchild (D)|1|5|0|1|1|0|9309
+#97|Edmonton Oilers|Linus Omark (F)|3|79|8|24|32|40|4008
+#98|Anaheim Ducks|Sebastian Stefaniszin (G)|||||||12532
+#99|Toronto Maple Leafs|Matt Frattin (F)|5|135|17|18|35|44|12534
+#100|St. Louis Blues|Travis Erstad (F)|||||||12535
+#101|Florida Panthers|Matt Rust (F)|||||||11464
+#102|Carolina Hurricanes|Justin McCrae (F)|||||||12536
+#103|Phoenix Coyotes|Vladimir Ruzicka (F)|||||||9283
+#104|Toronto Maple Leafs|Ben Winnett (F)|||||||12537
+#105|Colorado Avalanche|Brad Malone (F)|6|183|13|17|30|194|12188
+#106|New York Islanders|Maxim Grachyov (F)|||||||11128
+#107|Tampa Bay Lightning|Mitch Fadden (F)|||||||11058
+#108|Washington Capitals|Brett Bruneteau (F)|||||||12538
+#109|Los Angeles Kings|Dwight King (F)|7|365|53|56|109|98|12539
+#110|Minnesota Wild|Justin Falk (D)|9|269|3|30|33|208|12543
+#111|Pittsburgh Penguins|Luca Caputi (F)|3|35|3|6|9|20|11313
+#112|Dallas Stars|Colton Sceviour (F)|7|326|48|62|110|87|12557
+#113|Colorado Avalanche|Kent Patterson (G)|||||||12190
+#114|Nashville Predators|Ben Ryan (F)|||||||12558
+#115|Atlanta Thrashers|Niclas Lucenius (F)|||||||9271
+#116|Calgary Flames|Keith Aulie (D)|5|167|4|10|14|196|12561
+#117|New Jersey Devils|Matt Halischuk (F)|8|280|33|42|75|57|12560
+#118|Pittsburgh Penguins|Alex Grant (D)|2|7|2|0|2|9|11393
+#119|Nashville Predators|Mark Santorelli (F)|||||||11052
+#120|Ottawa Senators|Ben Blood (D)|||||||14382
+#121|Anaheim Ducks|Mattias Modig (G)|||||||2356
+#122|Philadelphia Flyers|Mario Kempe (F)|1|18|2|2|4|4|4407
+#123|Phoenix Coyotes|Maxim Goncharov (D)|||||||11861
+#124|Los Angeles Kings|Linden Rowat (G)|||||||11343
+#125|Washington Capitals|Brett Leffler (F)|||||||13812
+#126|Chicago Blackhawks|Joe Lavin (D)|||||||12459
+#127|Edmonton Oilers|Milan Kytnár (F)|1|1|0|0|0|0|11850
+#128|Dallas Stars|Austin Smith (F)|||||||18748
+#129|Dallas Stars|Jamie Benn (F)|9|667|254|342|596|504|15399
+#130|Boston Bruins|Denis Reul (D)|||||||11845
+#131|Florida Panthers|John Lee (D)|||||||14400
+#132|Carolina Hurricanes|Chris Terry (F)|5|152|22|16|38|34|14370
+#133|Montréal Canadiens|Joe Stejskal (D)|||||||15058
+#134|Toronto Maple Leafs|Juraj Mikus (D)|||||||12533
+#135|Colorado Avalanche|Paul Carey (F)|5|92|8|8|16|20|14386
+#136|Dallas Stars|Ondrej Roman (F)|||||||11103
+#137|Los Angeles Kings|Joshua Turnbull (F)|||||||17842
+#138|New York Rangers|Max Campbell (F)|||||||15049
+#139|Buffalo Sabres|Brad Eidsness (G)|||||||12554
+#140|Minnesota Wild|Cody Almond (F)|3|25|2|0|2|26|11683
+#141|Pittsburgh Penguins|Jake Muzzin (D)|7|446|47|145|192|265|13614
+#142|Montréal Canadiens|Andrew Conboy (F)|||||||14390
+#143|Calgary Flames|Mickey Renaud (F)|||||||13837
+#144|Nashville Predators|Andreas Thuresson (F)|2|25|1|2|3|6|4024
+#145|Vancouver Canucks|Charles-Antoine Messier (F)|||||||12162
+#146|Vancouver Canucks|Ilya Kablukov (F)|||||||13965
+#147|Buffalo Sabres|Jean-Simon Allard (F)|||||||12170
+#148|Detroit Red Wings|Randy Cameron (F)|||||||17843
+#149|Dallas Stars|Michael Neal (F)|||||||13667
+#150|Tampa Bay Lightning|Matt Marshall (F)|||||||18746
+#151|Anaheim Ducks|Brett Morrison (F)|||||||14607
+#152|Philadelphia Flyers|Jon Kalinski (F)|2|22|1|4|5|0|17719
+#153|Phoenix Coyotes|Scott Darling (G)|4|118|-|-|-|-|12553
+#154|Washington Capitals|Dan Dunn (G)|||||||12552
+#155|Colorado Avalanche|Jens Hellgren (D)|||||||5509
+#156|Chicago Blackhawks|Richard Greenop (F)|||||||13632
+#157|Edmonton Oilers|William Quist (F)|||||||6912
+#158|Columbus Blue Jackets|Allen York (G)|1|11|-|-|-|-|15039
+#159|Boston Bruins|Alain Goulet (D)|||||||12559
+#160|St. Louis Blues|Anthony Peluso (F)|5|144|4|10|14|213|15038
+#161|Philadelphia Flyers|Patrick Maroon (F)|7|375|78|100|178|451|12063
+#162|Carolina Hurricanes|Brett Bellemore (D)|3|121|4|16|20|79|14729
+#163|Montréal Canadiens|Nichlas Torp (D)|||||||4509
+#164|Toronto Maple Leafs|Chris DiDomenico (F)|2|27|6|4|10|14|11319
+#165|San Jose Sharks|Patrik Zackrisson (F)|||||||2020
+#166|New York Islanders|Blake Kessel (D)|||||||12176
+#167|Tampa Bay Lightning|Johan Harju (F)|1|10|1|2|3|2|2349
+#168|New York Rangers|Carl Hagelin (F)|7|488|88|134|222|208|4567
+#169|Boston Bruins|Radim Ostrcil (D)|||||||12572
+#170|Minnesota Wild|Harri Ilvonen (D)|||||||10246
+#171|Pittsburgh Penguins|Dustin Jeffrey (F)|7|131|18|15|33|12|11115
+#172|Dallas Stars|Luke Gazdic (F)|4|147|5|3|8|206|15037
+#173|San Jose Sharks|Nick Bonino (F)|9|478|87|125|212|137|14686
+#174|Nashville Predators|Robert Dietrich (D)|||||||13633
+#175|Atlanta Thrashers|John Albert (F)|1|9|1|0|1|0|11462
+#176|Vancouver Canucks|Taylor Matson (F)|||||||12562
+#177|New Jersey Devils|Vili Sopanen (F)|||||||7571
+#178|Detroit Red Wings|Zack Torquato (F)|||||||11401
+#179|Buffalo Sabres|Paul Byron (F)|8|363|70|74|144|104|15036
+#180|Washington Capitals|Justin Taylor (F)|||||||14011
+#181|Florida Panthers|Corey Syvret (D)|||||||11239
+#182|Philadelphia Flyers|Brad Phillips (G)|||||||12458
+#183|Tampa Bay Lightning|Torrie Jung (G)|1|0|-|-|-|-|12541
+#184|Los Angeles Kings|Josh Kidd (D)|||||||13606
+#185|Washington Capitals|Nick Larson (F)|||||||18600
+#186|Calgary Flames|C.J. Severyn (F)|||||||11467
+#187|Buffalo Sabres|Nick Eno (G)|||||||12555
+#188|Los Angeles Kings|Matt Fillier (F)|||||||12171
+#189|Boston Bruins|Jordan Knackstedt (F)|||||||11662
+#190|St. Louis Blues|Trevor Nill (F)|||||||12587
+#191|Florida Panthers|Ryan Watson (F)|||||||15035
+#192|Montréal Canadiens|Scott Kishel (D)|||||||14396
+#193|New York Rangers|David Skokan (F)|||||||12542
+#194|Toronto Maple Leafs|Carl Gunnarsson (D)|9|556|25|97|122|151|2621
+#195|Colorado Avalanche|Johan Alcén (F)|||||||3415
+#196|New York Islanders|Simon Lacroix (D)|||||||12556
+#197|Tampa Bay Lightning|Michael Ward (D)|||||||15034
+#198|New York Rangers|Danny Hobbs (F)|||||||14389
+#199|Washington Capitals|Andrew Glass (F)|||||||20907
+#200|Minnesota Wild|Carson McMillan (F)|3|16|2|3|5|11|13595
+#201|San Jose Sharks|Justin Braun (D)|8|529|22|116|138|191|15033
+#202|Florida Panthers|Sergei Gaiduchenko (G)|||||||14589
+#203|San Jose Sharks|Frazer McLaren (F)|5|102|4|7|11|264|14501
+#204|Nashville Predators|Atte Engren (G)|||||||8046
+#205|Atlanta Thrashers|Paul Postma (D)|8|204|9|25|34|51|15032
+#206|Vancouver Canucks|Dan Gendur (F)|||||||13603
+#207|New Jersey Devils|Ryan Molle (D)|||||||13929
+#208|Detroit Red Wings|Bryan Rufenach (D)|||||||15031
+#209|Buffalo Sabres|Drew MacKenzie (D)|||||||14401
+#210|Tampa Bay Lightning|Justin Courtnall (F)|||||||12540
+#211|Columbus Blue Jackets|Trent Vogelhuber (F)|||||||14385
+#1|Tampa Bay Lightning|Steven Stamkos (F)|10|664|348|320|668|440|11113
+#2|Los Angeles Kings|Drew Doughty (D)|10|770|102|320|422|555|10430
+#3|Atlanta Thrashers|Zach Bogosian (D)|10|552|49|121|170|497|14440
+#4|St. Louis Blues|Alex Pietrangelo (D)|10|617|80|277|357|199|11317
+#5|Toronto Maple Leafs|Luke Schenn (D)|10|708|30|113|143|529|11400
+#6|Columbus Blue Jackets|Nikita Filatov (F)|4|53|6|8|14|20|11860
+#7|Nashville Predators|Colin Wilson (F)|9|558|101|154|255|130|9325
+#8|Phoenix Coyotes|Mikkel Bødker (F)|10|618|109|179|288|110|5996
+#9|New York Islanders|Josh Bailey (F)|10|715|124|253|377|198|14013
+#10|Vancouver Canucks|Cody Hodgson (F)|6|328|64|78|142|68|11253
+#11|Chicago Blackhawks|Kyle Beach (F)|||||||11054
+#12|Buffalo Sabres|Tyler Myers (D)|9|555|65|169|234|405|17521
+#13|Los Angeles Kings|Colten Teubert (D)|1|24|0|1|1|25|13625
+#14|Carolina Hurricanes|Zach Boychuk (F)|7|127|12|18|30|16|11057
+#15|Ottawa Senators|Erik Karlsson (D)|9|627|126|392|518|316|9878
+#16|Boston Bruins|Joe Colborne (F)|7|295|42|72|114|144|18593
+#17|Anaheim Ducks|Jake Gardiner (D)|7|489|42|173|215|159|18592
+#18|Nashville Predators|Chet Pickard (G)|1|0|-|-|-|-|11602
+#19|Philadelphia Flyers|Luca Sbisa (D)|10|495|18|84|102|344|13946
+#20|New York Rangers|Michael Del Zotto (D)|9|566|53|158|211|250|12112
+#21|Washington Capitals|Anton Gustafsson (F)|||||||6058
+#22|Edmonton Oilers|Jordan Eberle (F)|8|588|190|251|441|141|11098
+#23|Minnesota Wild|Tyler Cuma (D)|1|1|0|0|0|2|15385
+#24|New Jersey Devils|Mattias Tedenby (F)|4|120|10|20|30|42|6013
+#25|Calgary Flames|Greg Nemisz (F)|2|15|0|1|1|0|14359
+#26|Buffalo Sabres|Tyler Ennis (F)|9|492|105|153|258|180|11667
+#27|Washington Capitals|John Carlson (D)|9|608|77|256|333|198|18590
+#28|Phoenix Coyotes|Viktor Tikhonov (F)|2|111|11|11|22|40|15235
+#29|Atlanta Thrashers|Daultan Leveillé (F)|||||||18599
+#30|Detroit Red Wings|Tom McCollum (G)|4|3|-|-|-|-|11236
+#31|Florida Panthers|Jacob Markström (G)|8|169|-|-|-|-|9787
+#32|Los Angeles Kings|Vyacheslav Voynov (D)|4|190|18|63|81|72|10627
+#33|St. Louis Blues|Philip McRae (F)|1|15|1|2|3|2|13499
+#34|St. Louis Blues|Jake Allen (G)|6|219|-|-|-|-|17522
+#35|Anaheim Ducks|Nicolas Deschamps (F)|1|3|0|0|0|0|16713
+#36|New York Islanders|Corey Trivino (F)|||||||17517
+#37|Columbus Blue Jackets|Cody Goloubef (D)|6|129|2|21|23|66|18594
+#38|Nashville Predators|Roman Josi (D)|8|481|78|214|292|151|12668
+#39|Anaheim Ducks|Eric O'Dell (F)|2|41|3|5|8|29|17515
+#40|New York Islanders|Aaron Ness (D)|5|47|1|5|6|22|17497
+#41|Vancouver Canucks|Yann Sauvé (D)|2|8|0|0|0|0|11318
+#42|Ottawa Senators|Patrick Wiercioch (D)|6|268|16|58|74|138|15528
+#43|Anaheim Ducks|Justin Schultz (D)|6|407|45|142|187|100|18241
+#44|Buffalo Sabres|Luke Adam (F)|5|90|15|11|26|36|13785
+#45|Carolina Hurricanes|Zac Dalpe (F)|8|140|12|12|24|36|18240
+#46|Florida Panthers|Colby Robak (D)|4|47|0|4|4|25|17518
+#47|Boston Bruins|Maxime Sauvé (F)|1|1|0|0|0|0|17514
+#48|Calgary Flames|Mitch Wahl (F)|||||||11102
+#49|Phoenix Coyotes|Jared Staal (F)|1|2|0|0|0|2|10158
+#50|Colorado Avalanche|Cameron Gaunce (D)|3|32|2|3|5|36|16591
+#51|New York Rangers|Derek Stepan (F)|8|597|142|274|416|156|19040
+#52|New Jersey Devils|Brandon Burlon (D)|||||||18597
+#53|New York Islanders|Travis Hamonic (D)|8|518|27|130|157|531|17519
+#54|New Jersey Devils|Patrice Cormier (F)|6|49|1|4|5|18|19042
+#55|Minnesota Wild|Marco Scandella (D)|8|455|32|79|111|185|17520
+#56|Montréal Canadiens|Danny Kristo (F)|||||||17504
+#57|Washington Capitals|Eric Mestery (D)|||||||19041
+#58|Washington Capitals|Dmitri Kugryshev (F)|||||||11865
+#59|Dallas Stars|Tyler Beskorowany (G)|||||||15386
+#60|Toronto Maple Leafs|Jimmy Hayes (F)|7|334|54|55|109|149|11463
+#61|Colorado Avalanche|Peter Delmas (G)|||||||15627
+#62|San Jose Sharks|Justin Daniels (F)|||||||19060
+#63|Los Angeles Kings|Robbie Czarnik (F)|||||||17501
+#64|Atlanta Thrashers|Danick Paquette (F)|||||||12401
+#65|St. Louis Blues|Jori Lehterä (F)|4|280|33|75|108|134|8042
+#66|New York Islanders|David Toews (F)|||||||15018
+#67|Philadelphia Flyers|Marc-André Bourdon (D)|1|45|4|3|7|52|19078
+#68|Chicago Blackhawks|Shawn Lalonde (D)|1|1|0|0|0|0|11246
+#69|Phoenix Coyotes|Michael Stone (D)|7|425|29|83|112|238|11708
+#70|St. Louis Blues|James Livingston (F)|||||||14091
+#71|Anaheim Ducks|Josh Brittain (F)|||||||15705
+#72|New York Islanders|Jyri Niemi (D)|||||||12570
+#73|New York Islanders|Kirill Petrov (F)|||||||11870
+#74|Los Angeles Kings|Andrew Campbell (D)|3|42|0|2|2|12|19222
+#75|New York Rangers|Yevgeni Grachyov (F)|2|34|1|3|4|2|16752
+#76|Phoenix Coyotes|Mathieu Brodeur (D)|||||||19045
+#77|Boston Bruins|Michael Hutchinson (G)|6|102|-|-|-|-|14727
+#78|Calgary Flames|Lance Bouma (F)|7|357|30|46|76|210|16499
+#79|Ottawa Senators|Zack Smith (F)|10|542|85|80|165|612|14495
+#80|Florida Panthers|Adam Comrie (D)|||||||18598
+#81|Buffalo Sabres|Corey Fienhage (D)|||||||18596
+#82|New Jersey Devils|Adam Henrique (F)|8|512|142|151|293|158|19043
+#83|Anaheim Ducks|Marco Cousineau (G)|||||||15620
+#84|Philadelphia Flyers|Jacob DeSerres (G)|||||||11621
+#85|Anaheim Ducks|Brandon McMillan (F)|5|171|14|22|36|60|14741
+#86|Montréal Canadiens|Steve Quailer (F)|||||||15531
+#87|St. Louis Blues|Ian Schultz (F)|||||||19054
+#88|Los Angeles Kings|Geordie Wudrick (F)|||||||19047
+#89|Dallas Stars|Scott Winkler (F)|||||||18120
+#90|New York Rangers|Tomas Kundratek (D)|2|30|1|6|7|10|13651
+#91|Detroit Red Wings|Max Nicastro (D)|||||||15519
+#92|San Jose Sharks|Samuel Groulx (D)|||||||19048
+#93|Washington Capitals|Braden Holtby (G)|8|361|-|-|-|-|11394
+#94|Atlanta Thrashers|Vinny Saponari (F)|||||||11465
+#95|St. Louis Blues|David Warsofsky (D)|5|55|2|9|11|8|17499
+#96|New York Islanders|Matt Donovan (D)|3|67|2|17|19|26|14126
+#97|Boston Bruins|Jamie Arniel (F)|1|1|0|0|0|0|11388
+#98|Toronto Maple Leafs|Mikhail Stefanovich (F)|||||||9289
+#99|Phoenix Coyotes|Colin Long (F)|||||||14504
+#100|Florida Panthers|A.J. Jenks (F)|||||||14643
+#101|Buffalo Sabres|Justin Jokinen (F)|||||||18851
+#102|New York Islanders|David Ullström (F)|2|49|6|7|13|12|6913
+#103|Edmonton Oilers|Johan Motin (D)|1|1|0|0|0|0|6953
+#104|Buffalo Sabres|Jordon Southorn (D)|||||||19076
+#105|Carolina Hurricanes|Michal Jordán (D)|3|79|3|4|7|18|12567
+#106|San Jose Sharks|Harri Säteri (G)|2|9|-|-|-|-|11181
+#107|Columbus Blue Jackets|Steven Delisle (D)|||||||19181
+#108|Calgary Flames|Nick Larson (F)|||||||14399
+#109|Ottawa Senators|André Petersson (F)|1|1|0|0|0|0|7039
+#110|Colorado Avalanche|Kelsey Tessier (F)|||||||13497
+#111|New York Rangers|Dale Weise (F)|8|439|49|60|109|320|15727
+#112|New Jersey Devils|Matt Delahey (D)|||||||19044
+#113|Anaheim Ducks|Ryan Hegarty (D)|||||||17494
+#114|Calgary Flames|T.J. Brodie (D)|8|491|35|178|213|134|19170
+#115|Minnesota Wild|Sean Lorenz (D)|||||||17496
+#116|Montréal Canadiens|Jason Missiaen (G)|1|0|-|-|-|-|14439
+#117|Tampa Bay Lightning|James Wright (F)|4|146|4|8|12|64|18595
+#118|Columbus Blue Jackets|Drew Olson (D)|||||||19062
+#119|Ottawa Senators|Derek Grant (F)|5|152|12|19|31|41|18242
+#120|Pittsburgh Penguins|Nathan Moon (F)|||||||14431
+#121|Detroit Red Wings|Gustav Nyquist (F)|7|419|109|137|246|116|6223
+#122|Tampa Bay Lightning|Dustin Tokarski (G)|6|34|-|-|-|-|11613
+#123|Los Angeles Kings|Andrei Loktionov (F)|5|155|22|26|48|22|11867
+#124|Atlanta Thrashers|Nicklas Lasu (F)|||||||5016
+#125|St. Louis Blues|Kristofer Berglund (D)|||||||3705
+#126|New York Islanders|Kevin Poulin (G)|6|50|-|-|-|-|12156
+#127|Columbus Blue Jackets|Matt Calvert (F)|8|416|72|77|149|273|17025
+#128|Toronto Maple Leafs|Greg Pateryn (D)|5|167|3|26|29|115|15526
+#129|Toronto Maple Leafs|Joël Champagne (F)|||||||19046
+#130|Toronto Maple Leafs|Jerome Flaake (F)|||||||11844
+#131|Vancouver Canucks|Prab Rai (F)|||||||15590
+#132|Chicago Blackhawks|Teigan Zahn (D)|||||||19183
+#133|Edmonton Oilers|Philippe Cornet (F)|1|2|0|1|1|0|19051
+#134|Buffalo Sabres|Jacob Lagacé (F)|||||||17516
+#135|Columbus Blue Jackets|Tomas Kubalik (F)|2|12|1|3|4|6|11834
+#136|Nashville Predators|Taylor Stefishen (F)|||||||18243
+#137|Columbus Blue Jackets|Brent Regner (D)|1|7|0|0|0|4|14962
+#138|Montréal Canadiens|Maxim Trunyov (F)|||||||19034
+#139|Ottawa Senators|Mark Borowiecki (D)|7|269|7|21|28|500|19223
+#140|Colorado Avalanche|Mark Olver (F)|3|74|10|12|22|39|15566
+#141|New York Rangers|Chris Doyle (F)|||||||12120
+#142|New Jersey Devils|Kory Nagy (F)|||||||19224
+#143|Anaheim Ducks|Stefan Warg (D)|||||||6870
+#144|Washington Capitals|Joel Broda (F)|||||||11607
+#145|Minnesota Wild|Eero Elo (F)|||||||17014
+#146|San Jose Sharks|Julien Demers (D)|||||||19050
+#147|Tampa Bay Lightning|Kyle DeCoste (F)|||||||19070
+#148|New York Islanders|Matt Martin (F)|9|570|50|59|109|853|19225
+#149|Dallas Stars|Philip Larsen (D)|6|151|9|28|37|46|6006
+#150|Pittsburgh Penguins|Alexander Pechursky (G)|1|1|-|-|-|-|11869
+#151|Detroit Red Wings|Julien Cayer (F)|||||||19077
+#152|Tampa Bay Lightning|Mark Barberio (D)|6|239|13|40|53|95|19148
+#153|Los Angeles Kings|Justin Azevedo (F)|||||||9347
+#154|Atlanta Thrashers|Chris Carrozzi (G)|||||||11334
+#155|St. Louis Blues|Anthony Nigro (F)|||||||11241
+#156|New York Islanders|Jared Spurgeon (D)|8|509|56|149|205|76|11611
+#157|Columbus Blue Jackets|Cam Atkinson (F)|7|447|145|128|273|116|19166
+#158|Toronto Maple Leafs|Grant Rollheiser (G)|||||||19226
+#159|Phoenix Coyotes|Brett Hextall (F)|||||||18247
+#160|Tampa Bay Lightning|Luke Witkowski (F)|4|85|1|7|8|126|19227
+#161|Vancouver Canucks|Mats Frøshaug (F)|||||||6251
+#162|Chicago Blackhawks|Jonathan Carlsson (D)|||||||3706
+#163|Edmonton Oilers|Teemu Hartikainen (F)|3|52|6|7|13|16|11365
+#164|Buffalo Sabres|Nick Crawford (D)|||||||19233
+#165|Carolina Hurricanes|Mike Murphy (G)|2|2|-|-|-|-|13666
+#166|Nashville Predators|Jeff Foss (D)|||||||19232
+#167|Colorado Avalanche|Joël Chouinard (D)|||||||13783
+#168|Calgary Flames|Ryley Grantham (F)|||||||19231
+#169|Chicago Blackhawks|Ben Smith (F)|7|237|29|25|54|9|15068
+#170|Colorado Avalanche|Jonas Holøs (D)|1|39|0|6|6|10|15713
+#171|New York Rangers|Mitch Gaulton (D)|||||||19228
+#172|New Jersey Devils|David Wohlberg (F)|||||||17509
+#173|Boston Bruins|Nicholas Tremblay (F)|||||||18875
+#174|Washington Capitals|Greg Burke (F)|||||||19159
+#175|New York Islanders|Justin DiBenedetto (F)|1|8|0|1|1|2|13844
+#176|Dallas Stars|Matt Tassone (F)|||||||19058
+#177|San Jose Sharks|Tommy Wingels (F)|8|448|62|81|143|254|19230
+#178|Philadelphia Flyers|Zac Rinaldo (F)|7|328|14|20|34|699|19073
+#179|Chicago Blackhawks|Braden Birch (D)|||||||19229
+#180|Pittsburgh Penguins|Patrick Killeen (G)|||||||11258
+#181|Detroit Red Wings|Stephen Johnston (F)|||||||19061
+#182|Tampa Bay Lightning|Matias Sointu (F)|||||||16048
+#183|Los Angeles Kings|Garrett Roe (F)|||||||14867
+#184|Atlanta Thrashers|Zach Redmond (D)|6|133|9|29|38|50|12189
+#185|St. Louis Blues|Paul Karpowich (G)|||||||19234
+#186|San Jose Sharks|Jason Demers (D)|9|573|43|148|191|344|12154
+#187|Columbus Blue Jackets|Sean Collins (F)|4|21|0|3|3|10|19204
+#188|Toronto Maple Leafs|Andrew MacWilliam (D)|1|12|0|2|2|12|19165
+#189|Phoenix Coyotes|Tim Billingsley (D)|||||||19151
+#190|Florida Panthers|Matt Bartkowski (D)|8|253|7|40|47|157|16707
+#191|Vancouver Canucks|Morgan Clark (G)|||||||11633
+#192|Chicago Blackhawks|Joe Gleason (D)|||||||18885
+#193|Edmonton Oilers|Jordan Bendfeld (D)|||||||11669
+#194|San Jose Sharks|Drew Daniels (D)|||||||19066
+#195|Carolina Hurricanes|Samuel Morneau (F)|||||||19074
+#196|Philadelphia Flyers|Joacim Eriksson (G)|2|1|-|-|-|-|9784
+#197|Boston Bruins|Mark Goggin (F)|||||||19063
+#198|Calgary Flames|Alexander Deilert (D)|||||||5507
+#199|Ottawa Senators|Emil Sandin (F)|||||||3707
+#200|Colorado Avalanche|Nate Condon (F)|||||||19049
+#201|Nashville Predators|Jani Lajunen (F)|||||||15653
+#202|New Jersey Devils|Harry Young (D)|||||||19075
+#203|Tampa Bay Lightning|David Carle (D)|||||||15017
+#204|Washington Capitals|Stefan Della Rovere (F)|1|7|0|0|0|11|19171
+#205|New Jersey Devils|Jean-Sébastien Bérubé (F)|||||||19177
+#206|Montréal Canadiens|Patrick Johnson (F)|||||||19237
+#207|Nashville Predators|Anders Lindbäck (G)|7|130|-|-|-|-|3769
+#208|Anaheim Ducks|Nick Pryor (D)|||||||17498
+#209|Dallas Stars|Mike Bergin (D)|||||||19238
+#210|Pittsburgh Penguins|Nicholas D'Agostino (D)|||||||19239
+#211|Detroit Red Wings|Jesper Samuelsson (F)|||||||4613
+#1|New York Islanders|John Tavares (F)|9|669|272|349|621|307|9223
+#2|Tampa Bay Lightning|Victor Hedman (D)|9|626|82|282|364|485|6007
+#3|Colorado Avalanche|Matt Duchene (F)|9|654|201|276|477|158|12571
+#4|Atlanta Thrashers|Evander Kane (F)|9|574|186|168|354|671|14657
+#5|Los Angeles Kings|Brayden Schenn (F)|9|515|137|181|318|273|14739
+#6|Phoenix Coyotes|Oliver Ekman Larsson (D)|8|576|102|188|290|360|7693
+#7|Toronto Maple Leafs|Nazem Kadri (F)|9|488|145|168|313|344|14728
+#8|Dallas Stars|Scott Glennie (F)|1|1|0|0|0|2|13799
+#9|Ottawa Senators|Jared Cowen (D)|6|249|15|31|45|174|12107
+#10|Edmonton Oilers|Magnus Pääjärvi (F)|8|387|51|54|105|72|6014
+#11|Nashville Predators|Ryan Ellis (D)|7|396|55|118|173|140|14012
+#12|New York Islanders|Calvin de Haan (D)|6|304|12|69|81|118|23814
+#13|Buffalo Sabres|Zack Kassian (F)|7|387|52|65|117|614|15390
+#14|Florida Panthers|Dmitri Kulikov (D)|9|569|33|121|154|348|11866
+#15|Anaheim Ducks|Peter Holland (F)|7|266|36|49|85|112|24654
+#16|Minnesota Wild|Nick Leddy (D)|8|578|56|202|258|105|38067
+#17|St. Louis Blues|David Rundblad (D)|5|113|4|21|25|30|7069
+#18|Montréal Canadiens|Louis Leblanc (F)|2|50|5|5|10|32|31615
+#19|New York Rangers|Chris Kreider (F)|7|381|105|114|219|326|37998
+#20|New Jersey Devils|Jacob Josefson (F)|8|315|20|44|64|84|7655
+#21|Columbus Blue Jackets|John Moore (D)|8|447|32|67|99|185|30901
+#22|Vancouver Canucks|Jordan Schroeder (F)|6|165|18|24|42|14|11466
+#23|Calgary Flames|Tim Erixon (D)|4|93|2|12|14|38|6051
+#24|Washington Capitals|Marcus Johansson (F)|8|530|107|197|304|76|6225
+#25|Boston Bruins|Jordan Caron (F)|6|157|12|16|28|78|32870
+#26|Anaheim Ducks|Kyle Palmieri (F)|8|422|123|120|243|205|17508
+#27|Carolina Hurricanes|Philippe Paradis (F)|||||||23204
+#28|Chicago Blackhawks|Dylan Olsen (D)|4|124|5|17|22|36|19294
+#29|Tampa Bay Lightning|Carter Ashton (F)|3|54|0|3|3|32|21033
+#30|Pittsburgh Penguins|Simon Després (D)|6|193|6|37|43|150|30902
+#31|New York Islanders|Mikko Koskinen (G)|2|4|-|-|-|-|12807
+#32|Detroit Red Wings|Landon Ferraro (F)|4|77|7|5|12|29|13934
+#33|Colorado Avalanche|Ryan O'Reilly (F)|9|651|155|267|422|84|14371
+#34|Atlanta Thrashers|Carl Klingberg (F)|4|12|1|0|1|4|9791
+#35|Los Angeles Kings|Kyle Clifford (F)|8|535|43|51|94|678|15480
+#36|Phoenix Coyotes|Chris Brown (F)|4|23|2|1|3|21|31273
+#37|Anaheim Ducks|Mat Clark (D)|2|9|0|1|1|6|31560
+#38|Dallas Stars|Alex Chiasson (F)|6|381|59|65|124|222|32978
+#39|Ottawa Senators|Jakob Silfverberg (F)|7|419|93|116|209|118|6562
+#40|Edmonton Oilers|Anton Lander (F)|6|215|10|25|35|56|6016
+#41|Nashville Predators|Zach Budish (F)|||||||38068
+#42|Nashville Predators|Charles-Olivier Roussel (D)|||||||23467
+#43|San Jose Sharks|William Wrenn (D)|||||||31272
+#44|Florida Panthers|Drew Shore (F)|5|94|9|17|26|28|31263
+#45|Atlanta Thrashers|Jeremy Morin (F)|5|82|10|12|22|69|17507
+#46|Ottawa Senators|Robin Lehner (G)|8|219|-|-|-|-|9796
+#47|New York Rangers|Ethan Werek (F)|||||||21591
+#48|St. Louis Blues|Brett Ponich (D)|||||||32783
+#49|Colorado Avalanche|Stefan Elliott (D)|5|84|8|16|24|16|15735
+#50|Toronto Maple Leafs|Kenny Ryan (F)|||||||31278
+#51|Carolina Hurricanes|Brian Dumoulin (D)|5|243|7|44|51|64|33896
+#52|Tampa Bay Lightning|Richard Pánik (F)|6|335|61|65|126|176|11849
+#53|Vancouver Canucks|Anton Rödin (F)|1|3|0|1|1|0|7084
+#54|New Jersey Devils|Éric Gélinas (D)|5|189|14|41|55|92|37536
+#55|Washington Capitals|Dmitri Orlov (D)|7|365|30|94|124|136|17758
+#56|Columbus Blue Jackets|Kevin Lynch (F)|||||||31276
+#57|San Jose Sharks|Taylor Doherty (D)|||||||32723
+#58|Toronto Maple Leafs|Jesse Blacker (D)|1|1|0|0|0|0|33754
+#59|Chicago Blackhawks|Brandon Pirri (F)|8|228|60|41|101|77|33898
+#60|Detroit Red Wings|Tomas Tatar (F)|7|427|119|109|228|146|17750
+#61|Pittsburgh Penguins|Philip Samuelsson (D)|3|13|0|0|0|2|10809
+#62|New York Islanders|Anders Nilsson (G)|5|105|-|-|-|-|5591
+#63|Pittsburgh Penguins|Ben Hanowski (F)|2|16|1|2|3|2|38066
+#64|Colorado Avalanche|Tyson Barrie (D)|7|406|61|187|248|127|15127
+#65|Montréal Canadiens|Joonas Nättinen (F)|1|1|0|0|0|0|16043
+#66|Buffalo Sabres|Brayden McNabb (D)|6|314|12|53|65|271|31079
+#67|Florida Panthers|Josh Birkholz (F)|||||||33894
+#68|Toronto Maple Leafs|Jamie Devane (F)|1|2|0|0|0|0|37707
+#69|Dallas Stars|Reilly Smith (F)|7|432|98|149|247|116|33903
+#70|Nashville Predators|Taylor Beck (F)|5|92|11|12|23|32|24653
+#71|Edmonton Oilers|Troy Hesketh (D)|||||||40880
+#72|Nashville Predators|Michael Latta (F)|3|113|4|13|17|130|14436
+#73|New Jersey Devils|Alexander Urbom (D)|4|34|3|1|4|28|7045
+#74|Calgary Flames|Ryan Howse (F)|||||||30438
+#75|Detroit Red Wings|Andrej Nestrasil (F)|3|128|17|31|48|18|19353
+#76|Anaheim Ducks|Igor Bobkov (G)|2|0|-|-|-|-|34768
+#77|Minnesota Wild|Matt Hackett (G)|4|26|-|-|-|-|14449
+#78|St. Louis Blues|Sergei Andronov (F)|||||||11856
+#79|Montréal Canadiens|Mac Bennett (D)|||||||37894
+#80|New York Rangers|Ryan Bourque (F)|1|1|0|0|0|0|17500
+#81|Philadelphia Flyers|Adam Morrison (G)|||||||23164
+#82|Edmonton Oilers|Cameron Abney (F)|||||||31082
+#83|Vancouver Canucks|Kevin Connauton (D)|5|260|26|42|68|155|38032
+#84|Los Angeles Kings|Nicolas Deslauriers (F)|5|269|22|22|44|241|37437
+#85|Washington Capitals|Cody Eakin (F)|7|459|76|105|181|210|23166
+#86|Boston Bruins|Ryan Button (D)|||||||32780
+#87|Philadelphia Flyers|Simon Bertilsson (D)|||||||11173
+#88|Carolina Hurricanes|Mattias Lindström (F)|||||||6021
+#89|Chicago Blackhawks|Dan DeLisle (F)|||||||38048
+#90|Detroit Red Wings|Gleason Fournier (D)|||||||13583
+#91|Phoenix Coyotes|Michael Lee (G)|1|0|-|-|-|-|31289
+#92|New York Islanders|Casey Cizikas (F)|7|413|44|80|124|158|14960
+#93|Tampa Bay Lightning|Alex Hutchings (F)|||||||15380
+#94|Columbus Blue Jackets|David Savard (D)|7|407|32|93|125|236|32878
+#95|Los Angeles Kings|Jean-François Bérubé (G)|4|34|-|-|-|-|23458
+#96|Los Angeles Kings|Linden Vey (F)|4|138|14|30|44|24|28422
+#97|Phoenix Coyotes|Jordan Szwarz (F)|3|47|4|3|7|23|23107
+#98|Nashville Predators|Craig Smith (F)|7|516|123|138|261|210|27038
+#99|Edmonton Oilers|Kyle Bigos (D)|||||||38020
+#100|Ottawa Senators|Chris Wideman (D)|3|156|14|24|38|86|38081
+#101|Edmonton Oilers|Toni Rajala (F)|||||||16035
+#102|Nashville Predators|Mattias Ekholm (D)|7|390|29|90|119|186|8373
+#103|Minnesota Wild|Kris Foucault (F)|1|1|0|0|0|0|32805
+#104|Buffalo Sabres|Marcus Foligno (F)|7|424|57|82|139|406|18601
+#105|Phoenix Coyotes|Justin Weller (D)|||||||24531
+#106|Anaheim Ducks|Sami Vatanen (D)|6|337|36|118|154|148|16044
+#107|Florida Panthers|Garrett Wilson (F)|3|34|0|0|0|24|23809
+#108|St. Louis Blues|Tyler Shattock (F)|||||||18880
+#109|Montréal Canadiens|Alexander Avtsin (F)|||||||38656
+#110|Nashville Predators|Nick Oliver (F)|||||||37916
+#111|Calgary Flames|Henrik Björklund (F)|||||||7101
+#112|Boston Bruins|Lane MacDermid (F)|3|21|2|2|4|36|23003
+#113|Vancouver Canucks|Jeremy Price (D)|||||||38058
+#114|New Jersey Devils|Seth Helgeson (D)|3|50|1|3|4|50|33895
+#115|Washington Capitals|Patrick Wey (D)|1|9|0|3|3|5|31602
+#116|Minnesota Wild|Alexander Fällström (F)|||||||7054
+#117|Atlanta Thrashers|Eddie Pasquale (G)|1|0|-|-|-|-|11248
+#118|Toronto Maple Leafs|No selection was made|||||||11111
+#119|Chicago Blackhawks|Byron Froese (F)|3|110|5|11|16|47|31081
+#120|Atlanta Thrashers|Ben Chiarot (D)|5|227|7|37|44|130|33875
+#121|Pittsburgh Penguins|Nick Petersen (F)|||||||23202
+#122|New York Islanders|Anton Klementyev (D)|1|1|0|0|0|0|17575
+#123|Pittsburgh Penguins|Alex Velischek (D)|||||||38064
+#124|Colorado Avalanche|Kieran Millan (G)|||||||18744
+#125|Atlanta Thrashers|Cody Sol (D)|||||||23108
+#126|Los Angeles Kings|David Kolomatis (D)|||||||14642
+#127|New York Rangers|Roman Horák (F)|3|84|6|13|19|16|18089
+#128|Toronto Maple Leafs|Eric Knodel (D)|||||||38031
+#129|Dallas Stars|Tomas Vincour (F)|4|95|7|10|17|12|12565
+#130|Ottawa Senators|Mike Hoffman (F)|7|342|107|123|230|119|18800
+#131|Carolina Hurricanes|Matt Kennedy (F)|||||||30030
+#132|Nashville Predators|Gabriel Bourque (F)|7|306|36|53|89|58|28421
+#133|Edmonton Oilers|Olivier Roy (G)|||||||23121
+#134|Buffalo Sabres|Mark Adams (D)|||||||40881
+#135|Florida Panthers|Corban Knight (F)|3|29|3|5|8|4|38063
+#136|Anaheim Ducks|Radoslav Illo (F)|||||||27025
+#137|Columbus Blue Jackets|Thomas Larkin (D)|||||||38061
+#138|Florida Panthers|Wade Megan (F)|2|4|1|0|1|0|38054
+#139|Montréal Canadiens|Gabriel Dumont (F)|6|87|4|5|9|48|36736
+#140|New York Rangers|Scott Stajcer (G)|||||||23416
+#141|Calgary Flames|Spencer Bennett (F)|||||||38046
+#142|Philadelphia Flyers|Nicola Riopel (G)|||||||15628
+#143|Vancouver Canucks|Peter Andersson (D)|||||||10071
+#144|New Jersey Devils|Derek Rodwell (F)|||||||40882
+#145|Washington Capitals|Brett Flemming (D)|||||||15383
+#146|Ottawa Senators|Jeff Costello (F)|||||||33899
+#147|San Jose Sharks|Phil Varone (F)|4|50|5|5|10|18|15485
+#148|Tampa Bay Lightning|Michael Zador (G)|||||||23112
+#149|Chicago Blackhawks|Marcus Krüger (F)|9|446|34|77|111|204|8311
+#150|Detroit Red Wings|Nick Jensen (D)|2|130|4|24|28|39|37773
+#151|Pittsburgh Penguins|Andy Bathgate (F)|||||||33614
+#152|New York Islanders|Anders Lee (F)|6|343|124|83|207|198|19068
+#153|Philadelphia Flyers|David Labrecque (F)|||||||23201
+#154|Colorado Avalanche|Brandon Maxwell (G)|||||||17492
+#155|Atlanta Thrashers|Jimmy Bubnick (F)|||||||23159
+#156|Los Angeles Kings|Michael Pelech (F)|||||||15707
+#157|Phoenix Coyotes|Evan Bloodoff (F)|||||||30440
+#158|Toronto Maple Leafs|Jerry D'Amigo (F)|2|31|1|2|3|2|31274
+#159|Dallas Stars|Curtis McKenzie (F)|4|99|10|13|23|131|19277
+#160|Ottawa Senators|Corey Cowick (F)|||||||23812
+#161|Minnesota Wild|Darcy Kuemper (G)|6|131|-|-|-|-|23162
+#162|Tampa Bay Lightning|Jaroslav Janus (G)|||||||11876
+#163|Minnesota Wild|Jere Sallinen (F)|||||||15136
+#164|Buffalo Sabres|Connor Knapp (G)|1|2|-|-|-|-|19212
+#165|Florida Panthers|Scott Timmins (F)|2|24|1|0|1|12|18618
+#166|Anaheim Ducks|Scott Valentine (D)|||||||30688
+#167|Columbus Blue Jackets|Anton Blomqvist (D)|||||||7234
+#168|St. Louis Blues|David Shields (D)|||||||37634
+#169|Montréal Canadiens|Dustin Walsh (F)|||||||38042
+#170|New York Rangers|Daniel Maggio (D)|||||||37729
+#171|Calgary Flames|Joni Ortio (G)|3|37|-|-|-|-|16050
+#172|Philadelphia Flyers|Eric Wellwood (F)|3|31|5|5|10|4|23008
+#173|Vancouver Canucks|Joe Cannata (G)|1|0|-|-|-|-|17491
+#174|New Jersey Devils|Ashton Bernard (F)|||||||18872
+#175|Washington Capitals|Garrett Mitchell (F)|1|1|0|0|0|0|21032
+#176|Boston Bruins|Tyler Randell (F)|1|27|6|0|6|47|31565
+#177|Chicago Blackhawks|David Pacan (F)|||||||38052
+#178|Carolina Hurricanes|Rasmus Rissanen (D)|1|6|0|0|0|4|17287
+#179|Los Angeles Kings|Brandon Kozun (F)|1|20|2|2|4|6|23151
+#180|Detroit Red Wings|Mitch Callahan (F)|2|5|0|0|0|0|36708
+#181|Pittsburgh Penguins|Viktor Ekbom (D)|||||||4996
+#182|Minnesota Wild|Erik Haula (F)|5|342|71|73|144|150|16042
+#183|Tampa Bay Lightning|Kirill Gotovets (D)|||||||17654
+#184|Colorado Avalanche|Gus Young (D)|||||||38049
+#185|Atlanta Thrashers|Levko Koper (F)|||||||18603
+#186|Los Angeles Kings|Jordan Nolan (F)|7|361|24|26|50|333|23805
+#187|Vancouver Canucks|Steven Anthony (F)|||||||33846
+#188|Toronto Maple Leafs|Barron Smith (D)|||||||31574
+#189|San Jose Sharks|Marek Viedenský (F)|||||||17752
+#190|Ottawa Senators|Brad Peltz (F)|||||||40883
+#191|Ottawa Senators|Michael Sdao (D)|||||||33912
+#192|Nashville Predators|Cam Reid (F)|||||||40884
+#193|Minnesota Wild|Anthony Hamburg (F)|||||||40885
+#194|Buffalo Sabres|Maxime Legault (F)|||||||36718
+#195|Chicago Blackhawks|Paul Phillips (D)|||||||37788
+#196|Philadelphia Flyers|Oliver Lauridsen (D)|2|16|2|1|3|44|6660
+#197|Columbus Blue Jackets|Kyle Neuber (F)|||||||23046
+#198|Los Angeles Kings|Nic Dowd (F)|3|131|9|17|26|55|39372
+#199|Montréal Canadiens|Mike Cichy (F)|||||||16691
+#200|New York Rangers|Mikhail Pashnin (D)|||||||29170
+#201|Calgary Flames|Gaelan Patterson (D)|||||||32769
+#202|St. Louis Blues|Maxwell Tardy (F)|||||||38044
+#203|Atlanta Thrashers|Jordan Samuels-Thomas (F)|||||||19154
+#204|New Jersey Devils|Curtis Gedig (D)|||||||38056
+#205|Washington Capitals|Benjamin Casavant (F)|||||||32873
+#206|Boston Bruins|Ben Sexton (F)|1|2|0|0|0|0|33901
+#207|San Jose Sharks|Dominik Bielke (D)|||||||17622
+#208|Carolina Hurricanes|Tommi Kivistö (D)|||||||16045
+#209|Chicago Blackhawks|David Gilbert (F)|||||||37467
+#210|Detroit Red Wings|Adam Almquist (D)|1|2|1|0|1|0|10378
+#211|Montréal Canadiens|Petteri Similä  (G)|||||||37317
+#1|Edmonton Oilers|Taylor Hall (F)|8|529|191|283|474|300|14360
+#2|Boston Bruins|Tyler Seguin (F)|8|590|229|276|505|183|23807
+#3|Florida Panthers|Erik Gudbranson (D)|7|391|14|40|54|399|31282
+#4|Columbus Blue Jackets|Ryan Johansen (F)|7|512|116|226|342|318|45512
+#5|New York Islanders|Nino Niederreiter (F)|8|452|103|105|208|217|17679
+#6|Tampa Bay Lightning|Brett Connolly (F)|7|346|57|52|109|172|23297
+#7|Carolina Hurricanes|Jeff Skinner (F)|8|579|204|175|379|268|23668
+#8|Atlanta Thrashers|Alexander Burmistrov (F)|6|348|37|64|101|139|22927
+#9|Minnesota Wild|Mikael Granlund (F)|6|398|78|190|268|98|16037
+#10|New York Rangers|Dylan McIlrath (D)|4|43|3|2|5|94|37170
+#11|Dallas Stars|Jack Campbell (G)|4|7|-|-|-|-|20709
+#12|Anaheim Ducks|Cam Fowler (D)|8|561|53|196|249|145|31261
+#13|Phoenix Coyotes|Brandon Gormley (D)|3|58|2|3|5|20|19428
+#14|St. Louis Blues|Jaden Schwartz (F)|7|380|113|158|271|99|33907
+#15|Los Angeles Kings|Derek Forbort (D)|3|174|4|34|38|120|31265
+#16|St. Louis Blues|Vladimir Tarasenko (F)|6|421|178|172|350|123|24787
+#17|Colorado Avalanche|Joey Hishon (F)|2|13|1|1|2|0|15388
+#18|Nashville Predators|Austin Watson (F)|4|216|23|24|47|254|33753
+#19|Florida Panthers|Nick Bjugstad (F)|6|362|82|97|179|160|40265
+#20|Pittsburgh Penguins|Beau Bennett (F)|6|200|24|40|64|52|46980
+#21|Detroit Red Wings|Riley Sheahan (F)|7|365|49|81|130|60|33929
+#22|Montréal Canadiens|Jarred Tinordi (D)|4|53|0|6|6|78|20706
+#23|Buffalo Sabres|Mark Pysyk (D)|6|289|12|47|59|80|23154
+#24|Chicago Blackhawks|Kevin Hayes (F)|4|310|73|101|174|88|40243
+#25|Florida Panthers|Quinton Howden (F)|4|97|10|7|17|30|31281
+#26|Washington Capitals|Yevgeni Kuznetsov (F)|5|340|80|185|265|156|34777
+#27|Phoenix Coyotes|Mark Visentin (G)|1|1|-|-|-|-|30034
+#28|San Jose Sharks|Charlie Coyle (F)|6|419|81|133|214|170|60251
+#29|Anaheim Ducks|Emerson Etem (F)|5|173|22|24|46|30|20718
+#30|New York Islanders|Brock Nelson (F)|6|398|99|89|188|145|74997
+#31|Edmonton Oilers|Tyler Pitlick (F)|4|138|25|16|41|44|40064
+#32|Boston Bruins|Jared Knight (F)|||||||23111
+#33|Florida Panthers|John McFarland (F)|1|3|0|0|0|0|22106
+#34|Columbus Blue Jackets|Dalton Smith (F)|||||||30923
+#35|Chicago Blackhawks|Ludvig Rensfeldt (F)|||||||13161
+#36|Florida Panthers|Alexander Petrovic (D)|6|228|5|43|48|334|32778
+#37|Carolina Hurricanes|Justin Faulk (D)|7|477|74|149|223|218|20715
+#38|New Jersey Devils|Jon Merrill (D)|5|250|7|32|39|110|20712
+#39|Minnesota Wild|Brett Bulmer (F)|3|17|0|3|3|15|36711
+#40|New York Rangers|Christian Thomas (F)|4|27|1|2|3|9|30686
+#41|Dallas Stars|Patrik Nemeth (D)|5|176|3|26|29|81|10383
+#42|Anaheim Ducks|Devante Smith-Pelly (F)|7|341|40|53|93|122|32728
+#43|Toronto Maple Leafs|Brad Ross (F)|||||||32786
+#44|St. Louis Blues|Sebastian Wännström (F)|||||||9782
+#45|Boston Bruins|Ryan Spooner (F)|6|273|45|113|158|61|23117
+#46|Edmonton Oilers|Martin Marincin (D)|5|177|3|22|25|84|34750
+#47|Los Angeles Kings|Tyler Toffoli (F)|6|375|108|114|222|107|23813
+#48|Edmonton Oilers|Curtis Hamilton (F)|1|1|0|0|0|5|31288
+#49|Colorado Avalanche|Calvin Pickard (G)|5|87|-|-|-|-|23165
+#50|Florida Panthers|Connor Brickley (F)|2|67|5|12|17|33|45687
+#51|Detroit Red Wings|Calle Järnkrok (F)|5|316|56|67|123|73|6020
+#52|Phoenix Coyotes|Phil Lane (F)|||||||39491
+#53|Carolina Hurricanes|Mark Alt (D)|2|16|0|0|0|2|74998
+#54|Chicago Blackhawks|Justin Holl (D)|1|2|2|0|2|0|46905
+#55|Columbus Blue Jackets|Petr Straka (F)|1|3|0|2|2|0|34805
+#56|Minnesota Wild|Johan Larsson (F)|6|258|26|39|65|127|9009
+#57|Phoenix Coyotes|Oscar Lindberg (F)|4|197|30|29|59|89|10711
+#58|Chicago Blackhawks|Kent Simpson (G)|1|1|-|-|-|-|23801
+#59|Minnesota Wild|Jason Zucker (F)|7|330|97|75|172|124|20726
+#60|Chicago Blackhawks|Stephen Johns (D)|3|150|13|15|28|83|20711
+#61|Edmonton Oilers|Ryan Martindale (F)|||||||23810
+#62|Toronto Maple Leafs|Greg McKegg (F)|5|91|7|6|13|32|31283
+#63|Tampa Bay Lightning|Brock Beukeboom (D)|||||||19612
+#64|Calgary Flames|Max Reinhart (F)|3|23|1|4|5|6|30443
+#65|New York Islanders|Kirill Kabanov (F)|||||||19427
+#66|Tampa Bay Lightning|Radko Gudas (D)|6|339|20|65|85|516|18085
+#67|Carolina Hurricanes|Danny Biega (D)|1|10|0|2|2|0|40194
+#68|Buffalo Sabres|Jérôme Leduc (D)|||||||37441
+#69|Florida Panthers|Joe Basaraba (F)|||||||30055
+#70|Los Angeles Kings|Jordan Weal (F)|3|106|16|17|33|24|23324
+#71|Colorado Avalanche|Michaël Bournival (F)|4|113|12|10|22|24|36719
+#72|Tampa Bay Lightning|Adam Janosik (D)|||||||34749
+#73|Calgary Flames|Joey Leach (D)|||||||37152
+#74|St. Louis Blues|Max Gardiner (F)|||||||40259
+#75|Buffalo Sabres|Kevin Sundher (F)|||||||31085
+#76|Ottawa Senators|Jakub Culek (F)|||||||34785
+#77|Dallas Stars|Alexander Guptill (F)|||||||39485
+#78|Nashville Predators|Taylor Aronson (D)|||||||27126
+#79|Toronto Maple Leafs|Sondre Olden (F)|||||||27945
+#80|Pittsburgh Penguins|Bryan Rust (F)|4|181|33|46|79|50|20708
+#81|Detroit Red Wings|Louis-Marc Aubry (F)|||||||37500
+#82|New York Islanders|Jason Clark (F)|||||||75016
+#83|Buffalo Sabres|Matt MacKenzie (D)|||||||37110
+#84|New Jersey Devils|Scott Wedgewood (G)|2|24|-|-|-|-|30921
+#85|Carolina Hurricanes|Austin Levi (D)|||||||33650
+#86|Washington Capitals|Stanislav Galiyev (F)|2|26|1|3|4|4|24635
+#87|Atlanta Thrashers|Julian Melchiori (D)|3|30|0|2|2|8|73778
+#88|San Jose Sharks|Max Gaede (F)|||||||67092
+#89|Philadelphia Flyers|Michael Chaput (F)|5|135|6|11|17|62|37543
+#90|Chicago Blackhawks|Joakim Nordström (F)|5|282|20|29|49|41|18332
+#91|Edmonton Oilers|Jeremie Blain (D)|||||||37074
+#92|Florida Panthers|Sam Brittain (G)|1|0|-|-|-|-|26439
+#93|Florida Panthers|Benjamin Gallacher (D)|||||||39631
+#94|Columbus Blue Jackets|Brandon Archibald (D)|||||||31583
+#95|Colorado Avalanche|Stephen Silas (D)|||||||33613
+#96|Tampa Bay Lightning|Geoff Schemitsch (D)|||||||45578
+#97|Boston Bruins|Craig Cunningham (F)|3|63|3|5|8|6|18886
+#98|Buffalo Sabres|Steven Shipley (F)|||||||31284
+#99|Florida Panthers|Joonas Donskoi (F)|3|203|31|54|85|56|16039
+#100|New York Rangers|Andrew Yogan (F)|||||||13839
+#101|Atlanta Thrashers|Ivan Telegin (F)|||||||41028
+#102|Columbus Blue Jackets|Mathieu Corbeil (G)|1|0|-|-|-|-|32882
+#103|Calgary Flames|John Ramage (D)|2|2|0|0|0|0|31270
+#104|St. Louis Blues|Jani Hakanpää (D)|||||||45342
+#105|Carolina Hurricanes|Justin Shugg (F)|1|3|0|0|0|2|13670
+#106|Ottawa Senators|Marcus Sörensen (F)|2|51|6|5|11|9|20065
+#107|Colorado Avalanche|Sami Aittokallio (G)|2|2|-|-|-|-|25481
+#108|Calgary Flames|Bill Arnold (F)|1|1|0|0|0|0|40260
+#109|Dallas Stars|Alex Theriau (D)|||||||30490
+#110|Pittsburgh Penguins|Tom Kühnhackl (F)|3|168|11|28|39|48|17637
+#111|Detroit Red Wings|Teemu Pulkkinen (F)|4|83|13|9|22|32|16036
+#112|Washington Capitals|Philipp Grubauer (G)|6|101|-|-|-|-|17632
+#113|Montréal Canadiens|Mark MacMillan (F)|||||||45873
+#114|New Jersey Devils|Joe Faust (D)|||||||75022
+#115|Vancouver Canucks|Patrick McNally (D)|||||||74999
+#116|Toronto Maple Leafs|Petter Granberg (D)|4|45|0|2|2|29|13901
+#117|Montréal Canadiens|Morgan Ellis (D)|1|3|0|0|0|2|37281
+#118|Tampa Bay Lightning|Jimmy Mullin (F)|||||||75029
+#119|Philadelphia Flyers|Tye McGinn (F)|4|89|9|8|17|44|37572
+#120|Chicago Blackhawks|Rob Flick (F)|||||||37665
+#121|Edmonton Oilers|Tyler Bunz (G)|1|1|-|-|-|-|24660
+#122|Anaheim Ducks|Chris Wagner (F)|4|174|17|12|29|73|39429
+#123|Florida Panthers|Zach Hyman (F)|3|180|29|45|74|85|75045
+#124|Columbus Blue Jackets|Austin Madaisky (D)|||||||33548
+#125|New York Islanders|Tony DeHart (D)|||||||31572
+#126|Nashville Predators|Patrick Cehlin (F)|||||||6047
+#127|San Jose Sharks|Cody Ferriero (F)|||||||75021
+#128|Atlanta Thrashers|Fredrik Pettersson Wentzel (G)|||||||13553
+#129|San Jose Sharks|Freddie Hamilton (F)|5|75|4|2|6|12|31570
+#130|New York Rangers|Jason Wilson (F)|||||||33632
+#131|Dallas Stars|John Klingberg (D)|4|303|42|172|214|122|21717
+#132|Anaheim Ducks|Tim Heed (D)|2|30|3|8|11|8|10065
+#133|Calgary Flames|Micheal Ferland (F)|4|250|42|47|89|135|45473
+#134|St. Louis Blues|Cody Beach (F)|||||||37114
+#135|Boston Bruins|Justin Florek (F)|1|4|1|1|2|0|17503
+#136|San Jose Sharks|Isaac MacLeod (D)|||||||46959
+#137|Colorado Avalanche|Troy Rutkowski (D)|||||||32785
+#138|Phoenix Coyotes|Louis Domingue (G)|4|96|-|-|-|-|31515
+#139|Colorado Avalanche|Luke Walker (F)|||||||33566
+#140|Pittsburgh Penguins|Kenny Agostino (F)|4|22|2|4|6|6|75015
+#141|Detroit Red Wings|Petr Mrázek (G)|6|183|-|-|-|-|34797
+#142|Washington Capitals|Caleb Herbert (F)|||||||40252
+#143|Buffalo Sabres|Gregg Sutch (F)|||||||33658
+#144|Toronto Maple Leafs|Sam Carrick (F)|2|19|1|1|2|13|32716
+#145|Vancouver Canucks|Adam Polasek (D)|||||||34799
+#146|Toronto Maple Leafs|Daniel Brodin (F)|||||||10051
+#147|Montréal Canadiens|Brendan Gallagher (F)|6|406|118|121|239|234|25705
+#148|Los Angeles Kings|Kevin Gravel (D)|3|70|1|9|10|8|35674
+#149|Philadelphia Flyers|Michael Parks (F)|||||||40237
+#150|Atlanta Thrashers|Yasin Cissé (F)|||||||31285
+#151|Chicago Blackhawks|Mirko Höfflin (F)|||||||34842
+#152|Pittsburgh Penguins|Joe Rogalski (D)|||||||32748
+#153|Florida Panthers|Corey Durocher (F)|||||||39752
+#154|Columbus Blue Jackets|Dalton Prout (D)|7|242|6|30|36|306|22629
+#155|Atlanta Thrashers|Kendall McFaull (D)|||||||45511
+#156|Tampa Bay Lightning|Brendan O'Donnell (F)|||||||40229
+#157|New York Rangers|Jesper Fast (F)|5|287|35|63|98|70|10967
+#158|Los Angeles Kings|Maxim Kitsyn (F)|||||||19425
+#159|Minnesota Wild|Johan Gustafsson (G)|1|0|-|-|-|-|10306
+#160|Atlanta Thrashers|Tanner Lane (F)|||||||79185
+#161|Anaheim Ducks|Andreas Dahlström (F)|||||||13025
+#162|Edmonton Oilers|Brandon Davidson (D)|4|152|9|13|22|63|45525
+#163|San Jose Sharks|Konrad Abeltshauser (D)|||||||34836
+#164|St. Louis Blues|Stephen MacAulay (F)|||||||37425
+#165|Boston Bruins|Zane McIntyre (G)|2|8|-|-|-|-|75336
+#166|Edmonton Oilers|Drew Czerwonka (F)|||||||33560
+#167|Carolina Hurricanes|Tyler Stahl (D)|||||||45484
+#168|Nashville Predators|Anthony Bitetto (D)|4|96|2|14|16|78|37758
+#169|Atlanta Thrashers|Sebastian Owuya (D)|||||||10586
+#170|Pittsburgh Penguins|Reid McNeill (D)|||||||45609
+#171|Detroit Red Wings|Brooks Macek (F)|||||||32758
+#172|Vancouver Canucks|Alex Friesen (F)|1|1|0|0|0|0|31568
+#173|Buffalo Sabres|Cédrick Henley (F)|||||||37403
+#174|New Jersey Devils|Maxime Clermont (G)|||||||18498
+#175|Vancouver Canucks|Jonathan Iilahti (G)|||||||43557
+#176|Washington Capitals|Samuel Carrier (D)|||||||37472
+#177|Anaheim Ducks|Kevin Lind (D)|||||||37830
+#178|Ottawa Senators|Mark Stone (F)|7|307|95|154|249|93|32806
+#179|Philadelphia Flyers|Nick Luukko (D)|||||||75032
+#180|Chicago Blackhawks|Nick Mattson (D)|||||||31269
+#181|Edmonton Oilers|Kristians Pelss (F)|||||||34663
+#182|Toronto Maple Leafs|Josh Nicholls (F)|||||||32770
+#183|Florida Panthers|R.J. Boyd (D)|||||||38034
+#184|Columbus Blue Jackets|Martin Ouellette (G)|||||||75337
+#185|New York Islanders|Cody Rosen (G)|||||||39660
+#186|Tampa Bay Lightning|Teigan Zahn (D)|||||||19183
+#187|Carolina Hurricanes|Frederik Andersen (G)|6|257|-|-|-|-|15205
+#188|San Jose Sharks|Lee Moffie (D)|||||||18883
+#189|Minnesota Wild|Dylen McKinlay (F)|||||||32803
+#190|New York Rangers|Randy McNaught (F)|||||||37116
+#191|Chicago Blackhawks|Mac Carruth (G)|||||||39777
+#192|Anaheim Ducks|Brett Perlini (F)|||||||19180
+#193|Calgary Flames|Patrick Holland (F)|1|5|0|0|0|0|26390
+#194|Nashville Predators|David Elsner (F)|||||||43428
+#195|Boston Bruins|Maxim Chudinov (D)|||||||11858
+#196|Ottawa Senators|Bryce Aneloski (D)|||||||15516
+#197|Colorado Avalanche|Luke Moffatt (F)|||||||20722
+#198|Nashville Predators|Joonas Rask (F)|1|2|0|1|1|0|16049
+#199|Atlanta Thrashers|Peter Stoykewych (D)|||||||40030
+#200|San Jose Sharks|Chris Crane (F)|||||||37775
+#201|Detroit Red Wings|Ben Marshall (D)|||||||40255
+#202|Edmonton Oilers|Kellen Jones (F)|||||||38013
+#203|Buffalo Sabres|Christian Isackson (F)|||||||40253
+#204|New Jersey Devils|Mauro Jörg (F)|||||||17695
+#205|Vancouver Canucks|Sawyer Hannay (D)|||||||45145
+#206|Philadelphia Flyers|Ricard Blidstrand (D)|||||||10384
+#207|Montréal Canadiens|John Westin (F)|||||||13078
+#208|Buffalo Sabres|Riley Boychuk (F)|||||||32784
+#209|Philadelphia Flyers|Brendan Ranford (F)|1|1|0|0|0|0|24082
+#210|Boston Bruins|Zach Trotman (D)|4|70|3|9|12|22|49303
+#1|Edmonton Oilers|Ryan Nugent-Hopkins (F)|7|457|119|194|313|142|25636
+#2|Colorado Avalanche|Gabriel Landeskog (F)|7|506|143|198|341|391|10393
+#3|Florida Panthers|Jonathan Huberdeau (F)|6|385|95|172|267|181|45261
+#4|New Jersey Devils|Adam Larsson (D)|7|416|17|84|101|244|10713
+#5|New York Islanders|Ryan Strome (F)|5|340|58|102|160|156|44789
+#6|Ottawa Senators|Mika Zibanejad (F)|7|409|105|130|235|94|23856
+#7|Winnipeg Jets|Mark Scheifele (F)|7|366|113|174|287|142|75379
+#8|Philadelphia Flyers|Sean Couturier (F)|7|498|101|166|267|191|32885
+#9|Boston Bruins|Dougie Hamilton (D)|6|423|64|156|220|269|45596
+#10|Minnesota Wild|Jonas Brodin (D)|6|404|24|76|100|108|19980
+#11|Colorado Avalanche|Duncan Siemens (D)|3|20|1|1|2|25|37238
+#12|Carolina Hurricanes|Ryan Murphy (D)|6|172|8|34|42|54|44666
+#13|Calgary Flames|Sven Bärtschi (F)|7|259|57|65|122|68|33591
+#14|Dallas Stars|Jamie Oleksiak (D)|6|187|11|25|36|169|37832
+#15|New York Rangers|J.T. Miller (F)|6|360|82|108|190|156|38624
+#16|Buffalo Sabres|Joel Armia (F)|4|180|26|32|58|54|40624
+#17|Montréal Canadiens|Nathan Beaulieu (D)|6|284|8|61|69|188|37422
+#18|Chicago Blackhawks|Mark McNeill (F)|2|2|0|0|0|0|26414
+#19|Edmonton Oilers|Oscar Klefbom (D)|5|255|24|70|94|34|16804
+#20|Phoenix Coyotes|Connor Murphy (D)|5|334|15|48|63|179|45417
+#21|Ottawa Senators|Stefan Noesen (F)|4|118|21|16|37|60|45567
+#22|Toronto Maple Leafs|Tyler Biggs (F)|||||||38619
+#23|Pittsburgh Penguins|Joe Morrow (D)|4|121|8|17|25|42|37180
+#24|Ottawa Senators|Matt Puempel (F)|3|79|10|5|15|28|45571
+#25|Toronto Maple Leafs|Stuart Percy (D)|2|12|0|3|3|2|45602
+#26|Chicago Blackhawks|Phillip Danault (F)|4|187|25|50|75|83|45282
+#27|Tampa Bay Lightning|Vladislav Namestnikov (F)|5|282|55|72|127|138|39029
+#28|Minnesota Wild|Zack Phillips (F)|||||||44594
+#29|Vancouver Canucks|Nicklas Jensen (F)|4|31|3|3|6|10|32422
+#30|Anaheim Ducks|Rickard Rakell (F)|6|313|96|102|198|57|17435
+#31|Edmonton Oilers|David Musil (D)|1|4|0|2|2|2|23298
+#32|St. Louis Blues|Ty Rattie (F)|5|48|9|10|19|8|26385
+#33|Florida Panthers|Rocco Grimaldi (F)|4|37|5|5|10|8|38622
+#34|New York Islanders|Scott Mayfield (D)|5|83|5|17|22|98|45906
+#35|Detroit Red Wings|Tomas Jurco (F)|5|201|22|28|50|60|34751
+#36|Chicago Blackhawks|Adam Clendening (D)|4|86|4|20|24|42|20714
+#37|Columbus Blue Jackets|Boone Jenner (F)|5|342|86|75|161|225|45587
+#38|Nashville Predators|Magnus Hellberg (G)|3|4|-|-|-|-|13297
+#39|Anaheim Ducks|John Gibson (G)|5|178|-|-|-|-|45399
+#40|Boston Bruins|Alexander Khokhlachev (F)|3|9|0|0|0|2|41925
+#41|St. Louis Blues|Dmitrij Jaskin (F)|6|266|25|36|61|82|65564
+#42|Carolina Hurricanes|Victor Rask (F)|4|313|62|95|157|68|15747
+#43|Chicago Blackhawks|Brandon Saad (F)|7|450|125|142|267|80|31264
+#44|Dallas Stars|Brett Ritchie (F)|4|188|29|19|48|99|45554
+#45|Calgary Flames|Markus Granlund (F)|5|224|43|32|75|52|19426
+#46|St. Louis Blues|Joel Edmundson (D)|3|205|11|30|41|180|59478
+#47|San Jose Sharks|Matt Nieto (F)|5|338|50|57|107|68|20723
+#48|Detroit Red Wings|Xavier Ouellet (D)|5|141|5|18|23|63|45164
+#49|Los Angeles Kings|Christopher Gibson (G)|3|12|-|-|-|-|40999
+#50|New York Islanders|Johan Sundström (F)|1|11|0|1|1|6|16727
+#51|Phoenix Coyotes|Alexander Ruuttu (F)|||||||45423
+#52|Nashville Predators|Miikka Salomäki (F)|4|125|8|11|19|64|43419
+#53|Anaheim Ducks|William Karlsson (F)|4|265|61|67|128|30|19432
+#54|Pittsburgh Penguins|Scott Harrington (D)|4|79|3|6|9|26|39653
+#55|Detroit Red Wings|Ryan Sproul (D)|3|44|2|10|12|12|62407
+#56|Phoenix Coyotes|Lucas Lessio (F)|3|41|3|4|7|12|45173
+#57|Calgary Flames|Tyler Wotherspoon (D)|4|30|0|5|5|4|37182
+#58|Tampa Bay Lightning|Nikita Kucherov (F)|5|365|147|187|334|161|77237
+#59|Florida Panthers|Rasmus Bengtsson (D)|||||||23185
+#60|Minnesota Wild|Mario Lucia (F)|||||||75068
+#61|Ottawa Senators|Shane Prince (F)|4|128|12|26|38|39|32724
+#62|Edmonton Oilers|Samu Perhonen (G)|||||||43533
+#63|New York Islanders|Andrey Pedan (D)|1|13|0|0|0|18|79402
+#64|Florida Panthers|Vincent Trocheck (F)|5|310|91|121|212|171|45560
+#65|Anaheim Ducks|Joseph Cramarossa (F)|1|59|4|6|10|60|45600
+#66|Columbus Blue Jackets|T.J. Tynan (F)|1|3|0|0|0|0|45686
+#67|Winnipeg Jets|Adam Lowry (F)|4|281|41|49|90|159|45633
+#68|Philadelphia Flyers|Nick Cousins (F)|4|178|24|21|45|68|45550
+#69|New Jersey Devils|No selection was made|||||||11111
+#70|Chicago Blackhawks|Michael Paliotta (D)|2|2|0|1|1|4|38626
+#71|Vancouver Canucks|David Honzik (G)|||||||59785
+#72|New York Rangers|Steven Fogarty (F)|1|1|0|0|0|2|114771
+#73|Carolina Hurricanes|Keegan Lowe (D)|2|4|0|0|0|10|45485
+#74|Edmonton Oilers|Travis Ewanyk (F)|||||||37130
+#75|New Jersey Devils|Blake Coleman (F)|2|102|14|13|27|77|46889
+#76|Florida Panthers|Logan Shaw (F)|3|180|12|19|31|35|37280
+#77|Buffalo Sabres|Daniel Catenacci (F)|2|12|0|0|0|0|41287
+#78|Winnipeg Jets|Brennan Serville (D)|||||||76695
+#79|Chicago Blackhawks|Klas Dahlbeck (D)|4|170|6|17|23|87|13266
+#80|Los Angeles Kings|Andy Andreoff (F)|4|159|13|11|24|214|32736
+#81|Boston Bruins|Anthony Camara (F)|||||||45561
+#82|Los Angeles Kings|Nick Shore (F)|4|236|15|38|53|78|20724
+#83|Anaheim Ducks|Andy Welinski (D)|1|7|0|2|2|0|75052
+#84|Phoenix Coyotes|Harrison Ruopp (D)|||||||45515
+#85|Detroit Red Wings|Alan Quine (F)|3|84|6|16|22|12|45411
+#86|Toronto Maple Leafs|Josh Leivo (F)|5|57|10|12|22|20|88692
+#87|Florida Panthers|Jonathan Racine (D)|1|1|0|0|0|2|45270
+#88|St. Louis Blues|Jordan Binnington (G)|2|1|-|-|-|-|45580
+#89|San Jose Sharks|Justin Sefton (D)|||||||45548
+#90|Vancouver Canucks|Alexandre Grenier (F)|2|9|0|0|0|2|64591
+#91|Florida Panthers|Kyle Rau (F)|3|36|2|2|4|6|75072
+#92|Edmonton Oilers|Dillon Simpson (D)|1|3|0|0|0|2|44487
+#93|Colorado Avalanche|Joachim Nermark (F)|||||||16772
+#94|Nashville Predators|Josh Shalla (F)|||||||37624
+#95|New York Islanders|Robbie Russo (D)|1|19|0|0|0|2|38628
+#96|Ottawa Senators|Jean-Gabriel Pageau (F)|6|329|59|71|130|107|45134
+#97|Montréal Canadiens|Josiah Didier (D)|||||||89813
+#98|Columbus Blue Jackets|Mike Reilly (D)|3|103|4|22|26|36|106295
+#99|New Jersey Devils|Reid Boucher (F)|5|132|20|22|42|18|38620
+#100|Toronto Maple Leafs|Tom Nilsson (D)|||||||33189
+#101|Vancouver Canucks|Joseph LaBate (F)|1|13|0|0|0|21|75066
+#102|St. Louis Blues|Yannick Veilleux (F)|||||||45271
+#103|Carolina Hurricanes|Gregory Hofmann (F)|||||||66536
+#104|Calgary Flames|Johnny Gaudreau (F)|5|312|97|191|288|64|88391
+#105|Dallas Stars|Emil Molin (F)|||||||22269
+#106|New York Rangers|Michael St. Croix (F)|||||||37126
+#107|Buffalo Sabres|Colin Jacobs (F)|||||||32767
+#108|Montréal Canadiens|Olivier Archambault (F)|||||||45274
+#109|Chicago Blackhawks|Maxim Shalunov (F)|||||||58566
+#110|Los Angeles Kings|Michael Mersch (F)|1|17|1|2|3|0|20721
+#111|Phoenix Coyotes|Kale Kessy (F)|||||||26412
+#112|Nashville Predators|Garrett Noonan (D)|||||||48219
+#113|Montréal Canadiens|Magnus Nygren (D)|||||||10538
+#114|Edmonton Oilers|Tobias Rieder (F)|4|312|55|62|117|36|34851
+#115|Detroit Red Wings|Marek Tvrdon (F)|||||||34760
+#116|Philadelphia Flyers|Colin Suellentrop (D)|||||||45589
+#117|Washington Capitals|Steffen Søberg (G)|||||||48124
+#118|Philadelphia Flyers|Marcel Noebels (F)|||||||34847
+#119|Winnipeg Jets|Zach Yuen (D)|||||||37266
+#120|Vancouver Canucks|Ludwig Blomstrand (F)|||||||21651
+#121|Boston Bruins|Brian Ferlin (F)|1|7|0|1|1|0|45729
+#122|Edmonton Oilers|Martin Gernát (D)|||||||89280
+#123|Colorado Avalanche|Garrett Meurs (F)|||||||45565
+#124|Florida Panthers|Yaroslav Kosov (F)|||||||93879
+#125|New York Islanders|John Persson (F)|1|10|1|0|1|6|20380
+#126|Ottawa Senators|Fredrik Claesson (D)|3|113|4|16|20|41|14412
+#127|New York Islanders|Brenden Kichton (D)|||||||32763
+#128|Columbus Blue Jackets|Seth Ambroz (F)|||||||37875
+#129|New Jersey Devils|Blake Pietila (F)|3|19|1|2|3|6|45418
+#130|Toronto Maple Leafs|Tony Cameranesi (F)|||||||117577
+#131|Minnesota Wild|Nick Seeler (D)|1|22|0|4|4|21|107099
+#132|St. Louis Blues|Niklas Lundström (G)|||||||25670
+#133|San Jose Sharks|Sean Kuraly (F)|2|83|6|9|15|42|49938
+#134|New York Rangers|Shane McColgan (F)|||||||32798
+#135|Dallas Stars|Troy Vance (D)|||||||96876
+#136|New York Rangers|Samuel Noreau (D)|||||||68120
+#137|Buffalo Sabres|Alex Lepkowski (D)|||||||45563
+#138|Montréal Canadiens|Darren Dietz (D)|1|13|1|4|5|13|52798
+#139|Chicago Blackhawks|Andrew Shaw (F)|7|441|92|94|186|463|37671
+#140|Los Angeles Kings|Joel Lowry (F)|||||||26409
+#141|Phoenix Coyotes|Darian Dziurzynski (F)|||||||33572
+#142|Nashville Predators|Simon Karlsson (D)|||||||22501
+#143|Anaheim Ducks|Max Friberg (F)|2|6|0|0|0|2|13766
+#144|Pittsburgh Penguins|Dominik Uher (F)|1|2|0|0|0|0|41098
+#145|Detroit Red Wings|Philippe Hudon (F)|||||||56641
+#146|Detroit Red Wings|Mattias Bäckman (D)|||||||12949
+#147|Washington Capitals|Patrick Koudys (D)|||||||75055
+#148|Tampa Bay Lightning|Nikita Nesterov (D)|3|132|9|24|33|81|70425
+#149|Winnipeg Jets|Austen Brassard (F)|||||||45539
+#150|Vancouver Canucks|Frank Corrado (D)|6|76|3|5|8|40|45547
+#151|Boston Bruins|Rob O'Gara (D)|2|33|0|3|3|6|128376
+#152|Toronto Maple Leafs|David Broll (F)|1|5|0|1|1|5|45404
+#153|Colorado Avalanche|Gabriel Beaupré (D)|||||||22857
+#154|Florida Panthers|Edward Wittchow (D)|||||||117575
+#155|Phoenix Coyotes|Andrew Fritsch (F)|||||||45594
+#156|Ottawa Senators|Darren Kramer (F)|||||||23970
+#157|Winnipeg Jets|Jason Kasdorf (G)|1|1|-|-|-|-|69542
+#158|Columbus Blue Jackets|Lukas Sedlak (F)|2|115|11|10|21|46|56037
+#159|New Jersey Devils|Reece Scarlett (D)|||||||37209
+#160|Anaheim Ducks|Josh Manson (D)|4|261|17|55|72|249|47762
+#161|Minnesota Wild|Steve Michalek (G)|2|0|-|-|-|-|129792
+#162|St. Louis Blues|Ryan Tesink (F)|||||||56060
+#163|Carolina Hurricanes|Matt Mahalak (G)|||||||45965
+#164|Calgary Flames|Laurent Brossoit (G)|4|28|-|-|-|-|37133
+#165|Dallas Stars|Matej Stransky (F)|||||||79504
+#166|San Jose Sharks|Daniil Sobchenko (F)|||||||38658
+#167|Buffalo Sabres|Nathan Lieuwen (G)|3|7|-|-|-|-|18920
+#168|Montréal Canadiens|Daniel Pribyl (F)|||||||101160
+#169|Chicago Blackhawks|Sam Jardine (D)|||||||54059
+#170|Nashville Predators|Chase Balisy (F)|1|8|0|0|0|0|20717
+#171|Ottawa Senators|Max McCormick (F)|3|57|5|4|9|74|90365
+#172|New York Rangers|Peter Ceresnak (D)|||||||66434
+#173|Toronto Maple Leafs|Dennis Robertson (D)|||||||46692
+#174|Pittsburgh Penguins|Josh Archibald (F)|3|53|8|6|14|29|122788
+#175|Detroit Red Wings|Richard Nedomlel (D)|||||||79399
+#176|Philadelphia Flyers|Petr Placek (F)|||||||75049
+#177|Washington Capitals|Travis Boyd (F)|1|8|0|1|1|2|38621
+#178|Tampa Bay Lightning|Adam Wilcox (G)|2|1|-|-|-|-|75058
+#179|San Jose Sharks|Dylan DeMelo (D)|3|133|3|29|32|62|45603
+#180|Vancouver Canucks|Pathrik Westerholm (F)|||||||13146
+#181|Boston Bruins|Lars Volden (G)|||||||34854
+#182|Edmonton Oilers|Frans Tuohimaa (G)|||||||16434
+#183|Colorado Avalanche|Dillon Donnelly (D)|||||||45161
+#184|Florida Panthers|Iiro Pakarinen (F)|4|134|10|13|23|18|30857
+#185|New York Islanders|Mitch Theoret (F)|||||||45635
+#186|Ottawa Senators|Jordan Fransoo (D)|||||||56582
+#187|Winnipeg Jets|Aaron Harstad (D)|||||||37787
+#188|Columbus Blue Jackets|Anton Forsberg (G)|4|45|-|-|-|-|15830
+#189|New Jersey Devils|Patrick Daly (D)|||||||131134
+#190|Toronto Maple Leafs|Garret Sparks (G)|3|17|-|-|-|-|91267
+#191|Minnesota Wild|Tyler Graovac (F)|4|62|7|2|9|12|45582
+#192|St. Louis Blues|Teemu Eronen (D)|||||||17284
+#193|Carolina Hurricanes|Brody Sutter (F)|2|12|0|0|0|0|29016
+#194|San Jose Sharks|Colin Blackwell (F)|||||||128394
+#195|Dallas Stars|Jyrki Jokipakka (D)|3|150|3|25|28|34|25488
+#196|Phoenix Coyotes|Zac Larraza (F)|||||||38623
+#197|Buffalo Sabres|Brad Navin (F)|||||||128391
+#198|Montréal Canadiens|Colin Sullivan (D)|||||||75063
+#199|Chicago Blackhawks|Alex Broadhurst (F)|1|2|0|0|0|2|90896
+#200|Los Angeles Kings|Michael Schumacher (F)|||||||22270
+#201|Tampa Bay Lightning|Matthew Peca (F)|2|20|3|4|7|2|78295
+#202|Nashville Predators|Brent Andrews (F)|||||||45143
+#203|Toronto Maple Leafs|Max Everson (D)|||||||94244
+#204|Ottawa Senators|Ryan Dzingel (F)|3|190|40|42|82|76|49315
+#205|Detroit Red Wings|Alexei Marchenko (D)|4|121|4|17|21|26|40249
+#206|Philadelphia Flyers|Derek Mathers (F)|||||||75894
+#207|Washington Capitals|Garrett Haar (D)|||||||75060
+#208|Tampa Bay Lightning|Ondrej Palat (F)|6|363|85|168|253|109|18097
+#209|Pittsburgh Penguins|Scott Wilson (F)|4|172|19|27|46|52|62534
+#210|Vancouver Canucks|Henrik Tömmernes (D)|||||||10018
+#211|Chicago Blackhawks|Johan Mattsson (G)|||||||20050
+#1|Edmonton Oilers|Nail Yakupov (F)|6|350|62|74|136|142|21228
+#2|Columbus Blue Jackets|Ryan Murray (D)|5|264|12|60|72|90|41768
+#3|Montréal Canadiens|Alex Galchenyuk (F)|6|418|108|147|255|151|74611
+#4|New York Islanders|Griffin Reinhart (D)|3|37|0|2|2|26|41183
+#5|Toronto Maple Leafs|Morgan Rielly (D)|5|388|31|140|171|89|41184
+#6|Anaheim Ducks|Hampus Lindholm (D)|5|371|42|101|143|178|34882
+#7|Minnesota Wild|Matt Dumba (D)|5|310|44|84|128|163|53542
+#8|Pittsburgh Penguins|Derrick Pouliot (D)|4|138|5|31|36|49|59741
+#9|Winnipeg Jets|Jacob Trouba (D)|5|326|34|95|129|239|90349
+#10|Tampa Bay Lightning|Slater Koekkoek (D)|4|76|4|9|13|30|84723
+#11|Washington Capitals|Filip Forsberg (F)|6|331|117|138|255|145|29626
+#12|Buffalo Sabres|Mikhail Grigorenko (F)|5|217|22|42|64|30|42435
+#13|Dallas Stars|Radek Faksa (F)|3|204|34|44|78|119|98300
+#14|Buffalo Sabres|Zemgus Girgensons (F)|5|348|44|57|101|103|59843
+#15|Ottawa Senators|Cody Ceci (D)|5|366|25|67|92|70|45584
+#16|Washington Capitals|Tom Wilson (F)|6|391|35|69|104|806|98663
+#17|San Jose Sharks|Tomas Hertl (F)|5|328|81|89|170|101|56038
+#18|Chicago Blackhawks|Teuvo Teräväinen (F)|5|278|55|95|150|52|44567
+#19|Tampa Bay Lightning|Andrei Vasilevsky (G)|4|155|-|-|-|-|70424
+#20|Philadelphia Flyers|Scott Laughton (F)|5|190|19|28|47|93|76690
+#21|Calgary Flames|Mark Jankowski (F)|2|73|17|8|25|33|146518
+#22|Pittsburgh Penguins|Olli Määttä (D)|5|302|24|69|93|86|43543
+#23|Florida Panthers|Mike Matheson (D)|3|165|17|27|44|99|76333
+#24|Boston Bruins|Malcolm Subban (G)|4|24|-|-|-|-|59221
+#25|St. Louis Blues|Jordan Schmaltz (D)|2|22|0|3|3|10|50291
+#26|Vancouver Canucks|Brendan Gaunce (F)|3|114|5|7|12|45|76290
+#27|Phoenix Coyotes|Henrik Samuelsson (F)|1|3|0|0|0|2|33217
+#28|New York Rangers|Brady Skjei (D)|3|169|9|55|64|85|90352
+#29|New Jersey Devils|Stefan Matteau (F)|4|64|3|4|7|27|77561
+#30|Los Angeles Kings|Tanner Pearson (F)|6|308|69|74|143|80|75951
+#31|Columbus Blue Jackets|Oscar Dansk (G)|2|4|-|-|-|-|42373
+#32|Edmonton Oilers|Mitch Moroz (F)|||||||48462
+#33|Montréal Canadiens|Sebastian Collberg (F)|||||||16836
+#34|New York Islanders|Ville Pokka (D)|||||||45222
+#35|Toronto Maple Leafs|Matthew Finn (D)|||||||82316
+#36|Anaheim Ducks|Nic Kerdiles (F)|2|3|0|0|0|0|90347
+#37|Nashville Predators|Pontus Åberg (F)|3|68|5|13|18|14|16835
+#38|Carolina Hurricanes|Phillip Di Giuseppe (F)|3|126|13|24|37|50|62746
+#39|Winnipeg Jets|Lukas Sutter (F)|||||||48665
+#40|Tampa Bay Lightning|Dylan Blujus (D)|||||||88064
+#41|Colorado Avalanche|Mitchell Heard (F)|||||||45566
+#42|Calgary Flames|Patrick Sieloff (D)|2|2|2|0|2|2|94254
+#43|Dallas Stars|Ludwig Byström (D)|||||||27493
+#44|Buffalo Sabres|Jake McCabe (D)|5|215|10|37|47|118|45419
+#45|Philadelphia Flyers|Anthony Stolarz (G)|3|7|-|-|-|-|131368
+#46|Minnesota Wild|Raphaël Bussières (F)|||||||45156
+#47|Carolina Hurricanes|Brock McGinn (F)|3|158|26|24|50|38|76486
+#48|Chicago Blackhawks|Dillon Fournier (D)|||||||76329
+#49|Detroit Red Wings|Martin Frk (F)|2|70|11|14|25|14|56033
+#50|Nashville Predators|Colton Sissons (F)|4|190|22|25|47|70|48393
+#51|Montréal Canadiens|Dalton Thrower (D)|||||||45529
+#52|Pittsburgh Penguins|Teodors Blugers (F)|||||||108347
+#53|Tampa Bay Lightning|Brian Hart (F)|||||||131064
+#54|Dallas Stars|Mike Winther (F)|||||||56825
+#55|San Jose Sharks|Chris Tierney (F)|4|284|41|63|104|40|92677
+#56|St. Louis Blues|Samuel Kurker (F)|||||||149169
+#57|Vancouver Canucks|Alexandre Mallet (F)|||||||37446
+#58|Phoenix Coyotes|Jordan Martinook (F)|5|247|26|39|65|103|44271
+#59|New York Rangers|Boo Nieves (F)|2|29|1|8|9|12|131061
+#60|New Jersey Devils|Damon Severson (D)|4|279|18|75|93|154|55867
+#61|Dallas Stars|Devin Shore (F)|3|167|24|41|65|28|149937
+#62|Columbus Blue Jackets|Joonas Korpisalo (G)|3|63|-|-|-|-|44198
+#63|Edmonton Oilers|Jujhar Khaira (F)|3|94|12|12|24|62|93577
+#64|Montréal Canadiens|Tim Bozon (F)|||||||48990
+#65|New York Islanders|Adam Pelech (D)|3|131|6|25|31|34|89694
+#66|Nashville Predators|Jimmy Vesey (F)|2|159|33|22|55|46|121865
+#67|St. Louis Blues|MacKenzie MacEachern (F)|||||||183505
+#68|Minnesota Wild|John Draeger (D)|||||||106297
+#69|Carolina Hurricanes|Daniel Altshuller (G)|1|0|-|-|-|-|78200
+#70|Winnipeg Jets|Scott Kosmachuk (F)|1|8|0|3|3|2|91265
+#71|Tampa Bay Lightning|Tanner Richard (F)|1|3|0|0|0|2|41755
+#72|Colorado Avalanche|Troy Bourke (F)|||||||51708
+#73|Buffalo Sabres|Justin Kea (F)|||||||83357
+#74|Dallas Stars|Esa Lindell (D)|3|157|13|32|45|46|50019
+#75|Calgary Flames|Jon Gillies (G)|2|12|-|-|-|-|86892
+#76|Ottawa Senators|Chris Driedger (G)|3|3|-|-|-|-|59689
+#77|Washington Capitals|Chandler Stephenson (F)|3|80|6|12|18|10|60726
+#78|Philadelphia Flyers|Shayne Gostisbehere (D)|4|220|37|113|150|81|122787
+#79|Chicago Blackhawks|Chris Calnan (F)|||||||178940
+#80|Detroit Red Wings|Jake Paterson (G)|||||||82077
+#81|Pittsburgh Penguins|Oskar Sundqvist (F)|3|70|2|7|9|20|41621
+#82|Ottawa Senators|Jarrod Maidens (F)|||||||92684
+#83|Pittsburgh Penguins|Matt Murray (G)|3|111|-|-|-|-|91683
+#84|Florida Panthers|Steven Hodges (F)|||||||59554
+#85|Boston Bruins|Matt Grzelcyk (D)|2|63|3|12|15|24|90350
+#86|St. Louis Blues|Colton Parayko (D)|3|242|19|84|103|74|89411
+#87|Anaheim Ducks|Frederik Andersen (G)|6|257|-|-|-|-|15205
+#88|Phoenix Coyotes|James Melindy (D)|||||||56053
+#89|Nashville Predators|Brendan Leipsic (F)|2|64|6|19|25|16|89181
+#90|New Jersey Devils|Ben Johnson (F)|||||||94248
+#91|Edmonton Oilers|Daniil Zharkov (F)|||||||103517
+#92|Pittsburgh Penguins|Matia Marcantuoni (F)|||||||76687
+#93|Edmonton Oilers|Erik Gustafsson (D)|2|76|5|25|30|10|15372
+#94|Montréal Canadiens|Brady Vail (F)|||||||45975
+#95|Columbus Blue Jackets|Josh Anderson (F)|4|159|37|27|64|135|95853
+#96|New Jersey Devils|Ben Thomson (F)|1|3|0|0|0|4|44664
+#97|Anaheim Ducks|Kevin Roy (F)|1|25|6|1|7|6|121841
+#98|Minnesota Wild|Adam Gilmour (F)|||||||190084
+#99|Carolina Hurricanes|Erik Karlsson (F)|||||||33395
+#100|Washington Capitals|Thomas Di Pauli (F)|||||||90344
+#101|Tampa Bay Lightning|Cédric Paquette (F)|5|236|27|23|50|223|128521
+#102|Phoenix Coyotes|Rhett Holland (D)|||||||44972
+#103|New York Islanders|Loïc Leduc (D)|||||||88664
+#104|Dallas Stars|Gemel Smith (F)|2|63|9|8|17|38|122937
+#105|Calgary Flames|Brett Kulak (D)|4|101|2|9|11|41|88617
+#106|Ottawa Senators|Tim Boyle (D)|||||||177682
+#107|Washington Capitals|Austin Wuthrich (F)|||||||58561
+#108|Anaheim Ducks|Andrew O'Brien (D)|||||||76156
+#109|San Jose Sharks|Christophe Lalancette (F)|||||||88659
+#110|Detroit Red Wings|Andreas Athanasiou (F)|3|172|43|33|76|49|86009
+#111|Philadelphia Flyers|Fredric Larsson (D)|||||||38937
+#112|Nashville Predators|Zach Stepan (F)|||||||94246
+#113|Pittsburgh Penguins|Sean Maguire (G)|||||||48896
+#114|Florida Panthers|Alexander Delnov (F)|||||||160093
+#115|Carolina Hurricanes|Trevor Carrick (D)|2|3|0|0|0|2|69391
+#116|St. Louis Blues|Nick Walters (D)|||||||57161
+#117|Philadelphia Flyers|Taylor Leier (F)|3|55|2|5|7|10|45615
+#118|Nashville Predators|Mikko Vainonen (D)|||||||43289
+#119|New York Rangers|Calle Andersson (D)|||||||30181
+#120|Carolina Hurricanes|Jaccob Slavin (D)|3|227|15|69|84|30|97621
+#121|Los Angeles Kings|Nikolai Prokhorkin (F)|||||||93769
+#122|Montréal Canadiens|Charles Hudon (F)|3|78|10|24|34|40|76324
+#123|Edmonton Oilers|Joey LaLeggia (F)|||||||46961
+#124|Calgary Flames|Ryan Culkin (D)|||||||88706
+#125|New York Islanders|Doyle Somerby (D)|||||||177665
+#126|Toronto Maple Leafs|Dominic Toninato (F)|1|37|0|2|2|12|122004
+#127|Anaheim Ducks|Brian Cooper (D)|||||||45698
+#128|Minnesota Wild|Daniel Gunnarsson (D)|||||||13319
+#129|Carolina Hurricanes|Brendan Woods (F)|2|7|0|0|0|7|45678
+#130|Winnipeg Jets|Connor Hellebuyck (G)|3|149|-|-|-|-|142796
+#131|Boston Bruins|Seth Griffith (F)|4|79|8|11|19|24|45606
+#132|Colorado Avalanche|Michael Clarke (F)|||||||82516
+#133|Buffalo Sabres|Logan Nelson (F)|||||||90312
+#134|Dallas Stars|Branden Troock (F)|||||||51702
+#135|New Jersey Devils|Graham Black (F)|||||||65272
+#136|Ottawa Senators|Robbie Baillargeon (F)|||||||122785
+#137|Washington Capitals|Connor Carrick (D)|4|167|9|21|30|116|90348
+#138|San Jose Sharks|Danny O'Regan (F)|2|24|1|4|5|2|121936
+#139|Chicago Blackhawks|Garret Ross (F)|||||||45562
+#140|Detroit Red Wings|Mike McKee (D)|||||||75053
+#141|Philadelphia Flyers|Reece Willcox (D)|||||||93550
+#142|New York Rangers|Thomas Spelling (F)|||||||32417
+#143|Pittsburgh Penguins|Clark Seymour (D)|||||||45414
+#144|Dallas Stars|Henri Kiviaho (G)|||||||44740
+#145|Boston Bruins|Cody Payne (F)|||||||91624
+#146|St. Louis Blues|François Tremblay (G)|||||||89064
+#147|Vancouver Canucks|Ben Hutton (D)|3|207|6|44|50|68|78150
+#148|Phoenix Coyotes|Niklas Tikkinen (D)|||||||42366
+#149|Chicago Blackhawks|Travis Brown (D)|||||||94342
+#150|New Jersey Devils|Alexander Kerfoot (F)|1|79|19|24|43|28|59968
+#151|Los Angeles Kings|Colin Miller (D)|3|185|19|51|70|147|61228
+#152|Columbus Blue Jackets|Daniel Zaar (F)|||||||39009
+#153|Edmonton Oilers|John McCarron (F)|||||||37867
+#154|Montréal Canadiens|Erik Nyström (F)|||||||32070
+#155|New York Islanders|Jesse Graham (D)|||||||92681
+#156|Toronto Maple Leafs|Connor Brown (F)|3|171|35|35|70|28|97341
+#157|Toronto Maple Leafs|Ryan Rupert (F)|||||||75471
+#158|Minnesota Wild|Christoph Bertschy (F)|3|9|0|1|1|8|85327
+#159|Carolina Hurricanes|Collin Olson (G)|||||||90342
+#160|Winnipeg Jets|Ryan Olsen (F)|||||||50187
+#161|Tampa Bay Lightning|Jake Dotchin (D)|2|83|3|19|22|73|96063
+#162|Colorado Avalanche|Joseph Blandisi (F)|3|71|8|18|26|62|99041
+#163|Buffalo Sabres|Linus Ullmark (G)|3|26|-|-|-|-|19760
+#164|Nashville Predators|Simon Fernholm (D)|||||||37054
+#165|Calgary Flames|Coda Gordon (F)|||||||103707
+#166|Ottawa Senators|François Brassard (G)|||||||128924
+#167|Washington Capitals|Riley Barber (F)|1|3|0|0|0|0|89847
+#168|San Jose Sharks|Cliff Watson (D)|||||||122694
+#169|Chicago Blackhawks|Vinnie Hinostroza (F)|3|106|13|26|39|33|91243
+#170|Detroit Red Wings|James De Haas (D)|||||||117750
+#171|Los Angeles Kings|Tomas Hyka (F)|1|10|1|2|3|0|56035
+#172|Nashville Predators|Max Görtz (F)|||||||27258
+#173|Pittsburgh Penguins|Anton Zlobin (F)|||||||58562
+#174|Florida Panthers|Francis Beauvillier (F)|||||||45149
+#175|Boston Bruins|Matt Benning (D)|2|135|9|27|36|78|29261
+#176|St. Louis Blues|Petteri Lindbohm (D)|3|40|2|1|3|37|45347
+#177|Vancouver Canucks|Wes Myron (F)|||||||48361
+#178|Phoenix Coyotes|Hunter Fejes (F)|||||||106299
+#179|Nashville Predators|Marek Mazanec (G)|3|31|-|-|-|-|34796
+#180|New Jersey Devils|Artur Gavrus (F)|||||||70442
+#181|Los Angeles Kings|Paul LaDue (D)|2|34|3|9|12|10|90101
+#182|Columbus Blue Jackets|Gianluca Curcuruto (D)|||||||91686
+#183|Dallas Stars|Dmitri Sinitsyn (D)|||||||121902
+#184|Phoenix Coyotes|Marek Langhamer (G)|3|2|-|-|-|-|100297
+#185|New York Islanders|Jake Bischoff (D)|||||||180081
+#186|Calgary Flames|Matt DeBlouw (F)|||||||84766
+#187|Anaheim Ducks|Kenton Helgesen (F)|||||||49967
+#188|Minnesota Wild|Louis Nanne (F)|||||||150969
+#189|Carolina Hurricanes|Brendan Collier (F)|||||||121930
+#190|Winnipeg Jets|Jamie Phillips (G)|||||||97922
+#191|Chicago Blackhawks|Brandon Whitney (G)|||||||88919
+#192|Colorado Avalanche|Colin Smith (F)|1|1|0|0|0|0|26388
+#193|Buffalo Sabres|Brady Austin (D)|1|5|0|0|0|4|45403
+#194|Florida Panthers|Jonatan Nielsen (D)|||||||23547
+#195|Washington Capitals|Christian Djoos (D)|1|63|3|11|14|10|33201
+#196|Ottawa Senators|Mikael Wikstrand (D)|||||||28992
+#197|Washington Capitals|Jaynen Rissling (D)|||||||45481
+#198|San Jose Sharks|Joakim Ryan (D)|1|62|3|9|12|8|51926
+#199|Chicago Blackhawks|Matt Tomkins (G)|||||||88700
+#200|Detroit Red Wings|Rasmus Bodin (F)|||||||40853
+#201|Philadelphia Flyers|Valeri Vasilyev (D)|||||||123080
+#202|Tampa Bay Lightning|Nikita Gusev (F)|||||||75169
+#203|Washington Capitals|Sergei Kostenko (G)|||||||42424
+#204|Buffalo Sabres|Judd Peterson (F)|||||||118099
+#205|Boston Bruins|Colton Hargrove (F)|||||||74775
+#206|St. Louis Blues|Tyrel Seaman (F)|||||||84741
+#207|Vancouver Canucks|Matt Beattie (F)|||||||177685
+#208|Phoenix Coyotes|Justin Haché (D)|||||||56049
+#209|Toronto Maple Leafs|Viktor Lööv (D)|1|4|0|2|2|0|20058
+#210|Anaheim Ducks|Jaycob Megna (D)|2|15|0|1|1|2|84762
+#211|Los Angeles Kings|Nick Ebert (D)|||||||45972
+#1|Colorado Avalanche|Nathan MacKinnon (F)|5|374|114|189|303|151|99204
+#2|Florida Panthers|Aleksander Barkov (F)|5|331|100|149|249|58|50044
+#3|Tampa Bay Lightning|Jonathan Drouin (F)|4|241|42|99|141|84|118657
+#4|Nashville Predators|Seth Jones (D)|5|393|45|137|182|120|90355
+#5|Carolina Hurricanes|Elias Lindholm (F)|5|374|64|124|188|76|33387
+#6|Calgary Flames|Sean Monahan (F)|5|393|138|143|281|82|85013
+#7|Edmonton Oilers|Darnell Nurse (D)|4|197|14|33|47|160|97352
+#8|Buffalo Sabres|Rasmus Ristolainen (D)|5|346|31|120|151|171|43497
+#9|Vancouver Canucks|Bo Horvat (F)|4|295|71|90|161|71|117012
+#10|Dallas Stars|Valeri Nichushkin (F)|3|166|23|41|64|22|108661
+#11|Philadelphia Flyers|Samuel Morin (D)|2|3|0|0|0|4|126391
+#12|Phoenix Coyotes|Max Domi (F)|3|222|36|99|135|185|95484
+#13|Winnipeg Jets|Josh Morrissey (D)|3|164|13|33|46|85|62293
+#14|Columbus Blue Jackets|Alexander Wennberg (F)|4|283|33|121|154|57|37041
+#15|New York Islanders|Ryan Pulock (D)|3|84|12|24|36|19|86761
+#16|Buffalo Sabres|Nikita Zadorov (D)|5|222|11|37|48|243|108648
+#17|Ottawa Senators|Curtis Lazar (F)|4|245|15|36|51|59|81116
+#18|San Jose Sharks|Mirco Müller (D)|5|82|2|8|10|21|95044
+#19|Columbus Blue Jackets|Kerby Rychel (F)|3|41|3|11|14|19|82918
+#20|Detroit Red Wings|Anthony Mantha (F)|3|150|43|44|87|107|104045
+#21|Toronto Maple Leafs|Frédérik Gauthier (F)|3|37|3|2|5|23|128500
+#22|Calgary Flames|Émile Poirier (F)|2|8|0|1|1|2|128977
+#23|Washington Capitals|André Burakovsky (F)|4|252|50|70|120|63|38705
+#24|Vancouver Canucks|Hunter Shinkaruk (F)|2|15|2|2|4|4|52391
+#25|Montréal Canadiens|Michael McCarron (F)|3|69|2|6|8|110|135703
+#26|Anaheim Ducks|Shea Theodore (D)|3|114|11|35|46|44|101581
+#27|Columbus Blue Jackets|Marko Dano (F)|4|130|19|26|45|40|94946
+#28|Calgary Flames|Morgan Klimchuk (F)|1|1|0|0|0|0|62209
+#29|Dallas Stars|Jason Dickinson (F)|3|38|3|2|5|17|117018
+#30|Chicago Blackhawks|Ryan Hartman (F)|4|162|30|33|63|144|90345
+#31|Florida Panthers|Ian McCoshen (D)|2|41|3|2|5|25|90302
+#32|Colorado Avalanche|Chris Bigras (D)|2|46|1|3|4|18|117736
+#33|Tampa Bay Lightning|Adam Erne (F)|2|49|6|1|7|22|90359
+#34|Montréal Canadiens|Jacob de la Rose (F)|4|119|8|11|19|51|28436
+#35|Buffalo Sabres|J.T. Compher (F)|2|90|16|12|28|24|114800
+#36|Montréal Canadiens|Zachary Fucale (G)|3|0|-|-|-|-|126396
+#37|Los Angeles Kings|Valentin Zykov (F)|2|12|4|4|8|2|155382
+#38|Buffalo Sabres|Connor Hurley (F)|||||||195261
+#39|Phoenix Coyotes|Laurent Dauphin (F)|3|34|3|1|4|18|126400
+#40|Dallas Stars|Remi Elie (F)|2|90|7|14|21|26|127847
+#41|Philadelphia Flyers|Robert Hägg (D)|2|71|3|6|9|32|27397
+#42|New Jersey Devils|Steven Santini (D)|3|75|4|13|17|37|96780
+#43|Winnipeg Jets|Nic Petan (F)|3|95|5|16|21|28|82305
+#44|Pittsburgh Penguins|Tristan Jarry (G)|3|27|-|-|-|-|88602
+#45|Anaheim Ducks|Nick Sörensen (F)|1|5|0|1|1|2|33472
+#46|Minnesota Wild|Gustav Olofsson (D)|3|56|0|11|11|16|39017
+#47|St. Louis Blues|Tommy Vannelli (D)|||||||196704
+#48|Detroit Red Wings|Zach Nastasiuk (F)|||||||103947
+#49|San Jose Sharks|Gabryel Boudreau (F)|||||||151140
+#50|Columbus Blue Jackets|Dillon Heatherington (D)|1|6|0|1|1|26|62233
+#51|Chicago Blackhawks|Carl Dahlström (D)|1|11|0|3|3|0|85666
+#52|Buffalo Sabres|Justin Bailey (F)|3|52|5|3|8|8|116970
+#53|Washington Capitals|Madison Bowey (D)|1|51|0|12|12|24|97787
+#54|Dallas Stars|Philippe Desrosiers (G)|||||||128250
+#55|Montréal Canadiens|Artturi Lehkonen (F)|2|139|30|19|49|28|43584
+#56|Edmonton Oilers|Marc-Olivier Roy (F)|||||||97663
+#57|St. Louis Blues|William Carrier (F)|2|78|6|5|11|40|88662
+#58|Detroit Red Wings|Tyler Bertuzzi (F)|2|55|7|17|24|39|125028
+#59|Winnipeg Jets|Eric Comrie (G)|2|4|-|-|-|-|83873
+#60|Boston Bruins|Linus Arnesson (D)|||||||33350
+#61|Washington Capitals|Zach Sanford (F)|1|39|4|4|8|10|242077
+#62|Phoenix Coyotes|Yan-Pavel Laplante (F)|||||||128231
+#63|Colorado Avalanche|Spencer Martin (G)|2|3|-|-|-|-|99040
+#64|Nashville Predators|Jonathan Diaby (D)|||||||94297
+#65|New York Rangers|Adam Tambellini (F)|||||||103529
+#66|Carolina Hurricanes|Brett Pesce (D)|3|216|9|46|55|54|121869
+#67|Calgary Flames|Keegan Kanzig (D)|||||||63193
+#68|Dallas Stars|Niklas Hansson (D)|||||||86135
+#69|Buffalo Sabres|Nicholas Baptiste (F)|2|47|7|3|10|20|106161
+#70|New York Islanders|Eamon McAdam (G)|||||||90303
+#71|Montréal Canadiens|Connor Crisp (F)|||||||89696
+#72|Philadelphia Flyers|Tyrell Goulbourne (F)|1|9|0|0|0|2|56840
+#73|New Jersey Devils|Ryan Kujawinski (F)|||||||125026
+#74|Chicago Blackhawks|John Hayden (F)|2|59|5|12|17|58|151828
+#75|New York Rangers|Pavel Buchnevich (F)|2|115|22|41|63|33|158906
+#76|New York Islanders|Taylor Cammarata (F)|||||||118430
+#77|Pittsburgh Penguins|Jake Guentzel (F)|2|122|38|43|81|52|199870
+#78|Ottawa Senators|Marcus Högberg (G)|||||||29074
+#79|Detroit Red Wings|Mattias Janmark (F)|3|154|34|29|63|40|16629
+#80|New York Rangers|Anthony Duclair (F)|4|213|37|52|89|83|98665
+#81|Minnesota Wild|Kurtis Gabriel (F)|2|16|0|1|1|39|92683
+#82|Toronto Maple Leafs|Carter Verhaeghe (F)|||||||116967
+#83|Edmonton Oilers|Bogdan Yakimov (F)|1|1|0|0|0|0|117749
+#84|Winnipeg Jets|Jimmy Lodge (F)|||||||151451
+#85|Vancouver Canucks|Cole Cassels (F)|||||||118659
+#86|Montréal Canadiens|Sven Andrighetto (F)|5|152|24|42|66|28|70426
+#87|Anaheim Ducks|Keaton Thompson (D)|||||||108393
+#88|Edmonton Oilers|Anton Slepyshev (F)|3|102|10|13|23|14|117748
+#89|Columbus Blue Jackets|Oliver Bjorkstrand (F)|3|120|21|40|61|15|92803
+#90|Boston Bruins|Peter Cehlárik (F)|2|17|1|3|4|2|153203
+#91|Winnipeg Jets|JC Lipon (F)|1|9|0|1|1|5|45487
+#92|Florida Panthers|Evan Cowley (G)|||||||147628
+#93|Colorado Avalanche|Mason Geertsen (D)|||||||64567
+#94|Edmonton Oilers|Jackson Houck (F)|||||||101590
+#95|Nashville Predators|Félix Girard (F)|||||||88969
+#96|Edmonton Oilers|Kyle Platzer (F)|||||||126916
+#97|Florida Panthers|Michael Downing (D)|||||||118432
+#98|Florida Panthers|Matt Buckles (F)|||||||116977
+#99|Nashville Predators|Juuse Saros (G)|3|48|-|-|-|-|50744
+#100|New Jersey Devils|Miles Wood (F)|3|137|27|22|49|170|131890
+#101|Dallas Stars|Nick Paul (F)|3|36|3|3|6|6|149617
+#102|Ottawa Senators|Tobias Lindberg (F)|1|6|0|2|2|4|85671
+#103|Los Angeles Kings|Justin Auger (F)|1|2|0|0|0|0|117322
+#104|Winnipeg Jets|Andrew Copp (F)|4|224|25|34|59|38|101962
+#105|Columbus Blue Jackets|Nick Moutrey (F)|||||||117024
+#106|New York Islanders|Stephon Williams (G)|||||||84705
+#107|Minnesota Wild|Dylan Labbé (D)|||||||129015
+#108|Ottawa Senators|Ben Harpur (D)|3|52|0|2|2|23|144069
+#109|Detroit Red Wings|David Pope (F)|||||||57035
+#110|New York Rangers|Ryan Graves (D)|||||||103763
+#111|Chicago Blackhawks|Robin Norell (D)|||||||38721
+#112|St. Louis Blues|Zach Pochiro (F)|||||||121909
+#113|Edmonton Oilers|Aidan Muir (F)|||||||207023
+#114|Winnipeg Jets|Jan Kostalek (D)|||||||100867
+#115|Vancouver Canucks|Jordan Subban (D)|||||||97951
+#116|Montréal Canadiens|Martin Réway (F)|||||||94282
+#117|San Jose Sharks|Fredrik Bergvik (G)|||||||46375
+#118|Los Angeles Kings|Hudson Fasching (F)|3|22|1|2|3|8|114801
+#119|Pittsburgh Penguins|Ryan Segalla (D)|||||||162870
+#120|Boston Bruins|Ryan Fitzgerald (F)|||||||150709
+#121|Chicago Blackhawks|Tyler Motte (F)|2|79|9|5|14|20|151824
+#122|Florida Panthers|Chris Clapperton (F)|||||||128515
+#123|Colorado Avalanche|Will Butcher (D)|1|81|5|39|44|8|97590
+#124|Tampa Bay Lightning|Kristers Gudlevskis (G)|3|3|-|-|-|-|49585
+#125|Nashville Predators|Saku Mäenalanen (F)|||||||73109
+#126|Carolina Hurricanes|Brent Pedersen (F)|||||||126917
+#127|Winnipeg Jets|Tucker Poolman (D)|1|24|1|1|2|0|118006
+#128|Edmonton Oilers|Evan Campbell (F)|||||||59951
+#129|Buffalo Sabres|Cal Petersen (G)|||||||121956
+#130|Buffalo Sabres|Gustav Possler (F)|||||||26019
+#131|Dallas Stars|Cole Ully (F)|||||||62241
+#132|Philadelphia Flyers|Terrance Amorosa (D)|||||||248322
+#133|Phoenix Coyotes|Connor Clifton (D)|||||||131370
+#134|Chicago Blackhawks|Luke Johnson (F)|||||||94247
+#135|Calgary Flames|Eric Roy (D)|||||||84740
+#136|New York Islanders|Victor Crus Rydberg (F)|||||||32639
+#137|Minnesota Wild|Carson Soucy (D)|1|3|0|0|0|2|107449
+#138|Ottawa Senators|Vincent Dunn (F)|||||||126399
+#139|Detroit Red Wings|Mitch Wheaton (D)|||||||84090
+#140|Nashville Predators|Teemu Kivihalme (D)|||||||141072
+#141|San Jose Sharks|Michael Brodzinski (D)|||||||118436
+#142|Toronto Maple Leafs|Fabrice Herzog (F)|||||||94494
+#143|Buffalo Sabres|Anthony Florentino (D)|||||||131905
+#144|Washington Capitals|Blake Heinrich (D)|||||||118645
+#145|Vancouver Canucks|Anton Cederholm (D)|||||||38743
+#146|Los Angeles Kings|Patrik Bartosak (G)|||||||100479
+#147|Anaheim Ducks|Grant Besse (F)|||||||177678
+#148|Los Angeles Kings|Jonny Brodzinski (F)|2|41|4|4|8|8|108294
+#149|Dallas Stars|Matej Paulovic (F)|||||||93903
+#150|Boston Bruins|Wiley Sherman (D)|||||||118671
+#151|San Jose Sharks|Gage Ausmus (D)|||||||118008
+#152|Florida Panthers|Josh Brown (D)|||||||82512
+#153|Colorado Avalanche|Ben Storm (F)|||||||195149
+#154|Tampa Bay Lightning|Henri Ikonen (F)|||||||56268
+#155|Nashville Predators|Emil Pettersson (F)|||||||27331
+#156|Carolina Hurricanes|Tyler Ganly (D)|||||||117753
+#157|Calgary Flames|Tim Harrison (F)|||||||255304
+#158|Edmonton Oilers|Ben Betker (D)|||||||102378
+#159|Buffalo Sabres|Sean Malone (F)|1|1|0|0|0|0|118664
+#160|New Jersey Devils|Myles Bell (F)|||||||37197
+#161|Ottawa Senators|Chris LeBlanc (F)|||||||220346
+#162|Philadelphia Flyers|Merrick Madsen (G)|||||||205590
+#163|Phoenix Coyotes|Brendan Burke (G)|||||||118579
+#164|Pittsburgh Penguins|Dane Birks (D)|||||||151460
+#165|Columbus Blue Jackets|Markus Søberg (F)|||||||73397
+#166|New York Islanders|Alan Quine (F)|3|84|6|16|22|12|45411
+#167|Minnesota Wild|Avery Peterson (F)|||||||147618
+#168|Ottawa Senators|Quentin Shore (F)|||||||90346
+#169|Detroit Red Wings|Marc McNulty (D)|||||||83498
+#170|New York Rangers|Mackenzie Skapski (G)|1|2|-|-|-|-|56762
+#171|Nashville Predators|Tommy Veilleux (F)|||||||126397
+#172|Toronto Maple Leafs|Antoine Bibeau (G)|2|2|-|-|-|-|95315
+#173|St. Louis Blues|Santeri Saari (D)|||||||60924
+#174|Washington Capitals|Brian Pinho (F)|1|0|0|0|0|0|132024
+#175|Vancouver Canucks|Mike Williamson (D)|||||||54063
+#176|Montréal Canadiens|Jérémy Grégoire (F)|||||||98666
+#177|Anaheim Ducks|Miro Aaltonen (F)|||||||44162
+#178|Los Angeles Kings|Zac Leslie (D)|||||||78063
+#179|Pittsburgh Penguins|Blaine Byron (F)|||||||117940
+#180|Boston Bruins|Anton Blidh (F)|2|20|1|1|2|7|67179
+#181|Chicago Blackhawks|Anthony Louis (F)|||||||151833
+#182|Dallas Stars|Aleksi Mäkelä (D)|||||||92114
+#183|Colorado Avalanche|Wilhelm Westlund (D)|||||||38745
+#184|Tampa Bay Lightning|Saku Salminen (F)|||||||43302
+#185|Nashville Predators|Wade Murphy (F)|||||||48368
+#186|Tampa Bay Lightning|Joël Vermin (F)|2|24|0|4|4|4|34828
+#187|Calgary Flames|Rushan Rafikov (D)|||||||165018
+#188|Edmonton Oilers|Gregory Chase (F)|||||||84097
+#189|Buffalo Sabres|Eric Locke (F)|||||||76776
+#190|Winnipeg Jets|Brenden Kichton (D)|||||||32763
+#191|Los Angeles Kings|Dominik Kubalík (F)|||||||101221
+#192|Philadelphia Flyers|David Drake (D)|||||||219791
+#193|Phoenix Coyotes|Jedd Soleway (F)|||||||102264
+#194|Winnipeg Jets|Marcus Karlström (D)|||||||88843
+#195|Columbus Blue Jackets|Peter Quenneville (F)|||||||57050
+#196|New York Islanders|Kyle Burroughs (D)|||||||87758
+#197|Minnesota Wild|Nolan De Jong (D)|||||||94974
+#198|Calgary Flames|John Gilmour (D)|1|28|2|3|5|14|146192
+#199|Detroit Red Wings|Hampus Melén (F)|||||||86073
+#200|Minnesota Wild|Alexandre Bélanger (G)|||||||126401
+#201|San Jose Sharks|Jacob Jackson (F)|||||||222712
+#202|Toronto Maple Leafs|Andreas Johnsson (F)|1|9|2|1|3|0|43991
+#203|Nashville Predators|Janne Juvonen (G)|||||||51566
+#204|Washington Capitals|Tyler Lewington (D)|||||||88699
+#205|Vancouver Canucks|Miles Liberati (D)|||||||117010
+#206|Florida Panthers|MacKenzie Weegar (D)|2|63|2|6|8|36|97908
+#207|San Jose Sharks|Emil Galimov (F)|||||||42440
+#208|New Jersey Devils|Anthony Brodeur (G)|||||||117537
+#209|Pittsburgh Penguins|Troy Josephs (F)|||||||117744
+#210|Boston Bruins|Mitchell Dempsey (F)|||||||116995
+#211|Chicago Blackhawks|Robin Press (D)|||||||36616
+#1|Florida Panthers|Aaron Ekblad (D)|4|309|53|81|134|202|49042
+#2|Buffalo Sabres|Sam Reinhart (F)|4|249|65|75|140|44|95032
+#3|Edmonton Oilers|Leon Draisaitl (F)|4|269|75|132|207|74|71913
+#4|Calgary Flames|Sam Bennett (F)|4|241|42|47|89|171|189371
+#5|New York Islanders|Michael Dal Colle (F)|1|4|0|0|0|0|152047
+#6|Vancouver Canucks|Jake Virtanen (F)|3|140|17|17|34|93|120197
+#7|Carolina Hurricanes|Haydn Fleury (D)|1|67|0|8|8|14|119392
+#8|Toronto Maple Leafs|William Nylander (F)|3|185|48|87|135|46|38703
+#9|Winnipeg Jets|Nikolaj Ehlers (F)|3|236|69|93|162|85|66581
+#10|Anaheim Ducks|Nick Ritchie (F)|3|186|26|33|59|171|99036
+#11|Nashville Predators|Kevin Fiala (F)|5|140|35|30|65|44|87971
+#12|Phoenix Coyotes|Brendan Perlini (F)|2|131|31|20|51|48|186992
+#13|Washington Capitals|Jakub Vrána (F)|2|94|16|17|33|14|101250
+#14|Dallas Stars|Julius Honka (D)|2|58|2|7|9|18|65456
+#15|Detroit Red Wings|Dylan Larkin (F)|3|242|56|84|140|132|177693
+#16|Columbus Blue Jackets|Sonny Milano (F)|3|62|14|9|23|10|189415
+#17|Philadelphia Flyers|Travis Sanheim (D)|1|49|2|8|10|20|120938
+#18|Minnesota Wild|Alex Tuch (F)|2|84|15|22|37|27|178526
+#19|Tampa Bay Lightning|Tony DeAngelo (D)|2|71|5|17|22|48|89818
+#20|Chicago Blackhawks|Nick Schmaltz (F)|2|139|27|53|80|24|156966
+#21|St. Louis Blues|Robby Fabbri (F)|3|123|29|37|66|52|156923
+#22|Pittsburgh Penguins|Kasperi Kapanen (F)|3|55|8|2|10|6|92226
+#23|Colorado Avalanche|Conner Bleackley (F)|||||||84020
+#24|Vancouver Canucks|Jared McCann (F)|3|166|19|34|53|66|189369
+#25|Boston Bruins|David Pastrnak (F)|4|254|94|109|203|99|130383
+#26|Montréal Canadiens|Nikita Scherbak (F)|2|29|5|2|7|8|209468
+#27|San Jose Sharks|Nikolay Goldobin (F)|3|61|12|7|19|6|160550
+#28|New York Islanders|Joshua Ho-Sang (F)|2|43|6|16|22|14|161290
+#29|Los Angeles Kings|Adrian Kempe (F)|2|106|18|25|43|55|86313
+#30|New Jersey Devils|John Quenneville (F)|2|14|1|3|4|2|84092
+#31|Buffalo Sabres|Brendan Lemieux (F)|1|9|1|0|1|21|177647
+#32|Florida Panthers|Jayce Hawryluk (F)|||||||120626
+#33|St. Louis Blues|Ivan Barbashyov (F)|2|83|12|13|25|6|108659
+#34|Calgary Flames|Mason McDonald (G)|||||||194200
+#35|Tampa Bay Lightning|Dominik Masin (D)|||||||127501
+#36|Vancouver Canucks|Thatcher Demko (G)|2|1|-|-|-|-|155248
+#37|Carolina Hurricanes|Alex Nedeljkovic (G)|1|1|-|-|-|-|135425
+#38|Anaheim Ducks|Marcus Pettersson (D)|1|22|1|3|4|6|86321
+#39|Washington Capitals|Vitek Vanecek (G)|||||||161469
+#40|Ottawa Senators|Andreas Englund (D)|2|6|0|0|0|2|115148
+#41|New Jersey Devils|Josh Jacobs (D)|||||||168704
+#42|Nashville Predators|Vladislav Kamenev (F)|2|5|0|0|0|2|216659
+#43|Phoenix Coyotes|Ryan MacInnis (F)|||||||168707
+#44|Buffalo Sabres|Eric Cornel (F)|||||||154475
+#45|Dallas Stars|Brett Pollock (F)|||||||84111
+#46|San Jose Sharks|Julius Bergman (D)|||||||38929
+#47|Columbus Blue Jackets|Ryan Collins (D)|||||||120935
+#48|Philadelphia Flyers|Nicolas Aubé-Kubel (F)|||||||151146
+#49|Buffalo Sabres|Vaclav Karabacek (F)|||||||130789
+#50|Los Angeles Kings|Roland McKeown (D)|1|10|0|3|3|19|189364
+#51|Nashville Predators|Jack Dougherty (D)|||||||204300
+#52|St. Louis Blues|Maxim Letunov (F)|||||||233028
+#53|San Jose Sharks|Noah Rod (F)|||||||97120
+#54|Calgary Flames|Hunter Smith (F)|||||||117017
+#55|Anaheim Ducks|Brandon Montour (D)|2|107|11|27|38|56|97957
+#56|Boston Bruins|Ryan Donato (F)|1|12|5|4|9|2|195235
+#57|Tampa Bay Lightning|Johnathan MacLeod (D)|||||||177674
+#58|Phoenix Coyotes|Christian Dvorak (F)|2|156|30|40|70|44|194889
+#59|New York Rangers|Brandon Halverson (G)|2|1|-|-|-|-|213262
+#60|Los Angeles Kings|Alex Lintuniemi (D)|||||||50668
+#61|Buffalo Sabres|Jonas Johansson (G)|||||||86174
+#62|Nashville Predators|Justin Kirkland (F)|||||||63133
+#63|Detroit Red Wings|Dominic Turgeon (F)|1|5|0|0|0|2|120642
+#64|Calgary Flames|Brandon Hickey (D)|||||||64587
+#65|Florida Panthers|Juho Lammikko (F)|||||||151955
+#66|Vancouver Canucks|Nikita Tryamkin (D)|2|79|3|8|11|74|123119
+#67|Carolina Hurricanes|Warren Foegele (F)|1|2|2|1|3|0|210317
+#68|Toronto Maple Leafs|Rinat Valiyev (D)|2|12|0|0|0|2|159029
+#69|Winnipeg Jets|Jack Glover (D)|||||||168703
+#70|Ottawa Senators|Miles Gendron (D)|||||||248347
+#71|New Jersey Devils|Connor Chatham (F)|||||||114799
+#72|San Jose Sharks|Alex Schoenborn (F)|||||||118437
+#73|Montréal Canadiens|Brett Lernout (D)|3|21|0|1|1|6|104226
+#74|Buffalo Sabres|Brycen Martin (D)|||||||62212
+#75|Dallas Stars|Alexander Peters (D)|||||||196066
+#76|Columbus Blue Jackets|Elvis Merzlikins (G)|||||||66584
+#77|Columbus Blue Jackets|Blake Siebenaler (D)|||||||192880
+#78|New York Islanders|Ilya Sorokin (G)|||||||214182
+#79|Tampa Bay Lightning|Brayden Point (F)|2|150|50|56|106|38|62204
+#80|Minnesota Wild|Louie Belpedio (D)|1|1|0|2|2|0|177686
+#81|San Jose Sharks|Dylan Sadowy (F)|||||||194119
+#82|St. Louis Blues|Jake Walman (D)|||||||248066
+#83|Chicago Blackhawks|Matt Iacopelli (F)|||||||152075
+#84|Colorado Avalanche|Kyle Wood (D)|||||||189639
+#85|New York Rangers|Keegan Iverson (F)|||||||185603
+#86|Philadelphia Flyers|Mark Friedman (D)|||||||107113
+#87|Phoenix Coyotes|Anton Karlsson (F)|||||||88845
+#88|Chicago Blackhawks|Beau Starrett (F)|||||||252369
+#89|Washington Capitals|Nathan Walker (F)|1|9|1|0|1|6|101430
+#90|Los Angeles Kings|Michael Amadio (F)|1|37|4|4|8|8|151385
+#91|Edmonton Oilers|William Lagesson (D)|||||||86158
+#92|Florida Panthers|Joe Wegwerth (F)|||||||130916
+#93|Colorado Avalanche|Nick Magyar (F)|||||||135423
+#94|St. Louis Blues|Ville Husso (G)|1|0|-|-|-|-|50661
+#95|New York Islanders|Linus Söderström (G)|||||||114810
+#96|Carolina Hurricanes|Josh Wesley (D)|||||||189578
+#97|Carolina Hurricanes|Lucas Wallmark (F)|2|19|1|2|3|4|39022
+#98|Chicago Blackhawks|Fredrik Olofsson (F)|||||||195218
+#99|Winnipeg Jets|Chase De Leo (F)|1|2|0|0|0|0|116909
+#100|Ottawa Senators|Shane Eiserman (F)|||||||177720
+#101|Winnipeg Jets|Nelson Nogier (D)|1|10|0|0|0|5|120646
+#102|San Jose Sharks|Alexis Vanier (D)|||||||128447
+#103|Toronto Maple Leafs|J.J. Piccinich (F)|||||||191113
+#104|New York Rangers|Ryan Mantha (D)|||||||203339
+#105|Dallas Stars|Mike Prapavessis (D)|||||||195224
+#106|Detroit Red Wings|Christoffer Ehn (F)|||||||115020
+#107|Columbus Blue Jackets|Julien Pelletier (F)|||||||149432
+#108|New York Islanders|Devon Toews (D)|||||||59575
+#109|Minnesota Wild|Kaapo Kähkönen (G)|||||||114708
+#110|St. Louis Blues|Austin Poganski (F)|||||||231724
+#111|Edmonton Oilers|Zach Nagelvoort (G)|||||||135675
+#112|Nashville Predators|Viktor Arvidsson (F)|4|220|68|70|138|99|27484
+#113|Pittsburgh Penguins|Sam Lafferty (F)|||||||259043
+#114|Colorado Avalanche|Alexis Pépin (F)|||||||128459
+#115|Dallas Stars|Brent Moran (G)|||||||196507
+#116|Boston Bruins|Danton Heinen (F)|2|85|16|31|47|18|105821
+#117|Phoenix Coyotes|Michael Bunting (F)|||||||245191
+#118|New York Rangers|Igor Shestyorkin (G)|||||||195577
+#119|Tampa Bay Lightning|Ben Thomas (D)|||||||62287
+#120|Los Angeles Kings|Steven Johnson (D)|||||||218982
+#121|Buffalo Sabres|Maxwell Willman (F)|||||||300657
+#122|New York Rangers|Richard Nejezchleb (F)|||||||100577
+#123|Anaheim Ducks|Matthew Berkovitz (D)|||||||220352
+#124|St. Louis Blues|Jaedon Descheneau (F)|||||||64576
+#125|Montréal Canadiens|Nikolas Koberstein (D)|||||||84120
+#126|Vancouver Canucks|Gustav Forsling (D)|2|79|5|13|18|12|86366
+#127|Carolina Hurricanes|Clark Bishop (F)|||||||191376
+#128|Toronto Maple Leafs|Dakota Joshua (F)|||||||194948
+#129|Winnipeg Jets|C.J. Suess (F)|||||||195507
+#130|Edmonton Oilers|Liam Coughlin (F)|||||||248303
+#131|New Jersey Devils|Ryan Rehill (D)|||||||83900
+#132|Nashville Predators|Joonas Lyytinen (D)|||||||66296
+#133|Phoenix Coyotes|Dysin Mayo (D)|||||||120638
+#134|Washington Capitals|Shane Gersich (F)|1|3|0|1|1|0|168706
+#135|Dallas Stars|Miro Karjalainen (D)|||||||151918
+#136|Detroit Red Wings|Chase Perry (G)|||||||183537
+#137|Columbus Blue Jackets|Tyler Bird (F)|||||||178706
+#138|Philadelphia Flyers|Oskar Lindblom (F)|1|23|2|4|6|8|86181
+#139|Minnesota Wild|Tanner Faith (D)|||||||101642
+#140|New York Rangers|Daniel Walcott (D)|||||||257725
+#141|Chicago Blackhawks|Luc Snuggerud (D)|||||||196703
+#142|New York Rangers|Tyler Nanne (D)|||||||194952
+#143|Florida Panthers|Miguel Fidler (F)|||||||248353
+#144|Colorado Avalanche|Anton Lindholm (D)|2|60|0|4|4|16|39019
+#145|Pittsburgh Penguins|Anthony Angello (F)|||||||178527
+#146|Boston Bruins|Anders Bjork (F)|1|30|4|8|12|6|183809
+#147|Montréal Canadiens|Daniel Audette (F)|||||||128505
+#148|Chicago Blackhawks|Andreas Söderberg (D)|||||||107557
+#149|San Jose Sharks|Rourke Chartier (F)|||||||120201
+#150|Los Angeles Kings|Alec Dillon (G)|||||||120757
+#151|Buffalo Sabres|Christopher Brown (F)|||||||248309
+#152|New Jersey Devils|J.D. Dudek (F)|||||||211276
+#153|Edmonton Oilers|Tyler Vesel (F)|||||||121879
+#154|Dallas Stars|Aaron Haydon (D)|||||||189374
+#155|New York Islanders|Kyle Schempp (F)|||||||121949
+#156|Vancouver Canucks|Kyle Pettit (F)|||||||204921
+#157|Los Angeles Kings|Jake Marchment (F)|||||||95924
+#158|Toronto Maple Leafs|Nolan Vesey (F)|||||||248373
+#159|Washington Capitals|Steven Spinner (F)|||||||196597
+#160|Minnesota Wild|Pontus Själin (D)|||||||86227
+#161|New Jersey Devils|Brandon Baddock (F)|||||||83627
+#162|Nashville Predators|Aaron Irving (D)|||||||84245
+#163|Phoenix Coyotes|David Westlund (D)|||||||67162
+#164|Winnipeg Jets|Pavel Kraskovsky (F)|||||||212441
+#165|Dallas Stars|John Nyberg (D)|||||||146820
+#166|Detroit Red Wings|Julius Vähätalo (F)|||||||73323
+#167|Minnesota Wild|Chase Lang (F)|||||||120657
+#168|Philadelphia Flyers|Radel Fazleyev (F)|||||||231738
+#169|Minnesota Wild|Reid Duke (F)|||||||62308
+#170|Tampa Bay Lightning|Cristiano DiGiacinto (F)|||||||204054
+#171|San Jose Sharks|Kevin Labanc (F)|2|132|19|41|60|54|133841
+#172|St. Louis Blues|Chandler Yakimowicz (F)|||||||276562
+#173|Pittsburgh Penguins|Jaden Lindo (F)|||||||189413
+#174|Colorado Avalanche|Maximilian Pajpach (G)|||||||176686
+#175|Calgary Flames|Adam Ollas Mattsson (D)|||||||114812
+#176|St. Louis Blues|Sammy Blais (F)|1|11|1|2|3|6|213830
+#177|Montréal Canadiens|Hayden Hawkey (G)|||||||190163
+#178|Chicago Blackhawks|Dylan Sikura (F)|1|5|0|3|3|0|146580
+#179|Chicago Blackhawks|Ivan Nalimov (G)|||||||123057
+#180|Los Angeles Kings|Matt Mistele (F)|||||||117000
+#181|Buffalo Sabres|Victor Olofsson (F)|||||||86308
+#182|Florida Panthers|Hugo Fagerblom (G)|||||||146833
+#183|Edmonton Oilers|Keven Bouchard (G)|||||||151165
+#184|Calgary Flames|Austin Carroll (F)|||||||93438
+#185|Tampa Bay Lightning|Cam Darcy (F)|||||||90353
+#186|Vancouver Canucks|Mackenze Stewart (D)|||||||62280
+#187|Carolina Hurricanes|Kyle Jenkins (D)|||||||205495
+#188|Toronto Maple Leafs|Pierre Engvall (F)|||||||147720
+#189|Ottawa Senators|Kelly Summers (D)|||||||152175
+#190|Ottawa Senators|Francis Perron (F)|||||||151539
+#191|Phoenix Coyotes|Jared Fiegl (F)|||||||122120
+#192|Winnipeg Jets|Matt Ustaski (F)|||||||146215
+#193|Phoenix Coyotes|Edgars Kulda (F)|||||||52421
+#194|Washington Capitals|Kevin Elgestål (F)|||||||146825
+#195|Dallas Stars|Patrick Sanvido (D)|||||||189460
+#196|Detroit Red Wings|Axel Holmström (F)|||||||86320
+#197|Columbus Blue Jackets|Olivier LeBlanc (D)|||||||151757
+#198|Philadelphia Flyers|Jesper Pettersson (D)|||||||28988
+#199|Minnesota Wild|Pavel Jenys (F)|||||||112375
+#200|New York Islanders|Lukas Sutter (F)|||||||48665
+#201|Detroit Red Wings|Alexander Kadeykin (F)|||||||94663
+#202|St. Louis Blues|Dwyer Tschantz (F)|||||||191247
+#203|Pittsburgh Penguins|Jeff Taylor (D)|||||||122684
+#204|Colorado Avalanche|Julien Nantel (F)|||||||151707
+#205|Anaheim Ducks|Ondrej Kase (F)|2|119|25|28|53|32|165006
+#206|Boston Bruins|Emil Johansson (D)|||||||79498
+#207|Montréal Canadiens|Jake Evans (F)|||||||152048
+#208|Chicago Blackhawks|Jack Ramsey (F)|||||||195477
+#209|Los Angeles Kings|Spencer Watson (F)|||||||189462
+#210|Los Angeles Kings|Jacob Middleton (D)|||||||150872
+#1|Edmonton Oilers|Connor McDavid (F)|3|209|87|169|256|70|183442
+#2|Buffalo Sabres|Jack Eichel (F)|3|209|73|104|177|76|191959
+#3|Arizona Coyotes|Dylan Strome (F)|2|28|4|6|10|8|228107
+#4|Toronto Maple Leafs|Mitchell Marner (F)|2|159|41|89|130|64|223194
+#5|Carolina Hurricanes|Noah Hanifin (D)|3|239|18|65|83|69|177710
+#6|New Jersey Devils|Pavel Zacha (F)|3|140|16|35|51|49|130786
+#7|Philadelphia Flyers|Ivan Provorov (D)|2|164|23|48|71|54|242584
+#8|Columbus Blue Jackets|Zach Werenski (D)|2|155|27|57|84|30|186311
+#9|San Jose Sharks|Timo Meier (F)|2|115|24|18|42|61|95921
+#10|Colorado Avalanche|Mikko Rantanen (F)|3|165|49|73|122|58|91186
+#11|Florida Panthers|Lawson Crouse (F)|2|83|6|7|13|55|205155
+#12|Dallas Stars|Denis Guryanov (F)|1|1|0|0|0|0|263964
+#13|Boston Bruins|Jakub Zboril (D)|||||||112379
+#14|Boston Bruins|Jake DeBrusk (F)|1|70|16|27|43|19|84242
+#15|Boston Bruins|Zach Senyshyn (F)|||||||245108
+#16|New York Islanders|Mathew Barzal (F)|2|84|22|63|85|36|186310
+#17|Winnipeg Jets|Kyle Connor (F)|2|96|33|29|62|20|177671
+#18|Ottawa Senators|Thomas Chabot (D)|2|64|9|16|25|14|213607
+#19|Detroit Red Wings|Yevgeni Svechnikov (F)|2|16|2|2|4|8|168679
+#20|Minnesota Wild|Joel Eriksson Ek (F)|2|90|9|14|23|26|139633
+#21|Ottawa Senators|Colin White (F)|2|23|2|4|6|8|183810
+#22|Washington Capitals|Ilya Samsonov (G)|||||||277797
+#23|Vancouver Canucks|Brock Boeser (F)|2|71|33|27|60|16|248381
+#24|Philadelphia Flyers|Travis Konecny (F)|2|151|35|40|75|95|205148
+#25|Winnipeg Jets|Jack Roslovic (F)|2|32|5|9|14|2|226309
+#26|Montréal Canadiens|Noah Juulsen (D)|1|23|1|2|3|4|199905
+#27|Anaheim Ducks|Jacob Larsson (D)|1|4|0|0|0|2|147719
+#28|New York Islanders|Anthony Beauvillier (F)|2|137|30|30|60|26|213435
+#29|Columbus Blue Jackets|Gabriel Carlsson (D)|2|16|0|3|3|4|187919
+#30|Arizona Coyotes|Nicholas Merkley (F)|1|1|0|0|0|2|107894
+#31|San Jose Sharks|Jérémy Roy (D)|||||||151150
+#32|Arizona Coyotes|Christian Fischer (F)|2|86|18|18|36|14|226901
+#33|Tampa Bay Lightning|Mitchell Stephens (F)|||||||186392
+#34|Toronto Maple Leafs|Travis Dermott (D)|1|37|1|12|13|8|214673
+#35|Carolina Hurricanes|Sebastian Aho (F)|2|160|53|61|114|50|152111
+#36|Ottawa Senators|Gabriel Gagné (F)|||||||156103
+#37|Boston Bruins|Brandon Carlo (D)|2|158|6|16|22|104|120965
+#38|Columbus Blue Jackets|Paul Bittner (F)|||||||216874
+#39|Colorado Avalanche|A.J. Greer (F)|2|22|0|4|4|33|151125
+#40|Colorado Avalanche|Nicolas Meloche (D)|||||||213821
+#41|New York Rangers|Ryan Gropp (F)|||||||120198
+#42|New Jersey Devils|MacKenzie Blackwood (G)|1|0|-|-|-|-|203280
+#43|Los Angeles Kings|Erik Cernak (D)|||||||166368
+#44|Tampa Bay Lightning|Matthew Spencer (D)|||||||225188
+#45|Boston Bruins|Jakob Forsbacka Karlsson (F)|1|1|0|0|0|0|115158
+#46|Pittsburgh Penguins|Daniel Sprong (F)|2|26|4|1|5|0|231299
+#47|Winnipeg Jets|Jansen Harkins (F)|||||||160158
+#48|Ottawa Senators|Filip Chlapík (F)|1|20|1|3|4|4|157524
+#49|Dallas Stars|Roope Hintz (F)|||||||92117
+#50|Minnesota Wild|Jordan Greenway (F)|1|6|0|1|1|0|183455
+#51|Buffalo Sabres|Brendan Guhle (D)|2|21|0|5|5|10|63250
+#52|Boston Bruins|Jérémy Lauzon (D)|||||||213715
+#53|Calgary Flames|Rasmus Andersson (D)|2|11|0|0|0|4|86137
+#54|Chicago Blackhawks|Graham Knott (F)|||||||225057
+#55|Nashville Predators|Yakov Trenin (F)|||||||277485
+#56|St. Louis Blues|Vince Dunn (D)|1|75|5|19|24|20|161816
+#57|Washington Capitals|Jonas Siegenthaler (D)|||||||105407
+#58|Columbus Blue Jackets|Kevin Stenlund (F)|||||||142262
+#59|Anaheim Ducks|Julius Nättinen (F)|||||||85961
+#60|Calgary Flames|Oliver Kylington (D)|1|1|0|0|0|0|142238
+#61|Toronto Maple Leafs|Jeremy Bracco (F)|||||||197800
+#62|New York Rangers|Robin Kovacs (F)|||||||85693
+#63|Arizona Coyotes|Kyle Capobianco (D)|1|1|0|0|0|0|225186
+#64|Tampa Bay Lightning|Dennis Yan (F)|||||||183259
+#65|Toronto Maple Leafs|Andrew Nielsen (D)|||||||131262
+#66|Vancouver Canucks|Guillaume Brisebois (D)|||||||213397
+#67|New Jersey Devils|Blake Speers (F)|1|3|0|0|0|0|186413
+#68|Toronto Maple Leafs|Martins Dzierkals (F)|||||||239362
+#69|Columbus Blue Jackets|Keegan Kolesar (F)|||||||197560
+#70|Philadelphia Flyers|Felix Sandström (G)|||||||146703
+#71|Colorado Avalanche|Jean-Christophe Beaudin (F)|||||||204169
+#72|Tampa Bay Lightning|Anthony Cirelli (F)|1|18|5|6|11|6|274875
+#73|Detroit Red Wings|Vili Saarijärvi (D)|||||||122954
+#74|Los Angeles Kings|Alexander Dergachyov (F)|||||||231966
+#75|Boston Bruins|Dan Vladar (G)|||||||215223
+#76|Arizona Coyotes|Adin Hill (G)|2|4|-|-|-|-|62230
+#77|Florida Panthers|Sam Montembeault (G)|1|0|-|-|-|-|187526
+#78|Winnipeg Jets|Erik Foley (F)|||||||212561
+#79|New York Rangers|Sergei Zborovsky (D)|||||||277798
+#80|Anaheim Ducks|Brent Gates (F)|||||||208974
+#81|Arizona Coyotes|Brendan Warren (F)|||||||208973
+#82|New York Islanders|Mitchell Vande Sompel (D)|||||||204918
+#83|Arizona Coyotes|Jens Lööke (F)|||||||146691
+#84|Anaheim Ducks|Deven Sideroff (F)|||||||202370
+#85|Nashville Predators|Thomas Novak (F)|||||||248374
+#86|San Jose Sharks|Mike Robinson (G)|||||||297557
+#87|Montréal Canadiens|Lukas Vejdemo (F)|||||||142243
+#88|Florida Panthers|Thomas Schemitsch (D)|||||||232612
+#89|New York Rangers|Aleksi Saarela (F)|||||||94117
+#90|Philadelphia Flyers|Matej Tomek (G)|||||||221902
+#91|Chicago Blackhawks|Dennis Gilbert (D)|||||||267396
+#92|Buffalo Sabres|Will Borgen (D)|||||||248330
+#93|Carolina Hurricanes|Callum Booth (G)|||||||231344
+#94|St. Louis Blues|Adam Musil (F)|||||||189422
+#95|Toronto Maple Leafs|Jesper Lindgren (D)|||||||187806
+#96|Carolina Hurricanes|Nicolas Roy (F)|1|1|0|0|0|0|151361
+#97|New Jersey Devils|Colton White (D)|||||||204911
+#98|Philadelphia Flyers|Samuel Dove-McFalls (F)|||||||135860
+#99|Los Angeles Kings|Austin Wagner (F)|||||||161117
+#100|Nashville Predators|Anthony Richard (F)|||||||155661
+#101|Colorado Avalanche|Andrei Mironov (D)|1|10|1|2|3|12|159421
+#102|Florida Panthers|Denis Malgin (F)|2|98|17|15|32|14|117376
+#103|Dallas Stars|Chris Martenet (D)|||||||226615
+#104|Philadelphia Flyers|Mikhail Vorobyov (F)|||||||285679
+#105|Boston Bruins|Jesse Gabrielle (F)|||||||199921
+#106|San Jose Sharks|Adam Helewka (F)|||||||119394
+#107|Ottawa Senators|Christian Wolanin (D)|1|10|1|2|3|0|188788
+#108|Winnipeg Jets|Michael Spacek (F)|||||||199564
+#109|Ottawa Senators|Filip Ahl (F)|||||||162177
+#110|Detroit Red Wings|Joren van Pottelberghe (G)|||||||156081
+#111|Minnesota Wild|Ales Stezka (G)|||||||189834
+#112|New York Islanders|Parker Wotherspoon (D)|||||||195951
+#113|New York Rangers|Brad Morrison (F)|||||||199394
+#114|Vancouver Canucks|Dmitri Zhukenov (F)|||||||277804
+#115|Nashville Predators|Alexandre Carrier (D)|1|2|0|0|0|0|151143
+#116|St. Louis Blues|Glenn Gawdin (F)|||||||192245
+#117|Edmonton Oilers|Caleb Jones (D)|||||||199902
+#118|Tampa Bay Lightning|Jonne Tammela (F)|||||||131138
+#119|New York Rangers|Daniel Bernhardt (F)|||||||142253
+#120|Tampa Bay Lightning|Mathieu Joseph (F)|||||||227640
+#121|Chicago Blackhawks|Ryan Shea (D)|||||||232931
+#122|Buffalo Sabres|Devante Stephens (D)|||||||268073
+#123|Arizona Coyotes|Conor Garland (F)|||||||177208
+#124|Edmonton Oilers|Ethan Bear (D)|1|18|1|3|4|10|197561
+#125|Toronto Maple Leafs|Dmytro Timashov (F)|||||||115161
+#126|Carolina Hurricanes|Luke Stevens (F)|||||||248399
+#127|St. Louis Blues|Niko Mikkola (D)|||||||94439
+#128|Philadelphia Flyers|David Kase (F)|||||||158842
+#129|Columbus Blue Jackets|Sam Ruopp (D)|||||||120650
+#130|San Jose Sharks|Karlis Cukste (D)|||||||214273
+#131|Montréal Canadiens|Matthew Bradley (F)|||||||199714
+#132|Florida Panthers|Karch Bachman (F)|||||||245262
+#133|Dallas Stars|Joseph Cecconi (D)|||||||232945
+#134|Los Angeles Kings|Matt Schmalz (F)|||||||189373
+#135|Minnesota Wild|Kirill Kaprizov (F)|||||||265645
+#136|Calgary Flames|Pavel Karnaukhov (F)|||||||268038
+#137|Pittsburgh Penguins|Dominik Simon (F)|3|38|4|10|14|16|105831
+#138|Carolina Hurricanes|Spencer Smallman (F)|||||||166979
+#139|Ottawa Senators|Christian Jaros (D)|1|2|0|0|0|0|166373
+#140|Detroit Red Wings|Chase Pearson (F)|||||||245117
+#141|Columbus Blue Jackets|Veeti Vainio (D)|||||||104435
+#142|San Jose Sharks|Rudolfs Balcers (F)|||||||153652
+#143|Washington Capitals|Connor Hobbs (D)|||||||199904
+#144|Vancouver Canucks|Carl Neill (D)|||||||151536
+#145|Nashville Predators|Karel Vejmelka (G)|||||||189829
+#146|St. Louis Blues|Luke Opilka (G)|||||||233432
+#147|New York Islanders|Ryan Pilon (D)|||||||119271
+#148|Anaheim Ducks|Troy Terry (F)|1|2|0|0|0|0|234046
+#149|Vancouver Canucks|Adam Gaudette (F)|1|5|0|0|0|0|203361
+#150|Tampa Bay Lightning|Ryan Zuhlsdorf (D)|||||||248447
+#151|Chicago Blackhawks|Radovan Bondra (F)|||||||157407
+#152|Buffalo Sabres|Giorgio Estephan (F)|||||||131304
+#153|Tampa Bay Lightning|Kristian Oldham (G)|||||||248368
+#154|Edmonton Oilers|John Marino (D)|||||||278675
+#155|Toronto Maple Leafs|Stephen Desrocher (D)|||||||205526
+#156|Carolina Hurricanes|Jake Massie (D)|||||||304382
+#157|New Jersey Devils|Brett Seney (F)|||||||204125
+#158|Philadelphia Flyers|Cooper Marody (F)|||||||248334
+#159|Columbus Blue Jackets|Vladislav Gavrikov (D)|||||||165015
+#160|San Jose Sharks|Adam Parsells (D)|||||||245310
+#161|Colorado Avalanche|Sergei Boikov (D)|||||||218306
+#162|Florida Panthers|Christopher Wilkie (F)|||||||120644
+#163|Dallas Stars|Markus Ruusu (G)|||||||221660
+#164|Chicago Blackhawks|Roy Radke (F)|||||||232637
+#165|Boston Bruins|Cameron Hughes (F)|||||||62155
+#166|Calgary Flames|Andrew Mangiapane (F)|1|10|0|0|0|2|223199
+#167|Pittsburgh Penguins|Frederik Tiffels (F)|||||||85240
+#168|Winnipeg Jets|Mason Appleton (F)|||||||266919
+#169|Carolina Hurricanes|David Cotton (F)|||||||225022
+#170|Detroit Red Wings|Patrick Holway (D)|||||||203358
+#171|Minnesota Wild|Nicholas Boka (D)|||||||206621
+#172|New York Islanders|Andong Song (D)|||||||291003
+#173|Washington Capitals|Colby Williams (D)|||||||85035
+#174|Vancouver Canucks|Lukas Jasek (F)|||||||213164
+#175|Nashville Predators|Tyler Moy (F)|||||||118545
+#176|St. Louis Blues|Liam Dunda (F)|||||||234450
+#177|Montréal Canadiens|Simon Bourque (D)|||||||213536
+#178|Anaheim Ducks|Steven Ruggiero (D)|||||||245150
+#179|Anaheim Ducks|Garrett Metcalf (G)|||||||215452
+#180|Tampa Bay Lightning|Bokondji Imama (F)|||||||151711
+#181|Chicago Blackhawks|Joni Tuulola (D)|||||||90023
+#182|Buffalo Sabres|Ivan Chukarov (D)|||||||135399
+#183|Arizona Coyotes|Erik Källgren (G)|||||||142236
+#184|New York Rangers|Adam Huska (G)|||||||201638
+#185|Toronto Maple Leafs|Nikita Korostelev (F)|||||||183258
+#186|Carolina Hurricanes|Steven Lorentz (F)|||||||204707
+#187|Los Angeles Kings|Chaz Reddekopp (D)|||||||199398
+#188|Philadelphia Flyers|Ivan Fedotov (G)|||||||250489
+#189|Columbus Blue Jackets|Markus Nutivaara (D)|2|127|9|21|30|20|47273
+#190|San Jose Sharks|Marcus Vela (F)|||||||199950
+#191|Colorado Avalanche|Gustav Olhaver (F)|||||||212720
+#192|Florida Panthers|Patrick Shea (F)|||||||277759
+#193|San Jose Sharks|Jake Kupsky (G)|||||||321904
+#194|Los Angeles Kings|Matt Roy (F)|||||||191271
+#195|Boston Bruins|Jack Becker (F)|||||||248382
+#196|Calgary Flames|Riley Bruce (D)|||||||245105
+#197|Pittsburgh Penguins|Nikita Pavlychev (F)|||||||248436
+#198|Winnipeg Jets|Sami Niku (D)|1|1|1|0|1|0|92502
+#199|Ottawa Senators|Joel Daccord (G)|||||||248377
+#200|Detroit Red Wings|Adam Marsh (F)|||||||234343
+#201|Minnesota Wild|Gustav Bouramman (D)|||||||142252
+#202|New York Islanders|Petter Hansson (D)|||||||111641
+#203|Winnipeg Jets|Matteo Gennaro (F)|||||||131328
+#204|Minnesota Wild|Jack Sadek (D)|||||||300900
+#205|Nashville Predators|Evan Smith (G)|||||||286349
+#206|Florida Panthers|Ryan Bednard (G)|||||||271339
+#207|Montréal Canadiens|Jeremiah Addison (F)|||||||169051
+#208|Edmonton Oilers|Miroslav Svoboda (G)|||||||101860
+#209|Edmonton Oilers|Ziyat Paigin (D)|||||||163859
+#210|Vancouver Canucks|Tate Olson (D)|||||||199682
+#211|Chicago Blackhawks|John Dahlström (F)|||||||212530
+#1|Toronto Maple Leafs|Auston Matthews (F)|2|144|74|58|132|26|199898
+#2|Winnipeg Jets|Patrik Laine (F)|2|155|80|54|134|50|221667
+#3|Columbus Blue Jackets|Pierre-Luc Dubois (F)|1|82|20|28|48|49|252480
+#4|Edmonton Oilers|Jesse Puljujärvi (F)|2|93|13|15|28|24|152117
+#5|Vancouver Canucks|Olli Juolevi (D)|||||||196391
+#6|Calgary Flames|Matthew Tkachuk (F)|2|144|37|60|97|166|233030
+#7|Arizona Coyotes|Clayton Keller (F)|2|85|23|44|67|24|226432
+#8|Buffalo Sabres|Alexander Nylander (F)|2|7|1|1|2|0|212641
+#9|Montréal Canadiens|Mikhail Sergachyov (D)|2|83|9|31|40|38|312213
+#10|Colorado Avalanche|Tyson Jost (F)|2|71|13|10|23|26|148111
+#11|Ottawa Senators|Logan Brown (F)|1|4|0|1|1|0|248391
+#12|New Jersey Devils|Michael McLeod (F)|||||||240821
+#13|Carolina Hurricanes|Jake Bean (D)|||||||199660
+#14|Boston Bruins|Charlie McAvoy (D)|2|63|7|25|32|53|245142
+#15|Minnesota Wild|Luke Kunin (F)|1|19|2|2|4|13|245278
+#16|Arizona Coyotes|Jakob Chychrun (D)|2|118|11|23|34|63|243386
+#17|Nashville Predators|Dante Fabbro (D)|||||||247041
+#18|Winnipeg Jets|Logan Stanley (D)|||||||240108
+#19|New York Islanders|Kieffer Bellows (F)|||||||247945
+#20|Detroit Red Wings|Dennis Cholowski (D)|||||||247137
+#21|Carolina Hurricanes|Julien Gauthier (F)|||||||213464
+#22|Philadelphia Flyers|German Rubtsov (F)|||||||312227
+#23|Florida Panthers|Henrik Borgström (F)|1|4|1|0|1|0|118332
+#24|Anaheim Ducks|Max Jones (F)|||||||233448
+#25|Dallas Stars|Riley Tufte (F)|||||||291903
+#26|St. Louis Blues|Tage Thompson (F)|1|41|3|6|9|12|301349
+#27|Tampa Bay Lightning|Brett Howden (F)|||||||232712
+#28|Washington Capitals|Lucas Johansen (D)|||||||199937
+#29|Boston Bruins|Trent Frederic (F)|||||||272221
+#30|Anaheim Ducks|Sam Steel (F)|||||||154496
+#31|Toronto Maple Leafs|Yegor Korshkov (F)|||||||176637
+#32|Edmonton Oilers|Tyler Benson (F)|||||||154220
+#33|Buffalo Sabres|Rasmus Asplund (F)|||||||139616
+#34|Columbus Blue Jackets|Andrew Peeke (D)|||||||291905
+#35|St. Louis Blues|Jordan Kyrou (F)|||||||269034
+#36|Philadelphia Flyers|Pascal Laberge (F)|||||||252492
+#37|Tampa Bay Lightning|Libor Hájek (D)|||||||195023
+#38|Florida Panthers|Adam Mascherin (F)|||||||240112
+#39|Chicago Blackhawks|Alex DeBrincat (F)|1|82|28|24|52|6|231275
+#40|Colorado Avalanche|Cam Morrison (F)|||||||268696
+#41|New Jersey Devils|Nathan Bastian (F)|||||||245157
+#42|Ottawa Senators|Jonathan Dahlén (F)|||||||212368
+#43|Carolina Hurricanes|Janne Kuokkanen (F)|1|4|0|0|0|0|209426
+#44|Tampa Bay Lightning|Boris Katchouk (F)|||||||269859
+#45|Chicago Blackhawks|Chad Krys (D)|||||||229559
+#46|Detroit Red Wings|Givani Smith (F)|||||||252472
+#47|Nashville Predators|Samuel Girard (D)|1|73|4|19|23|8|251476
+#48|Philadelphia Flyers|Carter Hart (G)|||||||161850
+#49|Boston Bruins|Ryan Lindgren (D)|||||||226442
+#50|Chicago Blackhawks|Artur Kayumov (F)|||||||312217
+#51|Los Angeles Kings|Kale Clague (D)|||||||108472
+#52|Philadelphia Flyers|Wade Allison (F)|||||||199949
+#53|Detroit Red Wings|Filip Hronek (D)|||||||191286
+#54|Calgary Flames|Tyler Parsons (G)|||||||234378
+#55|Pittsburgh Penguins|Filip Gustavsson (G)|||||||212732
+#56|Calgary Flames|Dillon Dubé (F)|||||||157256
+#57|Toronto Maple Leafs|Carl Grundström (F)|||||||113516
+#58|Tampa Bay Lightning|Taylor Raddysh (F)|||||||245610
+#59|St. Louis Blues|Evan Fitzpatrick (G)|||||||216160
+#60|San Jose Sharks|Dylan Gambrell (F)|1|3|0|0|0|0|192301
+#61|Pittsburgh Penguins|Kasper Björkqvist (F)|||||||122146
+#62|Toronto Maple Leafs|Joseph Woll (G)|||||||272227
+#63|Edmonton Oilers|Markus Niemeläinen (D)|||||||175894
+#64|Vancouver Canucks|William Lockwood (F)|||||||272186
+#65|Columbus Blue Jackets|Vitali Abramov (F)|||||||295715
+#66|Calgary Flames|Adam Fox (D)|||||||248380
+#67|Carolina Hurricanes|Matt Filipe (F)|||||||286690
+#68|Arizona Coyotes|Cam Dineen (D)|||||||268444
+#69|Buffalo Sabres|Cliff Pu (F)|||||||245616
+#70|Montréal Canadiens|William Bitten (F)|||||||245965
+#71|Colorado Avalanche|Josh Anderson (D)|||||||247061
+#72|Toronto Maple Leafs|James Greenway (D)|||||||226438
+#73|New Jersey Devils|Joey Anderson (F)|||||||247964
+#74|Carolina Hurricanes|Hudson Elynuik (F)|||||||107909
+#75|Carolina Hurricanes|Jack LaFontaine (G)|||||||234448
+#76|Nashville Predators|Rem Pitlick (F)|||||||199968
+#77|Pittsburgh Penguins|Connor Hall (D)|||||||254039
+#78|Nashville Predators|Frédéric Allard (D)|||||||213473
+#79|Winnipeg Jets|Luke Green (D)|||||||195389
+#80|New Jersey Devils|Brandon Gignac (F)|||||||213725
+#81|New York Rangers|Sean Day (D)|||||||228106
+#82|Philadelphia Flyers|Carsen Twarynski (F)|||||||107898
+#83|Chicago Blackhawks|Wouter Peeters (G)|||||||241698
+#84|Edmonton Oilers|Matthew Cairns (D)|||||||245621
+#85|Anaheim Ducks|Josh Mahura (D)|||||||166669
+#86|Buffalo Sabres|Casey Fitzgerald (D)|||||||177660
+#87|Washington Capitals|Garrett Pilon (F)|||||||49041
+#88|Tampa Bay Lightning|Connor Ingram (G)|||||||200675
+#89|Florida Panthers|Linus Nässén (D)|||||||240064
+#90|Dallas Stars|Fredrik Karlström (F)|||||||220059
+#91|Edmonton Oilers|Filip Berglund (D)|||||||113834
+#92|Toronto Maple Leafs|Adam Brooks (F)|||||||120202
+#93|Anaheim Ducks|Jack Kopacka (F)|||||||233512
+#94|Florida Panthers|Jonathan Ang (F)|||||||251447
+#95|New York Islanders|Anatoli Golyshev (F)|||||||205469
+#96|Calgary Flames|Linus Lindström (F)|||||||242668
+#97|Winnipeg Jets|Jacob Cederholm (D)|||||||169012
+#98|New York Rangers|Tarmo Reunanen (D)|||||||221513
+#99|Buffalo Sabres|Brett Murray (F)|||||||267772
+#100|Montréal Canadiens|Victor Mete (D)|1|49|0|7|7|4|232703
+#101|Toronto Maple Leafs|Keaton Middleton (D)|||||||249597
+#102|New Jersey Devils|Mikhail Maltsev (F)|||||||312218
+#103|Ottawa Senators|Todd Burgess (F)|||||||206321
+#104|Carolina Hurricanes|Max Zimmer (F)|||||||248441
+#105|New Jersey Devils|Evan Cormier (G)|||||||245119
+#106|Minnesota Wild|Brandon Duhaime (F)|||||||202463
+#107|Detroit Red Wings|Alfons Malmström (D)|||||||212632
+#108|Nashville Predators|Hardy Häman Aktell (D)|||||||242658
+#109|Philadelphia Flyers|Connor Bunnaman (F)|||||||267790
+#110|Chicago Blackhawks|Lucas Carlsson (D)|||||||212334
+#111|San Jose Sharks|Noah Gregor (F)|||||||162892
+#112|Los Angeles Kings|Jacob Moverare (D)|||||||212726
+#113|Chicago Blackhawks|Nathan Noel (F)|||||||183451
+#114|Florida Panthers|Riley Stillman (D)|||||||252469
+#115|Anaheim Ducks|Alex Dostie (F)|||||||213787
+#116|Dallas Stars|Rhett Gardner (F)|||||||119371
+#117|Washington Capitals|Damien Riat (F)|||||||153634
+#118|Tampa Bay Lightning|Ross Colton (F)|||||||300911
+#119|St. Louis Blues|Tanner Kaspick (F)|||||||201245
+#120|New York Islanders|Otto Koivula (F)|||||||241338
+#121|Pittsburgh Penguins|Ryan Jones (D)|||||||266154
+#122|Toronto Maple Leafs|Vladimir Bobylyov (F)|||||||268059
+#123|Edmonton Oilers|Dylan Wells (G)|||||||239801
+#124|Montréal Canadiens|Casey Staum (D)|||||||300828
+#125|St. Louis Blues|Nolan Stevens (F)|||||||146116
+#126|Calgary Flames|Mitchell Mattson (F)|||||||291902
+#127|Winnipeg Jets|Jordy Stallard (F)|||||||199912
+#128|Dallas Stars|Colton Point (G)|||||||275708
+#129|Buffalo Sabres|Philip Nyberg (D)|||||||146985
+#130|Buffalo Sabres|Vojtech Budik (D)|||||||201615
+#131|Colorado Avalanche|Adam Werner (G)|||||||147736
+#132|New Jersey Devils|Yegor Rykov (D)|||||||269022
+#133|Ottawa Senators|Maxime Lajoie (D)|||||||161131
+#134|Carolina Hurricanes|Jeremy Helvig (G)|||||||234452
+#135|Boston Bruins|Joona Koppanen (F)|||||||279893
+#136|Boston Bruins|Cam Clarke (D)|||||||288967
+#137|Detroit Red Wings|Jordan Sambrook (D)|||||||268675
+#138|Nashville Predators|Patrick Harper (F)|||||||229608
+#139|Philadelphia Flyers|Linus Högberg (D)|||||||244643
+#140|Vancouver Canucks|Cole Candella (D)|||||||247116
+#141|New York Rangers|Timothy Gettinger (F)|||||||272570
+#142|Los Angeles Kings|Michael Eyssimont (F)|||||||196603
+#143|Chicago Blackhawks|Mathias From (F)|||||||220307
+#144|St. Louis Blues|Conner Bleackley (F)|||||||84020
+#145|Washington Capitals|Beck Malenstyn (F)|||||||247477
+#146|Dallas Stars|Nicholas Caamano (F)|||||||252448
+#147|Washington Capitals|Axel Jonsson Fjällby (F)|||||||246070
+#148|Tampa Bay Lightning|Christopher Paquette (F)|||||||252451
+#149|Edmonton Oilers|Graham McPhee (F)|||||||226444
+#150|San Jose Sharks|Manuel Wiederer (F)|||||||86675
+#151|Pittsburgh Penguins|Niclas Almari (D)|||||||241335
+#152|Toronto Maple Leafs|Jack Walker (F)|||||||195217
+#153|Edmonton Oilers|Aapeli Räsänen (F)|||||||118081
+#154|Vancouver Canucks|Jakob Stukel (F)|||||||197807
+#155|Columbus Blue Jackets|Peter Thome (G)|||||||271358
+#156|Calgary Flames|Eetu Tuulola (F)|||||||123542
+#157|Winnipeg Jets|Mikhail Berdin (G)|||||||312197
+#158|Arizona Coyotes|Patrick Kudla (D)|||||||219542
+#159|Buffalo Sabres|Brandon Hagel (F)|||||||161843
+#160|Montréal Canadiens|Michael Pezzetta (F)|||||||269038
+#161|Colorado Avalanche|Nate Clurman (D)|||||||353810
+#162|New Jersey Devils|Jesper Bratt (F)|1|74|13|22|35|18|117698
+#163|Ottawa Senators|Markus Nurmi (F)|||||||158967
+#164|Carolina Hurricanes|Noah Carroll (D)|||||||240028
+#165|Boston Bruins|Oskar Steen (F)|||||||212666
+#166|Calgary Flames|Matthew Phillips (F)|||||||161060
+#167|Detroit Red Wings|Filip Larsson (G)|||||||264409
+#168|Nashville Predators|Konstantin Volkov (G)|||||||280073
+#169|Philadelphia Flyers|Tanner Laczynski (F)|||||||234312
+#170|New York Islanders|Collin Adams (F)|||||||233489
+#171|New York Rangers|Gabriel Fontaine (F)|||||||213781
+#172|Philadelphia Flyers|Anthony Salinitri (F)|||||||254246
+#173|Chicago Blackhawks|Blake Hillman (D)|1|4|1|0|1|0|248356
+#174|New York Rangers|Tyler Wall (G)|||||||253962
+#175|Florida Panthers|Maxim Mamin (F)|1|26|3|1|4|7|155384
+#176|Dallas Stars|Jakob Stenqvist (D)|||||||212688
+#177|Washington Capitals|Chase Priskie (D)|||||||177666
+#178|Tampa Bay Lightning|Oleg Sosunov (D)|||||||324561
+#179|Toronto Maple Leafs|Nicolas Mattinen (D)|||||||251744
+#180|San Jose Sharks|Mark Shoemaker (D)|||||||245255
+#181|Pittsburgh Penguins|Joseph Masonius (D)|||||||222493
+#182|Toronto Maple Leafs|Nikolai Chebykin (F)|||||||300931
+#183|Edmonton Oilers|Vincent Desharnais (D)|||||||264690
+#184|Vancouver Canucks|Rodrigo Abols (F)|||||||154962
+#185|Columbus Blue Jackets|Calvin Thürkauf (F)|||||||186336
+#186|Calgary Flames|Stepan Falkovsky (D)|||||||248808
+#187|Montréal Canadiens|Arvid Henrikson (D)|||||||246448
+#188|Arizona Coyotes|Dean Stewart (D)|||||||247935
+#189|Buffalo Sabres|Austin Osmanski (D)|||||||267695
+#190|Buffalo Sabres|Vasili Glotov (F)|||||||313721
+#191|Colorado Avalanche|Travis Barron (F)|||||||252446
+#192|New Jersey Devils|Jérémy Davies (D)|||||||213454
+#193|New York Islanders|Nick Pastujov (F)|||||||233429
+#194|Vancouver Canucks|Brett McKenzie (F)|||||||207349
+#195|Florida Panthers|Benjamin Finkelstein (D)|||||||260602
+#196|Minnesota Wild|Dmitri Sokolov (F)|||||||279385
+#197|Detroit Red Wings|Mattias Elfström (F)|||||||212529
+#198|Nashville Predators|Adam Smith (D)|||||||259294
+#199|Philadelphia Flyers|David Bernhardt (D)|||||||187875
+#200|New York Islanders|David Quenneville (D)|||||||166662
+#201|New York Rangers|Ty Ronning (F)|||||||195952
+#202|Los Angeles Kings|Jacob Friend (D)|||||||253249
+#203|Chicago Blackhawks|Jake Ryczek (D)|||||||297332
+#204|Minnesota Wild|Braydyn Chizen (D)|||||||247979
+#205|Anaheim Ducks|Tyler Soy (F)|||||||199395
+#206|Tampa Bay Lightning|Otto Somppi (F)|||||||196406
+#207|Washington Capitals|Dmitri Zaitsev (D)|||||||312205
+#208|Tampa Bay Lightning|Ryan Lohin (F)|||||||79424
+#209|St. Louis Blues|Nikolaj Krag Christensen (F)|||||||207452
+#210|San Jose Sharks|Joachim Blichfeld (F)|||||||211282
+#211|St. Louis Blues|Filip Helt (F)|||||||167520
+#1|New Jersey Devils|Nico Hischier (F)|1|82|20|32|52|26|116244
+#2|Philadelphia Flyers|Nolan Patrick (F)|1|73|13|17|30|30|201274
+#3|Dallas Stars|Miro Heiskanen (D)|||||||250075
+#4|Colorado Avalanche|Cale Makar (D)|||||||199655
+#5|Vancouver Canucks|Elias Pettersson (F)|||||||266336
+#6|Vegas Golden Knights|Cody Glass (F)|||||||201704
+#7|New York Rangers|Lias Andersson (F)|1|7|1|1|2|0|214318
+#8|Buffalo Sabres|Casey Mittelstadt (F)|1|6|1|4|5|2|300831
+#9|Detroit Red Wings|Michael Rasmussen (F)|||||||286738
+#10|Florida Panthers|Owen Tippett (F)|1|7|1|0|1|0|201664
+#11|Los Angeles Kings|Gabriel Vilardi (F)|||||||286867
+#12|Carolina Hurricanes|Martin Necas (F)|1|1|0|0|0|0|237071
+#13|Vegas Golden Knights|Nick Suzuki (F)|||||||300436
+#14|Tampa Bay Lightning|Cal Foote (D)|||||||247895
+#15|Vegas Golden Knights|Erik Brännström (D)|||||||255167
+#16|Calgary Flames|Juuso Välimäki (D)|||||||221525
+#17|Toronto Maple Leafs|Timothy Liljegren (D)|||||||224910
+#18|Boston Bruins|Urho Vaakanainen (D)|||||||180538
+#19|San Jose Sharks|Joshua Norris (F)|||||||273954
+#20|St. Louis Blues|Robert Thomas (F)|||||||201681
+#21|New York Rangers|Filip Chytil (F)|1|9|1|2|3|4|236806
+#22|Edmonton Oilers|Kailer Yamamoto (F)|1|9|0|3|3|2|247915
+#23|Arizona Coyotes|Pierre-Olivier Joseph (D)|||||||284911
+#24|Winnipeg Jets|Kristian Vesalainen (F)|||||||222125
+#25|Montréal Canadiens|Ryan Poehling (F)|||||||288045
+#26|Dallas Stars|Jake Oettinger (G)|||||||247982
+#27|Philadelphia Flyers|Morgan Frost (F)|||||||317025
+#28|Ottawa Senators|Shane Bowers (F)|||||||216102
+#29|Chicago Blackhawks|Henri Jokiharju (D)|||||||277056
+#30|Nashville Predators|Eeli Tolvanen (F)|1|3|0|0|0|0|249730
+#31|St. Louis Blues|Klim Kostin (F)|||||||312823
+#32|Colorado Avalanche|Conor Timmins (D)|||||||267584
+#33|Vancouver Canucks|Kole Lind (F)|||||||200933
+#34|Vegas Golden Knights|Nicolas Hague (D)|||||||253977
+#35|Philadelphia Flyers|Isaac Ratcliffe (F)|||||||300398
+#36|New Jersey Devils|Jesper Boqvist (F)|||||||212690
+#37|Buffalo Sabres|Marcus Davidsson (F)|||||||240720
+#38|Detroit Red Wings|Gustav Lindström (D)|||||||212379
+#39|Dallas Stars|Jason Robertson (F)|||||||201455
+#40|Florida Panthers|Aleksi Heponiemi (F)|||||||284816
+#41|Los Angeles Kings|Jaret Anderson-Dolan (F)|||||||278859
+#42|Carolina Hurricanes|Eetu Luostarinen (F)|||||||299319
+#43|Winnipeg Jets|Dylan Samberg (D)|||||||201527
+#44|Arizona Coyotes|Filip Westerlund (D)|||||||262145
+#45|Columbus Blue Jackets|Alexandre Texier (F)|||||||296904
+#46|New York Islanders|Robin Salo (D)|||||||197821
+#47|Ottawa Senators|Alex Formenton (F)|1|1|0|0|0|0|273622
+#48|Tampa Bay Lightning|Alexander Volkov (F)|||||||277802
+#49|San Jose Sharks|Mario Ferraro (D)|||||||245622
+#50|Anaheim Ducks|Maxime Comtois (F)|||||||201534
+#51|Pittsburgh Penguins|Zachary Lauzon (D)|||||||254662
+#52|Carolina Hurricanes|Luke Martin (D)|||||||272217
+#53|Boston Bruins|Jack Studnicka (F)|||||||284096
+#54|Buffalo Sabres|Ukko-Pekka Luukkonen (G)|||||||286397
+#55|Vancouver Canucks|Jonah Gadjovich (F)|||||||252476
+#56|Montréal Canadiens|Josh Brook (D)|||||||201551
+#57|Chicago Blackhawks|Ian Mitchell (D)|||||||201362
+#58|Montréal Canadiens|Joni Ikonen (F)|||||||221341
+#59|Toronto Maple Leafs|Eemeli Räsänen (D)|||||||302228
+#60|Anaheim Ducks|Antoine Morand (F)|||||||275608
+#61|Nashville Predators|Grant Mismash (F)|||||||269306
+#62|Vegas Golden Knights|Jake Leschyshyn (F)|||||||279125
+#63|New Jersey Devils|Fabian Zetterlund (F)|||||||265608
+#64|Vancouver Canucks|Michael DiPietro (G)|||||||300424
+#65|Vegas Golden Knights|Jonas Røndbjerg (F)|||||||220099
+#66|Florida Panthers|Maxwell Gildon (D)|||||||272169
+#67|Carolina Hurricanes|Morgan Geekie (F)|||||||247912
+#68|Montréal Canadiens|Scott Walford (D)|||||||258428
+#69|Arizona Coyotes|MacKenzie Entwistle (F)|||||||273678
+#70|Chicago Blackhawks|Andrei Altybarmakyan (F)|||||||313706
+#71|Detroit Red Wings|Kasper Kotkansalo (D)|||||||221328
+#72|Los Angeles Kings|Matt Villalta (G)|||||||414507
+#73|Carolina Hurricanes|Stelio Mattheos (F)|||||||201293
+#74|Winnipeg Jets|Johnathan Kovacevic (D)|||||||239820
+#75|Arizona Coyotes|Nate Schnarr (F)|||||||283248
+#76|Tampa Bay Lightning|Alexei Lipanov (F)|||||||312824
+#77|New York Islanders|Benjamin Mirageas (D)|||||||313516
+#78|Edmonton Oilers|Stuart Skinner (G)|||||||166664
+#79|Detroit Red Wings|Lane Zablocki (F)|||||||247919
+#80|Philadelphia Flyers|Kirill Ustimenko (G)|||||||326697
+#81|New Jersey Devils|Reilly Walsh (D)|||||||300597
+#82|Arizona Coyotes|Cameron Crotty (D)|||||||299556
+#83|Detroit Red Wings|Zach Gallant (F)|||||||273617
+#84|Edmonton Oilers|Dmitri Samorukov (D)|||||||312819
+#85|Minnesota Wild|Ivan Lodnia (F)|||||||201450
+#86|Columbus Blue Jackets|Daniil Tarasov (G)|||||||359971
+#87|Montréal Canadiens|Cale Fleury (D)|||||||200710
+#88|Detroit Red Wings|Keith Petruzzelli (G)|||||||278954
+#89|Buffalo Sabres|Oskari Laaksonen (D)|||||||372926
+#90|Chicago Blackhawks|Evan Barratt (F)|||||||303599
+#91|Anaheim Ducks|Jack Badini (F)|||||||229589
+#92|Nashville Predators|David Farrance (D)|||||||269310
+#93|Pittsburgh Penguins|Clayton Phillips (D)|||||||353590
+#94|Colorado Avalanche|Nick Henry (F)|||||||201705
+#95|Vancouver Canucks|Jack Rathbone (D)|||||||311766
+#96|Vegas Golden Knights|Maxim Zhukov (G)|||||||326698
+#97|Minnesota Wild|Mason Shaw (F)|||||||162926
+#98|New Jersey Devils|Nikita A. Popugayev (F)|||||||312680
+#99|Buffalo Sabres|Jacob Bryson (D)|||||||253923
+#100|Detroit Red Wings|Malte Setkov (D)|||||||265424
+#101|Dallas Stars|Liam Hawel (F)|||||||297961
+#102|San Jose Sharks|Scott Reedy (F)|||||||269301
+#103|Los Angeles Kings|Michael Anderson (D)|||||||201512
+#104|Carolina Hurricanes|Eetu Mäkiniemi (G)|||||||279023
+#105|Winnipeg Jets|Santeri Virtanen (F)|||||||283531
+#106|Philadelphia Flyers|Matthew Strome (F)|||||||268417
+#107|Philadelphia Flyers|Maxim Sushko (F)|||||||313615
+#108|Arizona Coyotes|Noel Hoefenmayer (D)|||||||201670
+#109|Calgary Flames|Adam Ruzicka (F)|||||||228366
+#110|Toronto Maple Leafs|Ian Scott (G)|||||||257786
+#111|Boston Bruins|Jeremy Swayman (G)|||||||269688
+#112|Chicago Blackhawks|Tim Söderlund (F)|||||||188028
+#113|St. Louis Blues|Alexey Toropchenko (F)|||||||312825
+#114|Colorado Avalanche|Petr Kvaca (G)|||||||189822
+#115|Edmonton Oilers|Ostap Safin (F)|||||||272770
+#116|Minnesota Wild|Bryce Misley (F)|||||||273632
+#117|Columbus Blue Jackets|Emil Bemström (F)|||||||313359
+#118|Los Angeles Kings|Markus Phillips (D)|||||||201660
+#119|Chicago Blackhawks|Roope Laavainen (D)|||||||249738
+#120|Washington Capitals|Tobias Geisser (D)|||||||274212
+#121|Ottawa Senators|Drake Batherson (F)|||||||195192
+#122|Anaheim Ducks|Kyle Olson (F)|||||||161063
+#123|New York Rangers|Brandon Crawley (D)|||||||258636
+#124|Toronto Maple Leafs|Vladislav Kara (F)|||||||322627
+#125|Colorado Avalanche|Igor Shvyryov (F)|||||||312234
+#126|Arizona Coyotes|Michael Karow (D)|||||||350368
+#127|Vegas Golden Knights|Lucas Elvenes (F)|||||||290074
+#128|Arizona Coyotes|Tyler Steenbergen (F)|||||||131215
+#129|New Jersey Devils|Gilles Senn (G)|||||||164037
+#130|St. Louis Blues|David Noël (D)|||||||284907
+#131|Detroit Red Wings|Cole Fraser (D)|||||||297963
+#132|Dallas Stars|Jacob Peterson (F)|||||||313350
+#133|Florida Panthers|Tyler Inamoto (D)|||||||201486
+#134|Los Angeles Kings|Cole Hults (D)|||||||300850
+#135|Vancouver Canucks|Kristoffer Gunnarsson (D)|||||||212814
+#136|Winnipeg Jets|Leon Gawanke (D)|||||||243313
+#137|Philadelphia Flyers|Noah Cates (F)|||||||201517
+#138|Los Angeles Kings|Drake Rymsha (F)|||||||268925
+#139|New York Islanders|Sebastian Aho (D)|1|22|1|3|4|6|67208
+#140|Calgary Flames|Zach Fischer (F)|||||||153108
+#141|Toronto Maple Leafs|Fedor Gordeev (D)|||||||273797
+#142|Vegas Golden Knights|Jack Dugan (F)|||||||345694
+#143|New Jersey Devils|Marian Studenic (F)|||||||305485
+#144|Chicago Blackhawks|Parker Foo (F)|||||||153054
+#145|New York Rangers|Calle Själin (D)|||||||266116
+#146|Edmonton Oilers|Kirill Maksimov (F)|||||||273658
+#147|Minnesota Wild|Jacob Golden (D)|||||||201654
+#148|Columbus Blue Jackets|Kale Howarth (F)|||||||131227
+#149|Montréal Canadiens|Jarret Tyszka (D)|||||||297994
+#150|Chicago Blackhawks|Jakub Galvas (D)|||||||236429
+#151|Washington Capitals|Sebastian Walfridsson (D)|||||||244393
+#152|Pittsburgh Penguins|Jan Drozg (F)|||||||265944
+#153|Anaheim Ducks|Olle Eriksson Ek (G)|||||||263668
+#154|Nashville Predators|Tomas Vomacka (G)|||||||247581
+#155|Pittsburgh Penguins|Linus Ölund (F)|||||||146700
+#156|Colorado Avalanche|Denis Smirnov (F)|||||||248278
+#157|New York Rangers|Dominik Lakatos (F)|||||||195562
+#158|Vegas Golden Knights|Nick Campoli (F)|||||||273669
+#159|San Jose Sharks|Jake McGrew (F)|||||||201452
+#160|New Jersey Devils|Aarne Talvitie (F)|||||||299098
+#161|Vegas Golden Knights|Jiri Patera (G)|||||||247398
+#162|Detroit Red Wings|John Adams (F)|||||||248398
+#163|Dallas Stars|Brett Davis (F)|||||||201702
+#164|Detroit Red Wings|Reilly Webb (D)|||||||273694
+#165|New York Islanders|Arnaud Durandeau (F)|||||||201536
+#166|Carolina Hurricanes|Brendan De Jong (D)|||||||247160
+#167|Winnipeg Jets|Arvid Holm (G)|||||||231395
+#168|Philadelphia Flyers|Olle Lycksell (F)|||||||265290
+#169|Tampa Bay Lightning|Nick Perbix (D)|||||||380612
+#170|Columbus Blue Jackets|Jonathan Davidsson (F)|||||||187862
+#171|Calgary Flames|D'Artagnan Joly (F)|||||||307537
+#172|Toronto Maple Leafs|Ryan McGregor (F)|||||||289231
+#173|Boston Bruins|Cédric Paré (F)|||||||319958
+#174|New York Rangers|Morgan Barron (F)|||||||195024
+#175|St. Louis Blues|Trenton Bourque (D)|||||||239804
+#176|Nashville Predators|Pavel Koltygin (F)|||||||273659
+#177|Edmonton Oilers|Skyler Brind'Amour (F)|||||||345585
+#178|Minnesota Wild|Andrei Svetlakov (F)|||||||168686
+#179|Columbus Blue Jackets|Carson Meyer (F)|||||||272540
+#180|Tampa Bay Lightning|Cole Guttman (F)|||||||201449
+#181|Vancouver Canucks|Petrus Palmu (F)|||||||112892
+#182|Washington Capitals|Benton Maass (D)|||||||380606
+#183|Ottawa Senators|Jordan Hollett (G)|||||||286741
+#184|Florida Panthers|Sebastian Repo (F)|||||||92192
+#185|San Jose Sharks|Alexander Chmelevski (F)|||||||201447
+#186|Pittsburgh Penguins|Antti Palojärvi (D)|||||||244216
+#187|Colorado Avalanche|Nick Leivermann (D)|||||||344081
+#188|Vancouver Canucks|Matt Brassard (D)|||||||268659
+#189|Vegas Golden Knights|Ben Jones (F)|||||||273677
+#190|Arizona Coyotes|Erik Walli Walterholm (F)|||||||246501
+#191|New Jersey Devils|Jocktan Chainey (D)|||||||267626
+#192|Buffalo Sabres|Linus Weissbach (F)|||||||230472
+#193|Detroit Red Wings|Brady Gilmour (F)|||||||297674
+#194|Dallas Stars|Dylan Ferguson (G)|1|1|-|-|-|-|247471
+#195|Boston Bruins|Victor Berglund (D)|||||||287706
+#196|Philadelphia Flyers|Wyatt Kalynuk (D)|||||||196651
+#197|Carolina Hurricanes|Ville Räsänen (D)|||||||314467
+#198|Winnipeg Jets|Skyler McKenzie (F)|||||||166653
+#199|Montréal Canadiens|Cayden Primeau (G)|||||||256228
+#200|Tampa Bay Lightning|Samuel Walker (F)|||||||300078
+#201|New York Islanders|Logan Cockerill (F)|||||||273963
+#202|Calgary Flames|Filip Sveningsson (F)|||||||244859
+#203|Toronto Maple Leafs|Ryan O'Connell (D)|||||||286946
+#204|Boston Bruins|Daniel Bukac (D)|||||||247222
+#205|New Jersey Devils|Yegor Zaitsev (D)|||||||312209
+#206|St. Louis Blues|Anton Andersson (D)|||||||316531
+#207|New York Rangers|Patrik Virta (F)|||||||98096
+#208|Edmonton Oilers|Philip Kemp (D)|||||||311901
+#209|Minnesota Wild|Nick Swaney (F)|||||||274245
+#210|Columbus Blue Jackets|Robbie Stucker (D)|||||||300993
+#211|Winnipeg Jets|Croix Evingson (D)|||||||269704
+#212|San Jose Sharks|Ivan Chekhovich (F)|||||||333786
+#213|Washington Capitals|Kristian Røykås Marthinsen (F)|||||||297223
+#214|New Jersey Devils|Matthew Hellickson (D)|||||||247916
+#215|Chicago Blackhawks|Joshua Ess (D)|||||||312022
+#216|Nashville Predators|Jacob Paquette (D)|||||||297973
+#217|Pittsburgh Penguins|William Reilly (D)|||||||250209
